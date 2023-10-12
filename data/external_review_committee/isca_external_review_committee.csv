@@ -1,0 +1,649 @@
+Aditya Agrawal,NVIDIA
+Junwhan Ahn,Google
+Geoffrey Burr,IBM Research
+Hadi Esmaeilzadeh,University of California - San Diego
+Zhenman Fang,UCLA / SFU
+Rajiv Gupta,UC Riverside
+Seonyeong Heo,POSTECH
+Jen-Cheng Huang,Georgia Tech
+Paolo Ienne,EPFL
+KH Kim,IBM Research
+James Laudon,Google
+Chao Li,Shanghai Jiao Tong University
+Tao Li,University of Florida
+Jason Lowe-Power,UC Davis
+Daniel Lustig,NVIDIA
+Kunle Olukotun,Stanford
+Binh Pham,Intel
+Daniel Prener,IBM Research
+Norman Rubin,Northeastern University
+Hardik Sharma,Georgia Institute of Technology
+Alex Solomatnikov,SiFive Inc.
+Steven Swanson,UC San Diego
+Dave Wecker,Microsoft Hardware Systems Group
+Wenyao Xu,SUNY Buffalo
+Siavash Zangeneh,University of Texas - Austin
+Yuanyuan Zhou,UC San Diego
+Jeongseob Ahn,Ajou
+Eric Borch,Intel
+Chiachen Chou,Georgia Tech
+Ali Fakrgenzadeh,University of Texas - Austin
+Phillip Gibbons,CMU
+Faruk Guvinilir,University of Texas - Austin
+Mark A Horowitz,Stanford University
+Robert Hundt,Google
+Joon Kyung Kim,University of California - San Diego
+Djordje Jevdjic,National University of Singapore
+Joo Hwan Lee,Samsung
+Shuangchen Li ,University of California - Santa Barbara
+Ben Lin,University of Texas - Austin
+Shih-Lien Lu,TSMC / Oregon State University
+Yunho Oh,Yonsei University
+Leeor Peled,Technion/Intel
+Javier Picorel,Huawei
+Stephen Pruett,University of Texas - Austin
+Vasili Semenov,Stonybrook University
+Jaewoong Sim,Intel Labs
+Lavanya Subramanian,Facebook
+Dmitrii Ustiugov,EPFL
+Emmett Witchel,University of Texas - Austin
+Amir Yazdanbakhsh,Google
+Hongzhong Zheng,Samsung Semiconductor
+Nael Abu-Ghazaleh,UC Riverside
+Almutaz Adileh,Huawei
+Shoaib Akram,ANU
+Alaa Alameldeen,Intel
+Murali Annavaram,USC
+Rachata Ausavarungnirun,KMUTNB
+Amro Awad,UCF
+Mario Badr,Toronto
+Jonathan Balkind,Princeton
+Arka Basu,IISc
+Chris Batten,Cornell
+Scott Beamer,UC Santa Cruz
+Brad Beckmann,AMD
+Koen Bertels,TU Delft
+Ricardo Bianchini,Microsoft
+David Black-Schaffer,Uppsala
+Trey Cain,Marvell
+Ramon Canal,UPC
+John Carter,IBM
+Haibo Chen,Shanghai Jiao Tong
+Lizhong Chen,Oregon State
+Yunji Chen,ICT
+Derek Chiou,MicrosoftUT Austin
+Sangyeun Cho,Samsung
+Frederic Chong,Chicago
+Esha Choukse,Microsoft
+Jason Clemons,NVIDIA
+Caroline Collange,INRIA
+Alexandros Daglis,GATech
+Chita Das,Penn State
+Christina Delimitrou,Cornell
+Joe Devietti,UPenn
+Sandhya Dwarkadas,Rochester
+Eiman Ebrahimi,NVIDIA
+Yasuko Eckert,AMD
+Stijn Eyerman,Intel
+Paolo Faraboschi,HP
+Josue Feliu,UPV
+Mike Ferdman,Stony Brook
+Jayesh Gaur,Intel
+Saugata Ghose,CMU
+Dimitris Gizopoulos,University of Athens
+Vaibhav Gogte,Michigan
+Dibakar Gope,Arm Research
+Bhargava Gopireddy,NVIDIA
+Paul Gratz,TAMU
+Boris Grot,Edinburgh
+Sudhanva Gurumurthi,AMDVirginia
+Nikos Hardavellas,Northwestern
+Wim Heirman,Intel
+Mark Hempstead,Tufts
+Andrew Hilton,Duke
+Mark Hill,Wisconsin
+James Hoe,CMU
+Yang Hu,UT Dallas
+Yu Hua,HUST
+Yipeng Huang,Princeton
+Jian Huang,UIUC
+Koji Inoue,Kyushu
+Engin Ipek,Rochester
+Ravi Iyer,Intel
+Akanksha Jain,UT Austin
+Xun Jian,Virginia Tech
+Jose Joao,Arm Research
+Adwait Jog,William & Mary
+Timothy Jones,Cambridge
+Russ Joseph,Northwestern
+Norm Jouppi,Google
+Steve Keckler,NVIDIA
+Samira Khan,Virginia
+Omer Khan,Connecticut
+Daehyun Kim,Samsung
+Jagadish Kotra,AMD Research
+Rakesh Kumar,NTNU
+Benjamin Lee,Duke
+Jae W. Lee,SNU
+Ruby Lee,Princeton
+Ang Li,Pacific Northwest
+Chao Li,Shanghai Jiao Tong
+Yanjing Li,Chicago
+Mikko Lipasti,Wisconsin
+Qiuyun Llull,Google
+Pejman Lotfi-Kamran,IPM
+Jason Lowe-Power,UC Davis
+Shih-Lien Lu,TSMC
+Brandon Lucia,CMU
+Andrew Lukefahr,Indiana
+Dmitri Maslov,IBM
+Martin Maas,Google
+Srilatha Manne,Microsoft
+Gokhan Memik,Northwestern
+Pierre Michaud,INRIA
+Simon Moore,Cambridge
+Abdullah Muzahid,Texas A&M
+Prashant Nair,UBC
+Ravi Nair,IBM Research
+Vijaykrishnan Narayanan,Penn State
+Satish Narayanasamy,Michigan
+Nikos Nikoleris,Arm Research
+Emre Ozer,Arm
+Angshuman Parashar,NVIDIA
+Li-Shiuan Peh,NUS
+Gennady Pekhimenko,Toronto
+Michael Pellauer,NVIDIA
+Arthur Perais,Microsoft
+Timothy Pinkston,USC
+Dionisios Pnevmatikatos,FORTHTU Crete
+Dmitry Ponomarev,Binghamton
+Xuehai Qian,USC
+Brandon Reagen,Facebook
+Steve Reinhardt,Microsoft
+Won Woo Ro,Yonsei
+Tim Rogers,Purdue
+Eric Rotenberg,NC State
+Adrian Sampson,Cornell
+Daniel Sanchez,MIT
+Karu Sankaralingam,Wisconsin
+John Sartori,Minnesota
+Yanos Sazeides,Cyprus
+Vivek Seshadri,Microsoft Research
+James Smith,Wisconsin
+Yan Solihin,UCF
+Shuaiwen Song,University of Sydney
+Niranjan Soundararajan,Intel
+Shreesha Srinath,Esperanto
+Per Stenstrom,Chalmers
+Jeff Stuecheli,IBM
+Lavanya Subramanian,Facebook
+Xulong Tang,Pittsburgh
+Swamit Tannu,GATech
+Radu Teodorescu,Ohio State
+Mohit Tiwari,UTAustin
+Josep Torrellas,UIUC
+Hung-Wei Tseng,UC Riverside
+James Tuck,NC State
+Georgios Tziantzioulis,Princeton
+Guru Vankataramani,GWU
+Dana Vantrease,Amazon
+Paul Whatmough,Arm Research
+Lisa Wu,Duke
+Jun Yang,Pittsburgh
+Chia-Lin Yang,National Taiwan University
+Vinson Young,Microsoft
+Zhibin Yu,SIAT
+Xia Zhao,NUDT
+Huiyang Zhou,NC State
+Nael Abu-Ghazaleh,UC Riverside
+Shaizeen Aga,AMD Research
+Jung Ho Ahn,SNU
+Shoaib Akram,ANU
+Murali Annavaram,USC
+Rachata Ausavarungnirun,KMUTNB
+Amro Awad,UCF
+Mario Badr,Toronto
+Yungang Bao,ICT
+Robert Bell,Samsung
+Ricardo Bianchini,Microsoft
+David Black-Schaffer,Uppsala
+Mauricio Breternitz,Lisbon
+Martin Burtscher,Texas State
+Trey Cain,Marvell
+Trevor E. Carlson,NUS
+Eric Chung,Microsoft
+Caroline Collange,INRIA
+Alexandros Daglis,Georgia Tech
+Ganesh Dasika,AMD
+Christina Delimitrou,Cornell
+Yasuko Eckert,AMD
+Wendy Elsasser,Arm
+Zhenman Fang,Simon Fraser
+Paolo Faraboschi,HP
+Josue Feliu,UPV
+Christopher Fletcher,UIUC
+Jayesh Gaur,Intel
+Andreas Gerstlauer,UT Austin
+Dibakar Gope,Arm Research
+Paul Gratz,TAMU
+Brian Grayson,SiFive
+Nikos Hardavellas,Northwestern
+Wim Heirman,Intel
+Mark Hempstead,Tufts
+Kei Hiraki,Preferred Networks
+Peter Hofstee,IBM
+Rui Hou,ICT
+Michael Huang,Rochester
+Clayton Hughes,Sandia
+Mohsen Imani,UC Irvine
+Magnus Jahre,NTNU
+Aamer Jaleel,NVIDIA
+Ali Javadi-Abhari,IBM
+Hyeran Jeon,UC Merced
+Xun Jian,Virginia Tech
+Daniel Jiménez,Texas A&M
+Eugene John,UT San Antonio
+Norm Jouppi,Google
+David Kaeli,Northeastern
+Mahmut Kandemir,Penn State
+Ulya Karpuzcu,Minnesota
+Baris Kasikci,Michigan
+Krishna Kavi,UNT
+Omer Khan,Connecticut
+Hyesoon Kim,Georgia Tech
+Jangwoo Kim,SNU
+Jagadish Kotra,AMD Research
+Rakesh Kumar,UIUC
+Rakesh Kumar,NTNU
+Hyoukjun Kwon,Facebook
+Michael LeBeane,Qualcomm
+Jae W. Lee,SNU
+Ruby Lee,Princeton
+Charles Lefurgy,IBM
+Tamara Lehman,Colorado
+Ang Li,Pacific Northwest
+Yanjing Li,Chicago
+Calvin Lin,UT Austin
+Lei Liu,ICT
+Xu Liu,NC State
+Qiuyun Llull,Google
+Pejman Lotfi-Kamran,IPM
+Ahmed Louri,GWU
+Jason Lowe-Power,UC Davis
+Andrew Lukefahr,Indiana
+Daniel Lustig,NVIDIA
+Srilatha Manne,Microsoft
+Andreas Moshovos,Toronto
+Abdullah Muzahid,TAMU
+Vijayanand Nagarajan,Edinburgh
+Hoda Naghibijouybari,Binghamton
+Ravi Nair,IBM Research
+Krishnakumar Nair,Facebook
+Satish Narayanasamy,Michigan
+Krishnendra Nathella,Arm
+Nikos Nikoleris,ARM Research
+Tony Nowatzki,UCLA
+Lena Olson,Google
+Kunle Olukotun,Stanford
+Soner Onder,Michigan Tech
+Michael Papamichael,Microsoft
+Indrani Paul,AMD
+Li-Shiuan Peh,NUS
+Gennady Pekhimenko,Toronto
+Michael Pellauer,NVIDIA
+Arthur Perais,Grenoble
+Dionisios Pnevmatikatos,FORTHTU Crete
+Dmitry Ponomarev,Binghamton
+Viktor Prasanna,USC
+Ramesh Radhakrishnan,Dell
+Priyanka Raina,Stanford
+Prakash Ramrakhyani,Arm
+Gokul Subramanian Ravi,WisconsinChicago
+Brandon Reagen,NYU
+Xiaowei Ren,UBC
+Minsoo Rhu,KAIST
+Tim Rogers,Purdue
+Alberto Ros,Murcia
+Joshua San Miguel,Wisconsin
+Daniel Sanchez,MIT
+Karu Sankaralingam,Wisconsin
+Nader Sehatbakhsh,UCLA
+Resit Sendag,Rhode Island
+Vivek Seshadri,Microsoft Research
+Emily Shriver,Intel
+Cristina Silvano,Politechnico Milano
+Matthew Sinclair,WisconsinAMD Research
+Shuang Song,Facebook
+Daniel Sorin,Duke
+Niranjan Soundararajan,Intel
+Vilas Sridharan,AMD
+Nitish Srivastava,Google
+Sreenivas Subramoney,Intel
+Bronis Supinski,LLNL
+Jakub Szefer,Yale
+Mohit Tiwari,UT Austin
+Pedro Transcoso,Chalmers
+Hung-Wei Tseng,UC Riverside
+James Tuck,NC State
+Dean Tullsen,UCSD
+Georgios Tziantzioulis,Princeton
+Guru Vankataramani,GWU
+Rujia Wang,Illinois Tech
+Jing Wang,CNU
+Jiajun Wang,Google
+Paul Whatmough,Arm Research
+Gu-Yeon Wei,Harvard
+Mengjia Yan,MIT
+Antonia Zhai,Minnesota
+Jianfeng Zhan,ICT
+Lixin Zhang,ICT
+Sandeep Agrawal,Oracle
+Jung Ho Ahn,Seoul National University
+Sam Ainsworth,University of Edinburgh
+Shoaib Akram,Australian National University
+Ismail Akturk,Ozyegin University
+Erik Altman,IBM Research
+Hari Angepat,UT-Austin
+Rachata Ausavarungnirun,King Mongkut's University of Technology North Bangkok
+Anys Bacha,University of Michigan
+Anirudh Badam,Microsoft
+Mario Badr,University of Toronto
+Rangeen Basu Roy Chowdhury,Intel Corporation
+Scott Beamer,UC Santa Cruz
+Robert Bell,Samsung
+David Black-Schaffer,Uppsala University
+Mahdi Bojnordi,University of Utah
+Evgeny Bolotin,NVIDIA
+Mauricio Breternitz,ISCTE-IUL Instituto Universitario de Lisboa
+Martin Burtscher,Texas State University
+Ramon Canal,Universitat Politècnica de Catalunya (UPC)
+Niladrish Chatterjee,NVIDIA
+Mainak Chaudhuri,IIT Kanpur
+Yiran Chen,Duke University
+Yu-Hsin Chen,Facebook
+Liqun Cheng,Google
+Hari Cherupalli,Synopsys
+Zeshan Chishti,Intel Corporation
+Jason Clemons,NVIDIA
+Caroline Collange,"Inria, Univ Rennes, CNRS, IRISA"
+Guilherme Cox,NVIDIA
+Huimin Cui,ICTCAS
+Deeksha Dangwal,UC Santa Barbara
+Poulami Das,Georgia Tech
+Christina Delimitrou,Cornell University
+Christian DeLozier,US Naval Academy
+Marco Donato,Tufts University
+Bryan Donyanavard,San Diego State University
+Lide Duan,Alibaba Group
+Henry Duwe,Iowa State University
+Lieven Eeckhout,Ghent University
+Ahmed ElTantawy,AMD
+Dmitry Evtyushkin,William & Mary
+Stijn Eyerman,Intel
+Zhenman Fang,Simon Fraser University
+Paolo Faraboschi,HPE
+Xin Fu,University of Houston
+Freddy Gabbay,Ruppin Academic Center
+Shrikanth Ganapathy,Early Stage Company in Stealth
+Jayneel Gandhi,VMware Research
+Mingyu Gao,Tsinghua University
+Elba Garza,Texas A&M University
+Jayesh Gaur,Intel
+Saugata Ghose,University of Illinois Urbana-Champaign
+Dimitris Gizopoulos,University of Athens
+Dibakar Gope,Arm Research
+Ayub A. Gubran,Google
+Xiaochen Guo,Lehigh University
+Sudhanva Gurumurthi,AMD
+Tony Gutierrez,AMD Research
+Ramyad Hadidi,SK hynix
+Siva Kumar Sastry Hari,NVIDIA Corporation
+Kartik Hegde,UIUC
+Alexander Heinecke,Intel Corporation
+Wim Heirman,Intel Corporation
+Andrew D. Hilton,Duke University
+Kei Hiraki,Preferred Networks
+Reza Hojabr,Untether AI
+Nima Honarmand,Independent Consultant
+Rui Hou,"Institute of Information Engineering, Chinese Academy of Sciences"
+Xing Hu,"Chinese Academy of Sciences, Institute of Computing Technology"
+Yang Hu,University of Florida
+Yu Hua,Huazhong University of Science and Technology
+Jian Huang,UIUC
+Michael Huang,University of Rochester
+Yipeng Huang,Rutgers University
+Ziqiang Huang,University of Waterloo
+Christopher Hughes,Intel
+Clayton Hughes,Sandia National Laboratories
+Jaehyuk Huh,KAIST
+Wen-mei W. Hwu,NVIDIA Research
+Mohsen Imani,University of California Irvine
+Magnus Jahre,Norwegian University of Science and Technology
+Aamer Jaleel,NVIDIA
+Mark Jeffrey,University of Toronto
+Hyeran Jeon,"University of California, Merced"
+Lei Jiang,Indiana University Bloomington
+Daniel Johnson,NVIDIA
+Alex K. Jones,University of Pittsburgh
+Ajay Joshi,Boston University
+Norm Jouppi,Google
+Changhee Jung,Purdue University
+Myoungsoo Jung,KAIST
+John Kalamatianos,AMD Research
+Svilen Kanev,Google
+Yiping Kang,University of Michigan
+Onur Kayiran,AMD Research
+Mikhail Kazdagli,Symmetry Systems
+Eun Kim,Texas A&M
+Gwangsun Kim,POSTECH
+Hun-Seok Kim,University of Michigan
+Jangwoo Kim,Seoul National University
+Jungrae Kim,Sungkyunkwan University
+Vamsee Reddy Kommareddy,Advanced Micro Devices (AMD)
+Jagadish Kotra,AMD Research
+Neeraj Kulkarni,Microsoft
+Hyoukjun Kwon,Facebook
+Michael LeBeane,Qualcomm
+Dongyoon Lee,Stony Brook University
+Jae W. Lee,Seoul National University
+Jingwen Leng,Shanghai Jiao Tong University
+Ang Li,Pacific Northwest National Laboratory
+Chao Li,Shanghai Jiao Tong University
+Gushu Li,"University of California, Santa Barbara"
+Jian Li,Futurewei Technologies (Huawei subsidiary in USA)
+Xiaoyao Liang,Shanghai Jiao Tong University
+Mieszko Lis,University of British Columbia (UBC)
+Heiner Litz,"University of California, Santa Cruz"
+Liu Liu,"University of California, Santa Barbara"
+Sihang Liu,University of Virginia
+Xu Liu,North Carolina State University
+David Lo,Google
+Pejman Lotfi-Kamran,Institute for Research in Fundamental Sciences (IPM)
+Ahmed Louri,George Washington University
+Shih-Lien Lu,Warner Pacific University
+Andrew Lukefahr,Indiana University
+Divya Mahajan,Microsoft
+Samira Mirbagher-Ajorpaz,Texas A&M University
+Asit Mishra,Apple
+Simon Moore,University of Cambridge
+Miquel Moreto,Barcelona Supercomputing Center
+Todd Mowry,CMU
+Prakash Murali,Princeton
+Naveen Muralimanohar,Google
+Onur Mutlu,ETH Zurich
+Hoda Naghibijouybari,Binghamton University
+Prashant J. Nair,University of British Columbia
+Vijaykrishnan Narayanan,The Pennsylvania State University
+Tony Nowatzki,"University of California, Los Angeles"
+Mike O'Connor,NVIDIA
+Moriyoshi Ohara,IBM Research
+Soner Onder,Michigan Technological University
+Biswabandan Panda,IIT Bombay
+Michael Papamichael,Microsoft
+Tirthak Patel,Northeastern University
+Ashutosh Pattnaik,Arm
+Leeor Peled,Huawei
+Michael Pellauer,Nvidia
+Lu Peng,Louisiana State University
+Arthur Perais,Centre National de la Recherche Scientifique
+Dionisios Pnevmatikatos,National Technical University of Athens & FORTH
+Dmitry Ponomarev,Binghamton University
+Raghavendra Pradyumna Pothukuchi,Yale University
+Raghu Prabhakar,Stealth
+Sooraj Puthoor,"AMD, University of Wisconsin-Madison"
+Andrew Putnam,Microsoft
+Ramesh Radhakrishnan,VMWare
+Priyanka Raina,Stanford University
+Partha Ranganathan,Google
+Bin Ren,William & Mary
+Xiaowei Ren,NVIDIA
+Minsoo Rhu,KAIST
+Scott Rixner,Rice University
+Won Woo Ro,Yonsei University
+Timothy Rogers,Purdue University
+Alberto Ros,University of Murcia
+Carlos Rozas,Intel
+Gururaj Saileshwar,Georgia Institute of Technology
+Hiroshi Sasaki,Tokyo Institute of Technology
+Nader Sehatbakhsh,UCLA
+Resit Sendag,University of Rhode Island
+Vivek Seshadri,Microsoft Research India
+Amirali Sharifian,Cerebras Systems
+Xipeng Shen,North Carolina State University and Facebook
+Seunghee Shin,The State University of New York at Binghamton
+Ryota Shioya,The University of Tokyo
+Jaewoong Sim,Seoul National University
+James Smith,none
+Shuaiwen Leon Song,University of Sydney
+Ioannis Sourdis,Chalmers University of Technology
+Vilas Sridharan,AMD
+Sriseshan Srikanth,AMD Research
+Nitish Srivastava,Google
+Phillip Stanley-Marbell,Cambridge
+Lavanya Subramanian,Intel
+Sreenivas Subramoney,Intel Labs
+Michael Sullivan,NVIDIA
+Guangyu Sun,Peking University
+Karthik Swaminathan,IBM Research
+Nishil Talati,University of Michigan
+Radu Teodorescu,The Ohio State University
+Elvira Teran,Texas A&M International University
+Christopher Torng,Stanford University
+Po-An Tsai,NVIDIA
+James Tuck,North Carolina State University
+Georgios Tziantzioulis,Princeton University
+Thomas Unterluggauer,Intel Labs
+Kaushik Vaidyanathan,Google
+Radha Venkatagiri,Intel
+Swagath Venkataramani,IBM Corporation
+Rangharajan Venkatesan,NVIDIA
+Rujia Wang,Illinois Institute of Technology
+Uri Weiser,Technion
+Daniel Wong,"University of California, Riverside"
+Bo Wu,Colorado School of Mines
+Sotirios Xydis,"Harokopio University of Athens, Greece"
+Zi Yan,NVIDIA
+Chia-Lin Yang,National Taiwan University
+Jun Yang,University of Pittsburgh
+Fan Yao,University of Central Florida
+Leonid Yavits,Bar Ilan University
+Jieming Yin,Lehigh University
+Shouyi Yin,Tsinghua University
+Jeffrey Young,Georgia Institute of Technology
+Zhibin Yu,"Shenzhen Institutes of Advanced Technology(SIAT), Chinese Academy of Science(CAS)"
+Mohamed Zahran,New York University
+Jianfeng Zhan,"Institute of Computing Technology, Chinese Academy of Sciences"
+Mingzhe Zhang,"Institute of Computing Technology, Chinese Academy of Sciences"
+Tianwei Zhang,Nanyang Technological University
+Xuan Zhang,Washington University in St. Louis
+Zhengya Zhang,"University of Michigan, Ann Arbor"
+Xia Zhao,NUDT
+Huiyang Zhou,North Carolina State University
+Mohammad Alian,University of Kansas
+Erik Altman,IBM
+Amro Awad,North Carolina State University
+Rajeev Balasubramonian,University of Utah
+Jonathan Balkind,UC Santa Barbara
+Yungang Bao,ICT/CAS
+Sergey Blagodurov,AMD
+Martin Burtscher,Texas State University
+Ramon Canal,Universitat Politècnica de Catalunya
+Ying Chen,Nvidia
+Yu-Hsin Chen,Meta
+Guilherme Cox,NVIDIA
+Alexandros Daglis,Georgia Tech
+Christina Delimitrou,MIT
+Yongshan Ding,Yale University
+Ronald Dreslinski,University of Michigan
+Zidong Du,"Institute of Computing Technology, Chinese Academy of Sciences"
+Mattan Erez,UT Austin
+Stijn Eyerman,Intel
+Babak Falsafi,EPFL
+Zhenman Fang,Simon Fraser University
+Paolo Faraboschi,HPE
+Josue Feliu,Universidad de Murcia
+Jayesh Gaur,Intel Labs
+Rajiv Gupta,University of California Riverside
+Anthony Gutierrez,AMD Research
+Nikos Hardavellas,Northwestern University
+Jian Huang,University of Illinois at Urbana-Champaign
+Christopher Hughes,Intel
+Mohsen Imani,University of California Irvine
+Jose Joao,Arm
+Russ Joseph,Northwestern University
+Onur Kayiran,AMD Research
+Omer Khan,University of Connecticut
+Youngsok Kim,Yonsei University
+Hanjun Kim,Yonsei University
+Jagadish Kotra,AMD Research
+Christos Kozyrakis,Stanford University
+Rakesh Kumar,UIUC
+Seyong Lee,Oak Ridge National Laboratory
+Jaejin Lee,Seoul National University
+Tamara Lehman,University of Colorado Boulder
+Ang Li,Pacific Northwest National Laboratory
+Mieszko Lis,University of British Columbia
+Heiner Litz,UC Santa Cruz
+Scott Mahlke,"University of Michigan, Nvidia Research"
+Andreas Moshovos,Univ of Toronto
+Trevor Mudge,University of Michigan
+Abdullah Muzahid,Texas A&M University
+Vijaykrishnan Narayanan,The Pennsylvania State University
+Satish Narayanasamy,University of Michigan - Ann Arbor
+Michael O'Boyle,University of Edinburgh
+Chang Hyun Park,Uppsala University
+Tirthak Patel,Rice University
+Lillian Pentecost,Amherst College
+Raghavendra Pradyumna Pothukuchi,Yale University
+Andrew Putnam,Microsoft
+Gokul Subramanian Ravi,University of Chicago
+Steve Reinhardt,Microsoft
+Minsoo Rhu,KAIST / Meta
+Scott Rixner,Rice University
+Elaheh Sadredini,UC Riverside
+Ananda Samajdar,IBM Research
+John (Jack) Sampson,Pennsylvania State University
+John Sartori,University of Minnesota
+Yiannakis Sazeides,University of Cyprus
+Xipeng Shen,North Carolina State University
+Timothy Sherwood,UC Santa Barbara
+Kate Smith,University of Chicago
+William Song,Yonsei University
+Daniel Sorin,Duke University
+Karin Strauss,Microsoft
+Suvinay Subramanian,Google
+Edward Suh,Cornell University / Meta
+Hyojin Sung,POSTECH
+Karthik Swaminathan,IBM Research
+Jakub Szefer,Yale University
+Xulong Tang,University of Pittsburgh
+Mohammadkazem Taram,Purdue University
+Radu Teodorescu,The Ohio State University
+Po-An Tsai,NVIDIA
+Osman Sabri Ünsal,Barcelona Supercomputinng Center
+Guru Venkataramani,George Washington University
+Wenjie Xiong,Virginia Tech
+Jieming Yin,Nanjing University of Posts and Telecommunications
+Cliff Young,Google
+Jishen Zhao,UCSD
+Yuhao Zhu,University of Rochester

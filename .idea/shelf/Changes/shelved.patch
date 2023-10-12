@@ -1,0 +1,140 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1693841648127)
++++ b/.idea/misc.xml	(date 1693841648127)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (neo4j-co-authorship)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1693841648129)
++++ b/.idea/vcs.xml	(date 1693841648129)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1693841648133)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1693841648133)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1693841648223)
++++ b/.idea/.gitignore	(date 1693841648223)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
+Index: deleted.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/deleted.csv b/deleted.csv
+new file mode 100644
+--- /dev/null	(date 1693608814093)
++++ b/deleted.csv	(date 1693608814093)
+@@ -0,0 +1,24 @@
++André Seznec,[INRIA], 20
++Chris Fletcher,[UIUC], 48
++Dan Lustig,[NVIDIA], 61
++Lizy K. John,[UT Austin], 167
++Lizy Kurian John,[UT Austin], 168
++Lisa Wu,"[Duke, Berkeley]", 164
++Partha Ranganathan,[Google], 212
++Paul Gratz,[Texas A&M University], 214
++R Govindarajan,"[Indian Institute of Science, Bangalore, India]", 223
++Radu Teodorescu, 226
++Seda Memik,[Northwestern], 250
++Shuaiwen Song,[Univ. of Sydney], 256
++Sophia Shao,"[Berkeley, NVIDIA, UC Berkeley]", 261
++T. N. Vijaykumar, 275
++Tim Sherwood,[UC Santa Barbara], 282
++
++
++
++
++
++
++
++
++
+Index: .idea/neo4j-co-authorship.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/neo4j-co-authorship.iml b/.idea/neo4j-co-authorship.iml
+new file mode 100644
+--- /dev/null	(date 1693841648124)
++++ b/.idea/neo4j-co-authorship.iml	(date 1693841648124)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/venv" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++  <component name="PyDocumentationSettings">
++    <option name="format" value="PLAIN" />
++    <option name="myDocStringFormat" value="Plain" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1693841648126)
++++ b/.idea/modules.xml	(date 1693841648126)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/neo4j-co-authorship.iml" filepath="$PROJECT_DIR$/.idea/neo4j-co-authorship.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
