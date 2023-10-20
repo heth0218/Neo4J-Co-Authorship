@@ -623,13 +623,13 @@ def read_data_file():
 
 def create_author_from_csv(db):
     print("[INFO]: Seeding authors into database...")
-    df = pd.read_csv('data/program_committee/isca_program_committee.csv', names=['name', 'affiliation'], quotechar='"',
+    df = pd.read_csv('data/PC.csv', names=['name', 'affiliation'], quotechar='"',
                      encoding="utf-8")
     with db.session(database=DB) as session:
         for index, row in df.iterrows():
             affiliation_list = row['affiliation'].strip('][').split(', ')
             author_details = {
-                'aid': index,
+                'aid': index+955,
                 'name': row['name'],
                 'affiliations': affiliation_list
             }
@@ -771,7 +771,7 @@ def search_authors_in_dblp(db):
                 "Guo", "Dong", "Yao", "Tang", "Zhong", "Yao", "Gu", "Xue", "Zhao", "Yang",
                 "Chen", "Lin", "Huang", "Chang", "Lee", "Wang", "Wu", "Liu", "Tsai", "Yang",
                 "Hsu", "Cheng", "Hsieh", "Kuo", "Liang", "Chung", "Hung", "Chiu", "Lai", "Ruan", "Ng", "Hua",
-                "Kim"
+                "Kim", "Wen"
             ]:
                 try:
                     resp = requests.get(
@@ -811,7 +811,7 @@ def search_authors_in_dblp(db):
                 res = session.execute_read(get_author_by_name, a_name=author_nam)
                 res = res.data()['a']
                 # print(res)
-                if res['dblp_id'] != author_details['pid']:
+                if res.get('dblp_id') and res['dblp_id'] != author_details['pid']:
                     print(
                         f"Author details changes for {author_nam} and old dblp_id being {res['dblp_id']} and new one being {author_details['pid']}")
                     change_author_details.append({

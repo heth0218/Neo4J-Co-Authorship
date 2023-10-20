@@ -293,10 +293,17 @@ def get_creators(tx):
 
 def get_wrong_dblp_authors(tx):
   res = tx.run(
-    """
-      MATCH (n:Author)
-      RETURN n
-    """
+    # """
+    #   MATCH (n:Author)
+    #   WHERE n.aid>955
+    #   RETURN n
+    # """
+
+
+  """
+MATCH (n:Author) where n.dblp_id is NULL RETURN n;
+"""
+
     # """
     # MATCH (n:Author)
     # WHERE NOT (n:Author)-[:coauthored_with]->(:Author)

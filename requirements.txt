@@ -6,3 +6,5 @@ pandas
 bs4
 lxml
 uuid
+xmltodict
+aiohttp

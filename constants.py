@@ -1,4 +1,4 @@
-URI="neo4j+s://bf8bca60.databases.neo4j.io"
+URI="neo4j+ssc://bf8bca60.databases.neo4j.io"
 USER="neo4j"
 PASSWORD="p0AkvV5qwCtJlm0vHTbihTVlfFiP0TMY0ad4o616B8o"
 DB="neo4j"
