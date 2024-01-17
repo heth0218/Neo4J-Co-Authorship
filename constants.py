@@ -1,6 +1,6 @@
-URI="neo4j+ssc://bf8bca60.databases.neo4j.io"
+URI="neo4j+ssc://0d5c1556.databases.neo4j.io"
 USER="neo4j"
-PASSWORD="p0AkvV5qwCtJlm0vHTbihTVlfFiP0TMY0ad4o616B8o"
+PASSWORD="JTHl7H6HoYFpHn_wBKnxdJbheuNyt4DHcXKsMWNOr3U"
 DB="neo4j"
 url_2023="https://www.iscaconf.org/isca2023/committees/pc.php"
 url_2022="https://www.iscaconf.org/isca2022/committees/pc.php"

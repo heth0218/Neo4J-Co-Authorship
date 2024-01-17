@@ -30,7 +30,8 @@ from db import (
     make_squared_relation, get_wrong_matched_dblp_authors,
     make_creator, get_creators, update_creator_dblp_info_by_id, get_all_creators, get_creator_by_dblp_id,
     make_creator_relation, make_squared_relation_for_creator, calculate_squared_relations_creators,
-    get_wrong_dblp_authors
+    get_wrong_dblp_authors, get_all_authors_temp, get_max_aid, make_author_mutable, update_author_dblp_info_by_name,
+    get_unconnected_people
 )
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -68,6 +69,33 @@ def call_author_api(author_name: str):
     data = resp.json()
     return data
 
+
+architecture_journals = ('ISCA', 'IEEE MICRO', 'HPCA',
+                         'Architectural support for languages and operating systems',
+                         'ASPLOS',
+                         'International Symposium on Computer Architecture',
+                         'Symposium on Microprocessor Architectures')
+
+information_journal = (
+    'SIGIR',
+    'CIKM'
+)
+
+natural_language_processing =(
+    'ACL',
+    'EMNLP'
+)
+
+human_computer_interaction= (
+    'CHI'
+)
+
+programming_language = (
+    'PLDI',
+    'POPL',
+    'OOPSLA',
+    'ICFP'
+)
 
 def get_author_detail_full_iteration(hits: list, disambiguated_authors: set[str]):
     author_info = None
@@ -143,16 +171,13 @@ def get_author_detail_full_iteration(hits: list, disambiguated_authors: set[str]
                                 x['inproceedings']['journal']
                         elif x.get('proceedings'):
                             journal = x['proceedings']['booktitle'] if x['proceedings'].get('booktitle') else \
-                                x['proceedings']['journal']
+                                x['proceedings']['publisher']
                         elif x.get('incollection'):
                             journal = x['incollection']['booktitle'] if x['incollection'].get('booktitle') else \
                                 x['incollection']['journal']
 
-                        if journal in ('ISCA', 'IEEE MICRO', 'HPCA',
-                                       'Architectural support for languages and operating systems',
-                                       'ASPLOS',
-                                       'International Symposium on Computer Architecture',
-                                       'Symposium on Microprocessor Architectures'):
+                        # if journal in information_journal:
+                        if contains_substring(journal, programming_language):
                             author_info = author.get("info")
                             if freq_dict.get(id):
                                 freq_dict[id] = {'author_info': author_info,
@@ -223,7 +248,6 @@ def get_author_detail_full_iteration(hits: list, disambiguated_authors: set[str]
                 aliases.append(i)
         author_details["aliases"] = aliases
     return author_details
-
 
 def get_author_details(hits: list, disambiguated_authors: set[str]):
     author_info = None
@@ -366,7 +390,6 @@ def parse_coauthors_xml(session, coauthors_xml_tree: str, source_pid: str):
 
     for coauthor in root.findall("author"):
         target_pid = coauthor.get("pid")
-
         if session.execute_read(get_author_by_dblp_id, target_pid) != None:
             pub_count = int(coauthor.get("count"))
             session.execute_write(make_relation, source_pid, target_pid, pub_count)
@@ -376,10 +399,8 @@ def seed_relations(db):
     print("[INFO]: Seeding relations into database...")
     with db.session(database=DB) as session:
         author_pids = session.execute_read(get_all_authors)
-
         for source_pid in tqdm(author_pids):
             try:
-                # print(source_pid)
                 coauthors_xml_tree = call_dblp_coauthor_api(source_pid)
                 parse_coauthors_xml(session, coauthors_xml_tree, source_pid)
             except ET.ParseError as errp:
@@ -400,11 +421,26 @@ def seed_squared_relations(db):
                 src_pid, tr_pid = i.split("_")
                 session.execute_write(make_squared_relation, src_pid, tr_pid, j[0] + j[1])
 
+def get_name(dblp_id):
+    resp = requests.get(dblp_id+'.xml')
+    author_data = resp.text
+
+    # Parse the XML data
+    root = ET.fromstring(author_data)
+    #
+    # # Find the name attribute in dblpperson element
+    name = root.get("name")
+    print("Name:", name)
+    return name
+
+
 
 def create_viz_json(dst_path: str, db, relation_func, config: dict):
     network = {"items": [], "links": []}
     seen_relations = set([])
     seen_authors = set([])
+
+    chinese_authors = []
 
     with db.session(database=DB) as session:
         res = session.execute_read(relation_func)
@@ -419,6 +455,30 @@ def create_viz_json(dst_path: str, db, relation_func, config: dict):
         count = int(relation_data["count"])
 
         if source["dblp_id"] not in seen_authors:
+            author_nam = source.get("name", "")
+            name_parts = author_nam.split()
+            first_name = " ".join(name_parts[:-1])
+            last_name = name_parts[-1]
+            if last_name in [
+                "Wang", "Li", "Zhang", "Liu", "Chen", "Yang", "Huang", "Zhao", "Wu", "Zhou",
+                "Xu", "Sun", "Ma", "Zhu", "Hu", "Guo", "Lin", "He", "Gao", "Luo",
+                "Zheng", "Liang", "Xie", "Tang", "Zhuang", "Shao", "Kong", "Cao", "Deng", "Jin",
+                "Feng", "Yu", "Lu", "Jiang", "Song", "Yuan", "Han", "Yan", "Feng", "Chen",
+                "Qian", "Xia", "Wu", "Ou", "Zhang", "Wei", "Xiong", "Sheng", "Pan", "Kang",
+                "Zeng", "Cheng", "Guan", "Tang", "Xiong", "Yao", "He", "Ye", "Shen", "Jin",
+                "Shuai", "Cui", "Geng", "Long", "Lu", "Yun", "Geng", "Jia", "Qiao", "Zhuo",
+                "Shi", "Yuan", "Qi", "Jin", "Su", "Mo", "Du", "Huang", "Lai", "Gu",
+                "Shang", "Qu", "Yan", "Du", "Zhuo", "Lu", "Jiang", "Peng", "Yao", "Tan",
+                "Guo", "Dong", "Yao", "Tang", "Zhong", "Yao", "Gu", "Xue", "Zhao", "Yang",
+                "Chen", "Lin", "Huang", "Chang", "Lee", "Wang", "Wu", "Liu", "Tsai", "Yang",
+                "Hsu", "Cheng", "Hsieh", "Kuo", "Liang", "Chung", "Hung", "Chiu", "Lai", "Ruan", "Ng", "Hua",
+                "Kim", "Wen"
+            ]:
+                chinese_authors.append({
+                    'name': author_nam,
+                    'dblp name': get_name("https://dblp.org/pid/{}".format(source["dblp_id"])),
+                    'dblp url':"https://dblp.org/pid/{}".format(source["dblp_id"])
+                })
             network["items"].append({
                 "id": source["dblp_id"],
                 "label": source.get("name", ""),
@@ -435,6 +495,30 @@ def create_viz_json(dst_path: str, db, relation_func, config: dict):
             seen_authors.add(source["dblp_id"])
 
         if target["dblp_id"] not in seen_authors:
+            author_nam = target.get("name", "")
+            name_parts = author_nam.split()
+            first_name = " ".join(name_parts[:-1])
+            last_name = name_parts[-1]
+            if last_name in [
+                "Wang", "Li", "Zhang", "Liu", "Chen", "Yang", "Huang", "Zhao", "Wu", "Zhou",
+                "Xu", "Sun", "Ma", "Zhu", "Hu", "Guo", "Lin", "He", "Gao", "Luo",
+                "Zheng", "Liang", "Xie", "Tang", "Zhuang", "Shao", "Kong", "Cao", "Deng", "Jin",
+                "Feng", "Yu", "Lu", "Jiang", "Song", "Yuan", "Han", "Yan", "Feng", "Chen",
+                "Qian", "Xia", "Wu", "Ou", "Zhang", "Wei", "Xiong", "Sheng", "Pan", "Kang",
+                "Zeng", "Cheng", "Guan", "Tang", "Xiong", "Yao", "He", "Ye", "Shen", "Jin",
+                "Shuai", "Cui", "Geng", "Long", "Lu", "Yun", "Geng", "Jia", "Qiao", "Zhuo",
+                "Shi", "Yuan", "Qi", "Jin", "Su", "Mo", "Du", "Huang", "Lai", "Gu",
+                "Shang", "Qu", "Yan", "Du", "Zhuo", "Lu", "Jiang", "Peng", "Yao", "Tan",
+                "Guo", "Dong", "Yao", "Tang", "Zhong", "Yao", "Gu", "Xue", "Zhao", "Yang",
+                "Chen", "Lin", "Huang", "Chang", "Lee", "Wang", "Wu", "Liu", "Tsai", "Yang",
+                "Hsu", "Cheng", "Hsieh", "Kuo", "Liang", "Chung", "Hung", "Chiu", "Lai", "Ruan", "Ng", "Hua",
+                "Kim", "Wen"
+            ]:
+                chinese_authors.append({
+                    'name': author_nam,
+                    'dblp name': get_name("https://dblp.org/pid/{}".format(target["dblp_id"])),
+                    'dblp url': "https://dblp.org/pid/{}".format(target["dblp_id"])
+                })
             network["items"].append({
                 "id": target["dblp_id"],
                 "label": target.get("name", ""),
@@ -465,7 +549,7 @@ def create_viz_json(dst_path: str, db, relation_func, config: dict):
 
     with open(dst_path, "w", encoding="utf-8") as f:
         json.dump(resp, f, ensure_ascii=False, indent=4)
-
+    print(chinese_authors)
 
 def create_viz_json_creator(dst_path: str, db, relation_func, config: dict):
     network = {"items": [], "links": []}
@@ -600,8 +684,9 @@ def scrape_tabular_data(url: str):
 
 
 def read_data_file():
-    df = pd.read_csv('data/program_committee/isca_program_committee.csv', names=['name', 'affiliation'], quotechar='"',
+    df = pd.read_csv('Supercomputing_PC.csv', names=['name', 'affiliation'], quotechar='"',
                      encoding="utf-8")
+    print(df)
 
     def some_function(df):
         dic = {}
@@ -618,18 +703,18 @@ def read_data_file():
 
     Newdf = df.groupby("name").apply(some_function)
 
-    Newdf.to_csv('data/program_committee/isca_program_committee.csv', header=False, index=False)
+    Newdf.to_csv('Supercomputing_PC_Final.csv', header=False, index=False)
 
 
 def create_author_from_csv(db):
     print("[INFO]: Seeding authors into database...")
-    df = pd.read_csv('data/PC.csv', names=['name', 'affiliation'], quotechar='"',
+    df = pd.read_csv('PL_PC_Final.csv', names=['name', 'affiliation'], quotechar='"',
                      encoding="utf-8")
     with db.session(database=DB) as session:
         for index, row in df.iterrows():
             affiliation_list = row['affiliation'].strip('][').split(', ')
             author_details = {
-                'aid': index+955,
+                'aid': index,
                 'name': row['name'],
                 'affiliations': affiliation_list
             }
@@ -744,10 +829,168 @@ def add_valid_alex_id(db):
     print("[INFO]: Info successfully imported to db")
 
 
+
+def get_disambiguated_list_details(last_name, first_name):
+    url = f"https://dblp.uni-trier.de/pers/?prefix={last_name}+{first_name}"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    element_with_id = soup.find(id='browse-person-output')
+
+    final_arr_dict = []
+
+    link2 = ''
+    if element_with_id:
+        ul_element = element_with_id.find('ul')
+
+        if ul_element:
+            for li in ul_element.find_all('li'):
+                a_element = li.find('a')
+                if a_element:
+                    href_link = a_element.get('href')
+                    link2 = href_link
+                    break
+        else:
+            print("No <ul> element found inside the element with id 'example_id'.")
+    else:
+        print("No element with id 'example_id' found on the page.")
+
+    def extract_id_from_url(url):
+        url_parts = url.split('/')
+        pid_index = url_parts.index('pid') if 'pid' in url_parts else -1
+        if pid_index != -1 and pid_index + 1 < len(url_parts):
+            return '/'.join(url_parts[pid_index + 1:]).split('.')[0]
+        else:
+            return None
+
+    if link2:
+        response = requests.get(link2)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        element_with_id = soup.find(class_='expand-head')
+
+        if element_with_id:
+            for li in element_with_id.find_all('li'):
+                a_element = li.find('a')
+                s = ''
+                for a_tag in a_element:
+                    s += a_tag.text
+                print(s)
+                if a_element:
+                    href_link = a_element.get('href')
+                    print(href_link)
+
+                    id_from_url = extract_id_from_url(href_link)
+                    print(id_from_url)
+                    dict = {'name': s, 'url': href_link, 'pid': id_from_url}
+                    final_arr_dict.append(dict)
+        element_with_id = soup.find(class_='expand-body')
+
+        if element_with_id:
+            for li in element_with_id.find_all('li'):
+                a_element = li.find('a')
+                s = ''
+                for a_tag in a_element:
+                    s += a_tag.text
+                print(s)
+                if a_element:
+                    href_link = a_element.get('href')
+                    print(href_link)
+
+                    id_from_url = extract_id_from_url(href_link)
+                    print(id_from_url)
+                    dict = {'name': s, 'url': href_link, 'pid': id_from_url}
+                    final_arr_dict.append(dict)
+        element_with_id = soup.find(class_='hide-body hidden')
+        if element_with_id:
+            for li in element_with_id.find_all('li'):
+                a_element = li.find('a')
+                s = ''
+                for a_tag in a_element:
+                    s += a_tag.text
+                print(s)
+                if a_element:
+                    href_link = a_element.get('href')
+                    print(href_link)
+
+                    id_from_url = extract_id_from_url(href_link)
+                    print(id_from_url)
+                    dict = {'name': s, 'url': href_link, 'pid': id_from_url}
+                    final_arr_dict.append(dict)
+    return final_arr_dict
+
+
+def contains_substring(input_string, network_set):
+    for network_substring in network_set:
+        if network_substring in input_string:
+            return True
+    return False
+
+
+def get_final_list_post_search(disambiguated_list):
+    final_list=[]
+    for index, author in enumerate(disambiguated_list):
+        pid = author['pid']
+        if pid:
+            xml_url = 'https://dblp.org/pid/{}.xml'.format(quote(pid))
+            found = False
+            try:
+                time.sleep(2)
+                response = requests.get(xml_url)
+                if response.status_code == 200:
+                    xml_dict = xmltodict.parse(response.content)
+                    for x in xml_dict['dblpperson']['r']:
+                        if isinstance(x, str):
+                            continue
+                        journal = ''
+                        if x.get('article'):
+                            journal = x['article']['booktitle'] if x['article'].get('booktitle') else x['article'][
+                                'journal']
+                        elif x.get('inproceedings'):
+                            journal = x['inproceedings']['booktitle'] if x['inproceedings'].get('booktitle') else \
+                                x['inproceedings']['journal']
+                        elif x.get('proceedings'):
+                            journal = x['proceedings']['booktitle'] if x['proceedings'].get('booktitle') else \
+                                x['proceedings']['publisher']
+                        elif x.get('incollection'):
+                            journal = x['incollection']['booktitle'] if x['incollection'].get('booktitle') else \
+                                x['incollection']['journal']
+
+                        if contains_substring(journal, programming_language):
+                            final_list.append(author)
+                            break
+                else:
+                    print(f'Failed to retrieve data. Status code: {response.status_code}')
+
+            except requests.exceptions.RequestException as e:
+                print(f'Error: {e}')
+            except xmltodict.expat.ExpatError as e:
+                print(f'Error parsing XML: {e}')
+
+    return final_list
+
+
+def dump_in_json_disambiguated_authors_for_manual_review(disambiguated_list, author_name):
+    json_file_path = 'your_file.json'
+
+    # Try to read existing content from the JSON file
+    try:
+        with open(json_file_path, 'r') as file:
+            data = json.load(file)
+    except (FileNotFoundError, json.JSONDecodeError):
+        data = {}
+
+    # Add new key-value pairs to the data
+    new_key = author_name
+    new_value = disambiguated_list
+    data[new_key] = new_value
+
+    # Write the modified content back to the JSON file
+    with open(json_file_path, 'w') as file:
+        json.dump(data, file, indent=2)
+
+
 def search_authors_in_dblp(db):
     with db.session(database=DB) as session:
-        # res = session.execute_read(get_authors_not_found_on_dblp)
-        # for closet data
         res = session.execute_read(get_wrong_dblp_authors)
         change_author_details = []
 
@@ -758,6 +1001,7 @@ def search_authors_in_dblp(db):
             first_name = " ".join(name_parts[:-1])
             last_name = name_parts[-1]
             # print(f"https://dblp.org/search/author/api?q={quote(first_name)}-{quote(last_name)}$&format=json&h=1000")
+            time.sleep(2)
             if last_name not in [
                 "Wang", "Li", "Zhang", "Liu", "Chen", "Yang", "Huang", "Zhao", "Wu", "Zhou",
                 "Xu", "Sun", "Ma", "Zhu", "Hu", "Guo", "Lin", "He", "Gao", "Luo",
@@ -774,6 +1018,7 @@ def search_authors_in_dblp(db):
                 "Kim", "Wen"
             ]:
                 try:
+
                     resp = requests.get(
                         "https://dblp.org/search/author/api?q={}&format=json&h=1000".format(quote(author['name'])))
                     author_data = resp.json()
@@ -794,88 +1039,164 @@ def search_authors_in_dblp(db):
 
                 hits = author_data.get("result", 0).get("hits", 0)
                 no_of_hits = int(hits.get("@total", 0))
-            # if no_of_hits>35:
-            # try:
-            #     resp = requests.get(
-            #         "https://dblp.org/search/author/api?q={}$&format=json&h=1000".format(quote(author['name'])))
-            #     author_data = resp.json()
-            # except Exception as err:
-            #     print(err)
-            # hits = author_data.get("result", 0).get("hits", 0)
-            # no_of_hits = int(hits.get("@total", 0))
+
             print(no_of_hits)
+            if no_of_hits > 300:
+                disambiguated_list = get_disambiguated_list_details(last_name, first_name)
+                print(disambiguated_list)
+                if disambiguated_list:
+                    final_disambiguated_list = get_final_list_post_search(disambiguated_list)
+                    if len(final_disambiguated_list)>0:
+                        dump_in_json_disambiguated_authors_for_manual_review(final_disambiguated_list, author_nam)
+                        continue
             if no_of_hits > 0:
                 print(author['name'])
                 author_details = get_author_detail_full_iteration(hits["hit"], disambiguated_authors=[author['name']])
-                # print(author_details)
                 res = session.execute_read(get_author_by_name, a_name=author_nam)
                 res = res.data()['a']
-                # print(res)
                 if res.get('dblp_id') and res['dblp_id'] != author_details['pid']:
-                    print(
-                        f"Author details changes for {author_nam} and old dblp_id being {res['dblp_id']} and new one being {author_details['pid']}")
-                    change_author_details.append({
-                        'author_name': author_nam,
-                        'old_dblp_url': f"https://dblp.org/pid/{res['dblp_id']}",
-                        'new_dblp_id': f"https://dblp.org/pid/{author_details['pid']}"
-                    })
-                    print(change_author_details)
+                    print("Details changed")
 
                 session.execute_write(update_author_dblp_info_by_id, aid=author['aid'], dblp_id=author_details['pid'] if
                 author_details else None)
-        csv_file = "sample.csv"
-
-        # Define the field names based on the dictionary keys
-        field_names = change_author_details[0].keys()
-
-        # Write the dictionary to the CSV file
-        with open(csv_file, mode="w", newline="") as file:
-            writer = csv.DictWriter(file, fieldnames=field_names)
-
-            # Write the header
-            writer.writeheader()
-
-            # Write the data
-            writer.writerows(change_author_details)
 
 #
-# async def search_author_in_dblp(session, author):
-#     try:
-#         async with session.get(
-#             "https://dblp.org/search/author/api?q={}$&format=json&h=1000".format(quote(author['name']))
-#         ) as resp:
-#             author_data = await resp.json()
-#     except Exception as err:
-#         print(err)
-#         author_data = {}
+# def search_authors_in_dblp(db):
+#     with db.session(database=DB) as session:
+#         # res = session.execute_read(get_authors_not_found_on_dblp)
+#         # for closet data
+#         res = session.execute_read(get_wrong_dblp_authors)
+#         change_author_details = []
 #
-#     hits = author_data.get("result", 0).get("hits", 0)
-#     no_of_hits = int(hits.get("@total", 0))
+#         for author_details in res:
+#             author = author_details.data()['n']
+#             author_nam = author['name']
+#             name_parts = author_nam.split()
+#             first_name = " ".join(name_parts[:-1])
+#             last_name = name_parts[-1]
+#             # print(f"https://dblp.org/search/author/api?q={quote(first_name)}-{quote(last_name)}$&format=json&h=1000")
+#             time.sleep(2)
+#             if last_name not in [
+#                 "Wang", "Li", "Zhang", "Liu", "Chen", "Yang", "Huang", "Zhao", "Wu", "Zhou",
+#                 "Xu", "Sun", "Ma", "Zhu", "Hu", "Guo", "Lin", "He", "Gao", "Luo",
+#                 "Zheng", "Liang", "Xie", "Tang", "Zhuang", "Shao", "Kong", "Cao", "Deng", "Jin",
+#                 "Feng", "Yu", "Lu", "Jiang", "Song", "Yuan", "Han", "Yan", "Feng", "Chen",
+#                 "Qian", "Xia", "Wu", "Ou", "Zhang", "Wei", "Xiong", "Sheng", "Pan", "Kang",
+#                 "Zeng", "Cheng", "Guan", "Tang", "Xiong", "Yao", "He", "Ye", "Shen", "Jin",
+#                 "Shuai", "Cui", "Geng", "Long", "Lu", "Yun", "Geng", "Jia", "Qiao", "Zhuo",
+#                 "Shi", "Yuan", "Qi", "Jin", "Su", "Mo", "Du", "Huang", "Lai", "Gu",
+#                 "Shang", "Qu", "Yan", "Du", "Zhuo", "Lu", "Jiang", "Peng", "Yao", "Tan",
+#                 "Guo", "Dong", "Yao", "Tang", "Zhong", "Yao", "Gu", "Xue", "Zhao", "Yang",
+#                 "Chen", "Lin", "Huang", "Chang", "Lee", "Wang", "Wu", "Liu", "Tsai", "Yang",
+#                 "Hsu", "Cheng", "Hsieh", "Kuo", "Liang", "Chung", "Hung", "Chiu", "Lai", "Ruan", "Ng", "Hua",
+#                 "Kim", "Wen"
+#             ]:
+#                 try:
 #
-#     if no_of_hits > 0:
-#         print(author['name'])
-#         author_details = await get_author_detail_full_iteration(
-#             hits["hit"], disambiguated_authors=[author['name']]
-#         )
-#         print(author_details)
-#         await session.execute_write(
-#             update_author_dblp_info_by_id, aid=author['aid'], dblp_id=author_details['pid'] if author_details else None
-#         )
+#                     resp = requests.get(
+#                         "https://dblp.org/search/author/api?q={}&format=json&h=1000".format(quote(author['name'])))
+#                     author_data = resp.json()
+#                 except Exception as err:
+#                     print(err)
 #
-# async def search_authors_in_dblp(db):
-#     async with aiohttp.ClientSession() as session:
-#         with db.session(database=DB) as sync_session:
-#             # res = sync_session.execute_read(get_authors_not_found_on_dblp)
-#             # for closet data
-#             res = sync_session.execute_read(get_wrong_dblp_authors)
+#                 hits = author_data.get("result", 0).get("hits", 0)
+#                 no_of_hits = int(hits.get("@total", 0))
 #
-#             tasks = []
-#             for author_details in res:
-#                 author = author_details.data()['n']
-#                 task = search_author_in_dblp(session, author)
-#                 tasks.append(task)
+#             else:
+#                 print('lalal')
+#                 try:
+#                     resp = requests.get(
+#                         f"https://dblp.org/search/author/api?q={quote(first_name)}-{quote(last_name)}$&format=json&h=1000")
+#                     author_data = resp.json()
+#                 except Exception as err:
+#                     print(err)
 #
-#             await asyncio.gather(*tasks)
+#                 hits = author_data.get("result", 0).get("hits", 0)
+#                 no_of_hits = int(hits.get("@total", 0))
+#             # if no_of_hits>35:
+#             # try:
+#             #     resp = requests.get(
+#             #         "https://dblp.org/search/author/api?q={}$&format=json&h=1000".format(quote(author['name'])))
+#             #     author_data = resp.json()
+#             # except Exception as err:
+#             #     print(err)
+#             # hits = author_data.get("result", 0).get("hits", 0)
+#             # no_of_hits = int(hits.get("@total", 0))
+#             print(no_of_hits)
+#             if no_of_hits > 0:
+#                 print(author['name'])
+#                 author_details = get_author_detail_full_iteration(hits["hit"], disambiguated_authors=[author['name']])
+#                 # print(author_details)
+#                 res = session.execute_read(get_author_by_name, a_name=author_nam)
+#                 res = res.data()['a']
+#                 # print(res)
+#                 if res.get('dblp_id') and res['dblp_id'] != author_details['pid']:
+#                     # print(
+#                     #     f"Author details changes for {author_nam} and old dblp_id being {res['dblp_id']} and new one being {author_details['pid']}")
+#                     # change_author_details.append({
+#                     #     'author_name': author_nam,
+#                     #     'old_dblp_url': f"https://dblp.org/pid/{res['dblp_id']}",
+#                     #     'new_dblp_id': f"https://dblp.org/pid/{author_details['pid']}"
+#                     # })
+#                     # print(change_author_details)
+#                     print("Details changed")
+#
+#                 session.execute_write(update_author_dblp_info_by_id, aid=author['aid'], dblp_id=author_details['pid'] if
+#                 author_details else None)
+#         # csv_file = "sample.csv"
+#         #
+#         # # Define the field names based on the dictionary keys
+#         # field_names = change_author_details[0].keys()
+#         #
+#         # # Write the dictionary to the CSV file
+#         # with open(csv_file, mode="w", newline="") as file:
+#         #     writer = csv.DictWriter(file, fieldnames=field_names)
+#         #
+#         #     # Write the header
+#         #     writer.writeheader()
+#         #
+#         #     # Write the data
+#         #     writer.writerows(change_author_details)
+#
+#
+# #
+# # async def search_author_in_dblp(session, author):
+# #     try:
+# #         async with session.get(
+# #             "https://dblp.org/search/author/api?q={}$&format=json&h=1000".format(quote(author['name']))
+# #         ) as resp:
+# #             author_data = await resp.json()
+# #     except Exception as err:
+# #         print(err)
+# #         author_data = {}
+# #
+# #     hits = author_data.get("result", 0).get("hits", 0)
+# #     no_of_hits = int(hits.get("@total", 0))
+# #
+# #     if no_of_hits > 0:
+# #         print(author['name'])
+# #         author_details = await get_author_detail_full_iteration(
+# #             hits["hit"], disambiguated_authors=[author['name']]
+# #         )
+# #         print(author_details)
+# #         await session.execute_write(
+# #             update_author_dblp_info_by_id, aid=author['aid'], dblp_id=author_details['pid'] if author_details else None
+# #         )
+# #
+# # async def search_authors_in_dblp(db):
+# #     async with aiohttp.ClientSession() as session:
+# #         with db.session(database=DB) as sync_session:
+# #             # res = sync_session.execute_read(get_authors_not_found_on_dblp)
+# #             # for closet data
+# #             res = sync_session.execute_read(get_wrong_dblp_authors)
+# #
+# #             tasks = []
+# #             for author_details in res:
+# #                 author = author_details.data()['n']
+# #                 task = search_author_in_dblp(session, author)
+# #                 tasks.append(task)
+# #
+# #             await asyncio.gather(*tasks)
 
 def get_name_match_list(db):
     with db.session(database=DB) as session:
@@ -915,3 +1236,166 @@ def get_details_from_closet_data_json_save_to_neo(db):
             pid = url[-2] + "/" + url[-1]
             pid = pid.replace('.html', '')
             session.execute_write(make_creator, item['label'], index, pid)
+
+
+def parse_coauthors_xml_for_connection_building(session, coauthors_xml_tree: str, source_pid: str):
+    root = ET.fromstring(coauthors_xml_tree)
+    print(root)
+    result = []
+    for coauthor in root.findall("author"):
+        result.append({
+            "pid": coauthor.get("pid"),
+            "count": coauthor.get("count"),
+            "name": coauthor.text
+        })
+    sorted_result = sorted(result, key=lambda x: x['count'], reverse=True)
+    print(sorted_result)
+    final_author_pid = None
+    final_author_count = None
+    final_author_name = None
+    for coauthor_info in sorted_result:
+        count = coauthor_info.get('count')
+        pid = coauthor_info.get('pid')
+        name = coauthor_info.get('name')
+        found = False
+        if pid:
+            xml_url = 'https://dblp.org/pid/{}.xml'.format(quote(pid))
+            try:
+                response = requests.get(xml_url)
+                if response.status_code == 200:
+                    xml_dict = xmltodict.parse(response.content)
+                    for x in xml_dict['dblpperson']['r']:
+                        if isinstance(x, str):
+                            continue
+                        journal = ''
+                        if x.get('article'):
+                            journal = x['article']['booktitle'] if x['article'].get('booktitle') else x['article'][
+                                'journal']
+                        elif x.get('inproceedings'):
+                            journal = x['inproceedings']['booktitle'] if x['inproceedings'].get('booktitle') else \
+                                x['inproceedings']['journal']
+                        elif x.get('proceedings'):
+                            journal = x['proceedings']['booktitle'] if x['proceedings'].get('booktitle') else \
+                                x['proceedings']['publisher']
+                        elif x.get('incollection'):
+                            journal = x['incollection']['booktitle'] if x['incollection'].get('booktitle') else \
+                                x['incollection']['journal']
+
+                        if journal in human_computer_interaction:
+                            found = True
+                            break
+                else:
+                    print(f'Failed to retrieve data. Status code: {response.status_code}')
+
+            except requests.exceptions.RequestException as e:
+                print(f'Error: {e}')
+            except xmltodict.expat.ExpatError as e:
+                print(f'Error parsing XML: {e}')
+        if found:
+            final_author_pid = pid
+            final_author_count = count
+            final_author_name = name
+            break
+    return {"final_author_count": final_author_count, "final_author_pid": final_author_pid,
+            "final_author_name": final_author_name}
+
+
+def check_coauthor_match_found_in_xml(coauthors_xml_tree, match_pid):
+    root = ET.fromstring(coauthors_xml_tree)
+    print(root)
+    for coauthor in root.findall("author"):
+        if coauthor.get('pid') == match_pid:
+            return coauthor.get('count')
+    return None
+
+
+def connect_unconnected_relation_authors(db):
+    print("[INFO]: Connecting unconnected authors by 1 hop relations in graph...")
+    with db.session(database=DB) as session:
+        author_pids = session.execute_read(get_wrong_matched_dblp_authors)
+        # author_pids = ['93/1485', 'r/HeriRamampiaro', '50/2015']
+        # print(author_pids)
+        mutable_author_pid_list = author_pids
+        for source_pid in tqdm(mutable_author_pid_list):
+            source_pid = source_pid.data()['p']
+            print(source_pid)
+            try:
+                coauthors_xml_tree = call_dblp_coauthor_api(source_pid)
+                final_author = parse_coauthors_xml_for_connection_building(session, coauthors_xml_tree, source_pid)
+                final_author_pid = final_author.get('final_author_pid')
+                final_author_count = final_author.get('final_author_count')
+                final_author_name = final_author.get('final_author_name')
+                # Find if an author found
+                if final_author_pid and final_author_count:
+                    index = session.execute_read(get_max_aid)
+                    print(index)
+                    author_details = {
+                        'aid': int(index[0])+1,
+                        'name': final_author_name,
+                        'flag_mutable': True,
+                        'pid': final_author_pid
+                    }
+                    print("Final Details",author_details)
+                    # Create new author
+                    session.execute_write(make_author_mutable, author_details)
+                    # Build relation
+                    session.execute_write(make_relation, source_pid, final_author_pid, final_author_count)
+
+                    # If found find the author as coauthor for all the people left
+                    for mutable_author in author_pids:
+                        mutable_author = mutable_author.data()['p']
+                        print(mutable_author, "I am mutable .......................................")
+                        if mutable_author == source_pid or mutable_author not in mutable_author_pid_list:
+                            continue
+                        mutable_coauthors_xml_tree = call_dblp_coauthor_api(mutable_author)
+                        # If any author match found
+                        if count := check_coauthor_match_found_in_xml(mutable_coauthors_xml_tree, final_author_pid):
+                            print(mutable_author, final_author, count)
+                            session.execute_write(make_relation, mutable_author, final_author_pid, count)
+                            # Remove that author from mutable list
+                            mutable_author_pid_list.remove(mutable_author)
+            except ET.ParseError as errp:
+                print(errp)
+            except Exception as err:
+                print(err)
+
+
+def feed_json_resolved_blp_id(db):
+    with db.session(database=DB) as session:
+        file_path = 'your_file.json'
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            print(data)
+        for key, value in data.items():
+            for item in value:
+                pid = item['pid']
+                session.execute_write(update_author_dblp_info_by_name, name=key, dblp_id=pid)
+
+
+def produce_csv_for_unconnected_people(db):
+    with db.session(database=DB) as session:
+        authors = session.execute_read(get_unconnected_people)
+        final_list=[]
+        for author_details in authors:
+            author = author_details.data()['n']
+            if author.get('dblp_id'):
+                author['dblp_url']=f"https://dblp.org/pid/{author['dblp_id']}.html"
+            final_list.append(author)
+        field_names = set()
+        for entry in final_list:
+            field_names.update(entry.keys())
+        csv_file='list_of_unconnected_people.csv'
+        # Writing to CSV file
+        with open(csv_file, 'w', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=field_names)
+
+            # Write the header
+            writer.writeheader()
+
+            # Write the data
+            writer.writerows(final_list)
+
+        print(f'Data has been written to {csv_file}')
+
+
+

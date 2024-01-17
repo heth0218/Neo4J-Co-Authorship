@@ -5,12 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73b616d-c2d7-44e0-a62c-fd26b2c5b061" name="Changes" comment="Open Alex and DBLP data import, disambiguated authors, fetched co-authors &amp; visualization">
-      <change afterPath="$PROJECT_DIR$/sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Neo4j-coauthorship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_mining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIGIR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Software.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supercomputing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Use_squared_coordinates_in_viz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xyz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/program_committee/isca_program_committee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/program_committee/isca_program_committee.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/coauthor_viz.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/coauthor_viz.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/squared_viz.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/squared_viz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/coauthor_viz_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/coauthor_viz_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_HPCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_HPCA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +51,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2UwCkHiivXzYE7dEZnaDhVmB9G7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,24 +64,30 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hethgala/code/neo4j-co-authorship&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hethgala/code/Neo4j-coauthorship&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="neo4j-co-authorship" />
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Neo4j-coauthorship" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,11 +96,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,6 +116,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Open Alex and DBLP data import, disambiguated authors, fetched co-authors &amp; visualization" />

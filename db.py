@@ -228,10 +228,58 @@ def get_all_authors(tx):
   res = tx.run(
     """
       MATCH (n: Author)
+      WHERE n.dblp_id is not NULL
+      RETURN n.dblp_id AS dblp_id
+      SKIP 231
+    """
+    # """
+    # MATCH (n:Author)
+    # WHERE NOT (n:Author)-[:coauthored_with]->(:Author)
+    # AND n.dblp_id is not null
+    # RETURN n.dblp_id AS dblp_id
+    # """
+  )
+  return res.value("dblp_id")
+
+
+def get_max_aid(tx):
+  res = tx.run(
+    """
+    MATCH (a:Author)
+    RETURN MAX(a.aid) AS maxAid;
+    """
+  )
+  return res.value("maxAid")
+
+
+
+def make_author_mutable(tx, author_details):
+  return tx.run(
+    """
+      MERGE (a:Author {name: $name})
+        ON CREATE
+        SET a.aid = $aid
+        SET a.flag_mutable = $flag_mutable
+        SET a.dblp_id = $pid
+    """,
+    aid=author_details["aid"],
+    name=author_details["name"],
+    flag_mutable=author_details["flag_mutable"],
+    pid=author_details['pid']
+  )
+
+
+def get_all_authors_temp(tx):
+  res = tx.run(
+    """
+      MATCH (n: Author)
+      WHERE n.dblp_id is not NULL
       RETURN n.dblp_id AS dblp_id
     """
   )
   return res.value("dblp_id")
+
+
 
 def get_all_creators(tx):
   res = tx.run(
@@ -295,14 +343,16 @@ def get_wrong_dblp_authors(tx):
   res = tx.run(
     # """
     #   MATCH (n:Author)
-    #   WHERE n.aid>955
+    #   WHERE n.aid>=529
     #   RETURN n
     # """
 
 
+    """
+  MATCH (n:Author) 
+  where n.dblp_id is NULL 
+  RETURN n;
   """
-MATCH (n:Author) where n.dblp_id is NULL RETURN n;
-"""
 
     # """
     # MATCH (n:Author)
@@ -312,6 +362,21 @@ MATCH (n:Author) where n.dblp_id is NULL RETURN n;
   )
 
   return list(res)
+
+
+def update_author_dblp_info_by_name(tx, name, dblp_id=None):
+  res = tx.run(
+    """
+      MATCH (a:Author {name: $name})
+      SET a.dblp_id=$dblp_id
+      RETURN a
+    """,
+    name=name,
+    dblp_id=dblp_id
+  )
+  return res
+
+
 
 def make_relation(tx, source_pid, target_pid, publication_count):
   return tx.run(
@@ -455,8 +520,21 @@ def get_wrong_matched_dblp_authors(tx):
     """
       MATCH (n:Author)
       WHERE NOT (n)-[:coauthored_with]-()
-      RETURN n
+      and n.dblp_id is not Null
+      RETURN n.dblp_id as p
       ORDER BY n.name
+    """
+  )
+  return list(res)
+
+
+def get_unconnected_people(tx):
+  res = tx.run(
+    """
+      MATCH (n:Author)
+      WHERE NOT (n:Author)-[:coauthored_with]->(:Author)
+      AND n.dblp_id is not null
+      RETURN n
     """
   )
   return list(res)

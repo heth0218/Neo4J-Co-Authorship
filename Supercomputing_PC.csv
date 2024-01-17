@@ -1,0 +1,1553 @@
+name,affiliation
+Felix Wolf,Technical University Darmstadt
+Sameer Shende,University of Oregon
+Kengo Nakajima,"University of Tokyo, RIKEN"
+Sivasankaran Rajamanickam,Sandia National Laboratories
+Seher Acer,Google LLC
+Mark Adams,Lawrence Berkeley National Laboratory (LBNL)
+Srinivas Aluru,"Georgia Institute of Technology, School of Computational Science and Engineering"
+Hartwig Anzt,"Karlsruhe Institute of Technology (KIT), University of Tennessee"
+Anne Benoit,ENS Lyon
+Luc Berger-Vergiat,Sandia National Laboratories
+Sanjukta Bhowmick,University of North Texas
+Tekin Bicer,Argonne National Laboratory (ANL)
+George Biros,"University of Texas, Oden Institute"
+Jed Brown,University of Colorado
+Erin Carson,"Charles University, Czech Republic"
+Fabio Checconi,Intel Corporation
+Zizhong Chen,"University of California, Riverside"
+Jee Choi,University of Oregon
+Haipeng Dai,"Nanjing University, China; State Key Laboratory for Novel Software Technology"
+Karen Devine,Sandia National Laboratories (retired)
+Thomas Dufaud,University of Versailles
+Lionel Eyraud-Dubois,"University of Bordeaux, French Institute for Research in Computer Science and Automation (INRIA); LaBRI, France"
+Takeshi Fukaya,"Hokkaido University, Japan"
+Pieter Ghysels,Lawrence Berkeley National Laboratory (LBNL)
+Laura Grigori,Swiss Federal Institute of Technology Lausanne (EPFL)
+Azzam Haidar,NVIDIA Corporation
+Judith C. Hill,Lawrence Livermore National Laboratory (LLNL)
+Toshiyuki Imamura,"RIKEN, RIKEN Center for Computational Science (R-CCS)"
+Takeshi Iwashita,"Hokkaido University, Japan"
+Peng Jiang,University of Iowa
+Kamer Kaya,"Sabancı University, Turkey"
+Mariam Kiran,Oak Ridge National Laboratory (ORNL)
+Kishore Kothapalli,"International Institute of Information Technology (IIIT), Hyderabad"
+Yang Liu,Lawrence Berkeley National Laboratory (LBNL)
+Hatem Ltaief,King Abdullah University of Science and Technology (KAUST)
+Kamesh Madduri,Pennsylvania State University
+Ulrike Meier Yang,Lawrence Livermore National Laboratory (LLNL)
+Yusuke Nagasaka,Fujitsu Ltd
+Johann Rudi,Argonne National Laboratory (ANL)
+Yogish Sabharwal,IBM India Research Laboratory
+Piyush Sao,"Oak Ridge National Laboratory (ORNL), Georgia Institute of Technology"
+Edgar Solomonik,University of Illinois
+Hari Sundar,University of Utah
+Toyotaro Suzumura,University of Tokyo
+Jonas Thies,"Delft University of Technology, Delft Institute of Applied Mathematics"
+Parimala Thulasiraman,University of Manitoba
+Jesmin Jahan Tithi,Intel Corporation
+Rio Yokota,Tokyo Institute of Technology
+Alba Cristina Magalhaes Alves de Melo,University of Brasilia
+Jesus Carretero,"University Carlos III of Madrid, Spain"
+David Abramson,University of Queensland
+Svyatkovskiy Alexey,"Microsoft Corporation, Princeton University"
+Ritu Arora,Wayne State University
+Ariful Azad,Indiana University
+Michael Bader,Technical University Munich
+Carlos Jaime Barrios Hernandez,"Advanced Computing Service for Latin America and the Caribbean (SCALAC); Industrial University of Santander, Colombia"
+George Bosilca,University of Tennessee
+Pascal Bouvry,University of Luxembourg
+Silvina Caino-Lores,French Institute for Research in Computer Science and Automation (INRIA)
+Donna Calhoun,Boise State University
+Harold Castro,"University of the Andes, Colombia"
+Umit V. Catalyurek,"Amazon Web Services, Georgia Institute of Technology"
+Bronis R. de Supinski,Lawrence Livermore National Laboratory (LLNL)
+Luiz DeRose,Oracle
+Erik Draeger,"Lawrence Livermore National Laboratory, Center for Applied Scientific Computing"
+Lucia Drummond,"Fluminense Federal University, Brazil"
+Pradeep Dubey,Intel Corporation
+Anne C. Elster,Norwegian University of Science and Technology (NTNU)
+Umberto Ferraro Petrillo,"University of Rome 'La Sapienza', University of Rome La Sapienza"
+Lin Gan,"Tsinghua University, China; National Supercomputing Center in Wuxi"
+J. Daniel Garcia,"University Carlos III of Madrid, Spain"
+Cristina Garcia Cardona,Los Alamos National Laboratory (LANL)
+Diana Göhringer,Technical University Dresden
+Jeff R. Hammond,"NVIDIA Helsinki Oy, NVIDIA Corporation"
+Jeffrey A. F. Hittinger,Lawrence Livermore National Laboratory
+Kirk E. Jordan,IBM Research
+Bálint Joó,Oak Ridge National Laboratory (ORNL)
+Ananth Kalyanaraman,Washington State University
+Alexey Lastovetsky,University College Dublin
+Ying Wai Li,Los Alamos National Laboratory (LANL)
+Vanessa Lopez-Marrero,"Brookhaven National Laboratory; Stony Brook University, Institute for Advanced Computational Science (IACS)"
+Xavier Martorell,"Polytechnic University of Catalonia, Spain; Barcelona Supercomputing Center (BSC)"
+Bronson Messer,"Oak Ridge National Laboratory (ORNL), University of Tennessee"
+Takemasa Miyoshi,RIKEN
+José Moreira,IBM Corporation
+Philippe Olivier Navaux,"Federal University of Rio Grande do Sul, Brazil"
+Maya Neytcheva,"Uppsala University, Sweden"
+Carla Osthoff,"National Laboratory for Scientific Computing, Brazil"
+Cynthia Phillips,Sandia National Laboratories
+Viktor K. Prasanna,"University of Southern California (USC), None"
+Martin Roetteler,Microsoft Corporation
+Gudula Ruenger,Chemnitz University of Technology
+Abhishek Singharoy,Arizona State University
+Heidi K. Thornquist,Sandia National Laboratories
+Massimo Torquati,University of Pisa
+Sofia Vallecorsa,European Organization for Nuclear Research (CERN)
+Ana Lucia Varbanescu,"University of Twente, University of Amsterdam"
+Shuaiwen Leon Song,"University of Sydney, University of Washington"
+Michael Taylor,University of Washington
+Jung Ho Ahn,Seoul National University
+Hodjat Asghari Esfeden,Google LLC
+Kevin J. Barker,Pacific Northwest National Laboratory (PNNL)
+Jonathan Beard,Google Cloud
+Shuai Che,Microsoft Corporation
+John Davis,Openchip
+Christophe Dubach,McGill University
+Mattan Erez,"University of Texas, Department of Electrical and Computer Engineering"
+Xin Fu,University of Houston
+Mingyu Gao,"Tsinghua University, China"
+Madeleine Glick,Columbia University
+Simon Hammond,National Nuclear Security Administration (NNSA)
+Siva Kumar Sastry Hari,NVIDIA Corporation
+Martin C. Herbordt,Boston University
+Koji Inoue,Kyushu University
+Ulya Karpuzcu,University of Minnesota
+John Kim,Korea Advanced Institute of Science and Technology (KAIST)
+Tushar Krishna,Georgia Institute of Technology
+Hyoukjun Kwon,"University of California, Irvine"
+Jingwen Leng,"Shanghai Jiao Tong University, Shanghai Qi Zhi Institute"
+Prashant Nair,University of British Columbia
+Radu Teodorescu,Ohio State University
+Antonino Tumeo,Pacific Northwest National Laboratory (PNNL)
+Daniel Wong,"University of California, Riverside"
+Amir Yazdanbakhsh,Google Research
+Xiangyu Zhang,Ambarella Inc
+Xingyao Zhang,Google LLC
+Zhiru Zhang,Cornell University
+Zhen Zheng,Alibaba Group
+Huiyang Zhou,North Carolina State University
+Yuhao Zhu,University of Rochester
+Brandic Ivona,Vienna University of Technology
+Srikumar Venugopal,IBM Research Europe
+Ilkay Altintas,"San Diego Supercomputer Center (SDSC); University of California, San Diego, Halicioglu Data Science Institute"
+Mohsen Amini Salehi,"University of Louisiana, Lafayette"
+Amy Apon,Clemson University
+Atakan Aral,University of Vienna
+João Barreto,"INESC-ID, IST, University of Lisbon"
+Matthias A. Blumrich,NVIDIA Corporation
+Alexandru Costan,"French Institute for Research in Computer Science and Automation (INRIA); National Institute for Research in Computer Science and Automation (Inria), France"
+Tommaso Cucinotta,"Sant'Anna School of Advanced Studies, Pisa, Italy"
+Vincenzo De Maio,Vienna University of Technology
+Jörg Domaschka,"Ulm University; benchANT, Germany"
+Aniruddha Gokhale,Vanderbilt University
+Helen Gu,North Carolina State University
+Alexandru Iosup,"Vrije University Amsterdam, Delft University of Technology"
+Tamas Kiss,"University of Westminster, London"
+Joanna Kolodziej,"Cracow University of Technology, Poland; NASK National Research Institute, Warsaw, Poland"
+John Lange,"Oak Ridge National Laboratory (ORNL), University of Pittsburgh"
+Xing Liu,Meta Platforms Inc
+Claudia Misale,IBM
+Marco Aurelio Stelmar Netto,IBM Corporation
+Alessandro Vittorio Papadopoulos,"Malardalen University, Sweden"
+Konstantinos Parasyris,Lawrence Livermore National Laboratory (LLNL)
+Radu Prodan,"University of Klagenfurt, Austria"
+María S. Pérez,Polytechnic University of Madrid
+M. Mustafa Rafique,Rochester Institute of Technology
+Ioan Raicu,"Illinois Institute of Technology, Argonne National Laboratory (ANL)"
+Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory (LBNL)
+Krzysztof Rzadca,"Google LLC, University of Warsaw"
+Vanish Talwar,Facebook
+Douglas Thain,University of Notre Dame
+Dakai Zhu,"University of Texas, San Antonio"
+Scott Klasky,Oak Ridge National Laboratory (ORNL)
+Daniela Ushizima,"Lawrence Berkeley National Laboratory (LBNL); University of California, Berkeley"
+Vibhatha Abeykoon,Voltron Data
+John Bent,Seagate Systems
+Cristiana Bentes,Rio de Janeiro State University (UERJ)
+Philippe Bonnet,IT University of Copenhagen
+Rita Borgo,King's College London
+André Brinkmann,Johannes Gutenberg University Mainz
+Ali R. Butt,Virginia Tech
+Hamish Carr,University of Leeds
+Jerry Chou,"National Tsing Hua University, Taiwan"
+Sheng Di,"Argonne National Laboratory (ANL), University of Chicago"
+Greg Eisenhauer,Georgia Institute of Technology
+Ana Gainaru,Oak Ridge National Laboratory (ORNL)
+Berk Geveci,Kitware Inc
+Xubin He,"Temple University, Department of Computer and Information Sciences"
+Dan Huang,"Sun Yat-sen University, Guangzhou, China"
+Jian Huang,University of Tennessee
+Soonwook Hwang,Korea Institute of Science and Technology Information (KISTI)
+Chris Johnson,University of Utah
+Aditi Krishnapriyan,Lawrence Berkeley National Laboratory (LBNL)
+Sidharth Kumar,University of Illinois Chicago
+Julian Kunkel,"University of Göttingen; GWDG, Germany"
+Tahsin Kurc,Stony Brook University
+Erwin Laure,Max Planck Computing and Data Facility
+Xin Liang,"University of Kentucky, Oak Ridge National Laboratory (ORNL)"
+Qing Liu,New Jersey Institute of Technology
+Paul A. Navratil,"Texas Advanced Computing Center (TACC), University of Texas"
+Sarah Neuwirth,"Johannes Gutenberg University Mainz, Juelich Supercomputing Centre (JSC)"
+Dave Pugmire,Oak Ridge National Laboratory (ORNL)
+Hiranmayi Ranganathan,Lawrence Livermore National Laboratory
+Robert B. Ross,Argonne National Laboratory (ANL)
+Chris Schlipalius,"Pawsey Supercomputing Centre; Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia"
+Han-Wei Shen,Ohio State University
+Jerome Soumagne,Intel Corporation
+Xian-He Sun,Illinois Institute of Technology
+Keichi Takahashi,Tohoku University
+Osamu Tatebe,University of Tsukuba
+Jana Thayer,SLAC National Accelerator Laboratory
+Lipeng Wan,Georgia State University
+Jianwu Wang,"University of Maryland, Baltimore County"
+Patrick Widener,Oak Ridge National Laboratory
+Kesheng (John) Wu,Lawrence Berkeley National Laboratory (LBNL)
+Wei Xue,"Tsinghua University, China"
+Scott Klasky,Oak Ridge National Laboratory (ORNL)
+Daniela Ushizima,"Lawrence Berkeley National Laboratory (LBNL); University of California, Berkeley"
+Vibhatha Abeykoon,Voltron Data
+John Bent,Seagate Systems
+Cristiana Bentes,Rio de Janeiro State University (UERJ)
+Philippe Bonnet,IT University of Copenhagen
+Rita Borgo,King's College London
+André Brinkmann,Johannes Gutenberg University Mainz
+Ali R. Butt,Virginia Tech
+Hamish Carr,University of Leeds
+Jerry Chou,"National Tsing Hua University, Taiwan"
+Sheng Di,"Argonne National Laboratory (ANL), University of Chicago"
+Greg Eisenhauer,Georgia Institute of Technology
+Ana Gainaru,Oak Ridge National Laboratory (ORNL)
+Berk Geveci,Kitware Inc
+Xubin He,"Temple University, Department of Computer and Information Sciences"
+Dan Huang,"Sun Yat-sen University, Guangzhou, China"
+Jian Huang,University of Tennessee
+Soonwook Hwang,Korea Institute of Science and Technology Information (KISTI)
+Chris Johnson,University of Utah
+Aditi Krishnapriyan,Lawrence Berkeley National Laboratory (LBNL)
+Sidharth Kumar,University of Illinois Chicago
+Julian Kunkel,"University of Göttingen; GWDG, Germany"
+Tahsin Kurc,Stony Brook University
+Erwin Laure,Max Planck Computing and Data Facility
+Xin Liang,"University of Kentucky, Oak Ridge National Laboratory (ORNL)"
+Qing Liu,New Jersey Institute of Technology
+Paul A. Navratil,"Texas Advanced Computing Center (TACC), University of Texas"
+Sarah Neuwirth,"Johannes Gutenberg University Mainz, Juelich Supercomputing Centre (JSC)"
+Dave Pugmire,Oak Ridge National Laboratory (ORNL)
+Hiranmayi Ranganathan,Lawrence Livermore National Laboratory
+Robert B. Ross,Argonne National Laboratory (ANL)
+Chris Schlipalius,"Pawsey Supercomputing Centre; Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia"
+Han-Wei Shen,Ohio State University
+Jerome Soumagne,Intel Corporation
+Xian-He Sun,Illinois Institute of Technology
+Keichi Takahashi,Tohoku University
+Osamu Tatebe,University of Tsukuba
+Jana Thayer,SLAC National Accelerator Laboratory
+Lipeng Wan,Georgia State University
+Jianwu Wang,"University of Maryland, Baltimore County"
+Patrick Widener,Oak Ridge National Laboratory
+Kesheng (John) Wu,Lawrence Berkeley National Laboratory (LBNL)
+Wei Xue,"Tsinghua University, China"
+Pavan Balaji,Facebook
+Amelie Chi Zhou,Hong Kong Baptist University
+Sameh Abdulah,King Abdullah University of Science and Technology (KAUST)
+Prasanna Balaprakash,Oak Ridge National Laboratory (ORNL)
+Olivier Beaumont,"French Institute for Research in Computer Science and Automation (INRIA), University of Bordeaux (IMB)"
+Zhiguang Chen,"Sun Yat-sen University, Guangzhou, China"
+Aditya Devarakonda,Wake Forest University
+Nikoli Dryden,"ETH Zürich, Lawrence Livermore National Laboratory (LLNL)"
+Marquita Ellis,IBM Research
+Kyle Felker,Argonne National Laboratory (ANL)
+Negin Forouzesh,"California State University, Los Angeles"
+Judy Fox,University of Virginia
+Evangelos Georganas,Intel Corporation
+Sayan Ghosh,Pacific Northwest National Laboratory (PNNL)
+Alex Gittens,Rensselaer Polytechnic Institute (RPI)
+Bingsheng He,National University of Singapore
+Alexander Heinecke,Intel Corporation
+Mike Houston,NVIDIA Corporation
+Cho-Jui Hsieh,"University of California, Los Angeles (UCLA); Amazon"
+Shadi Ibrahim,French Institute for Research in Computer Science and Automation (INRIA)
+Surabhi Jain,Microsoft Corporation
+Weile Jia,"Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences"
+Ramakrishnan Kannan,Georgia Institute of Technology
+Karthik Kashinath,"NVIDIA Corporation, Lawrence Berkeley National Laboratory (LBNL)"
+Janis Keuper,"Offenburg University of Applied Sciences, Fraunhofer Institute for Industrial Mathematics"
+Penporn Koanantakool,Google (Thailand) Company Limited
+Zhiling Lan,University of Illinois Chicago
+Ang Li,Pacific Northwest National Laboratory (PNNL)
+Jiajia Li,North Carolina State University
+Shigang Li,Beijing University of Posts and Telecommunications
+Haikun Liu,Huazhong University of Science and Technology (HUST)
+Hang Liu,Rutgers University
+Weifeng Liu,"China University of Petroleum, Beijing"
+Xiaoyi Lu,"University of California, Merced"
+Divya Mahajan,Microsoft Corporation
+Preeti Malakar,"Indian Institute of Technology (IIT), Kanpur"
+Saeed Maleki,Microsoft Research
+Maryam Mehri Dehnavi,University of Toronto
+Diana Moise,Hewlett Packard Enterprise (HPE)
+Misbah Mubarak,Amazon Web Services
+Dheevatsa Mudigere,NVIDIA Corporation
+Maxim Naumov,Meta
+Bogdan Nicolae,Argonne National Laboratory (ANL)
+Devang Patel,Microsoft Corporation
+Xuehai Qian,University of Southern California (USC)
+Anna Queralt,"Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain"
+Shweta Salaria,IBM TJ Watson Research Center
+Suttinee Sawadsitang,"Chiang Mai University, Thailand"
+Xipeng Shen,North Carolina State University
+Min Si,Meta Platforms Inc
+Dan C Stanzione,University of Texas
+Dingwen Tao,Indiana University
+Brian C. Van Essen,Lawrence Livermore National Laboratory (LLNL)
+Abhinav Vishnu,Advanced Micro Devices (AMD) Inc
+Bharti Wadhwa,IBM Research
+Rui Wang,Beihang University
+Yu (Emma) Wang,Google LLC
+Zeke Wang,Zhejiang University
+Yanjie Wei,"Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+Zeyi Wen,"Hong Kong University of Science and Technology, Guangzhou; Hong Kong University of Science and Technology"
+Bing Xie,Microsoft Corporation
+Haiying Xu,National Center for Atmospheric Research (NCAR)
+Steven R. Young,"Oak Ridge National Laboratory (ORNL), University of Tennessee"
+Shuhao Zhang,Nanyang Technological University
+Wei Zhang,Hong Kong University of Science and Technology
+Zhao Zhang,"Rutgers University, Texas Advanced Computing Center (TACC)"
+Yue Zhu,IBM Research
+Tanzima Islam,Texas State University
+Jidong Zhai,"Tsinghua University, China"
+Ahmed Ali-Eldin Hassan,"Chalmers University of Technology, Sweden; Elastisys, Sweden"
+Jean-Baptiste Besnard,ParaTools Inc
+Abhinav Bhatele,University of Maryland
+Nicholas Chaimov,ParaTools Inc
+Quan Chen,"Shanghai Jiao Tong University, Alibaba Cloud"
+Trilce Estrada,University of New Mexico
+Wanling Gao,"Institute of Computing Technology, Chinese Academy of Sciences"
+Markus Geimer,"Forschungszentrum Jülich, Juelich Supercomputing Centre (JSC)"
+Ann Gentile,Sandia National Laboratories
+Hui Guan,"University of Massachusetts, Amherst"
+Georg Hager,"Friedrich-Alexander University, Erlangen-Nuremberg; Erlangen National High Performance Computing Center"
+Simon Hammond,National Nuclear Security Administration (NNSA)
+Mohammad A Islam,"University of Texas, Arlington"
+Julien Jaeger,French Alternative Energies and Atomic Energy Commission (CEA)
+John Linford,NVIDIA Corporation
+Tongping Liu,"University of Massachusetts, Amherst"
+Xu Liu,"North Carolina State University, Oak Ridge National Laboratory (ORNL)"
+Allen Malony,"University of Oregon, ParaTools Inc"
+Josh Milthorpe,"Oak Ridge National Laboratory (ORNL), Australian National University"
+Tiffany M. Mintz,Advanced Micro Devices (AMD) Inc
+Frank Mueller,North Carolina State University
+Dhabaleswar K. (DK) Panda,Ohio State University
+Barry Rountree,Lawrence Livermore National Laboratory
+Probir Roy,University of Michigan - Dearborn
+Tong Shu,University of North Texas
+Dandan Song,Beijing Institute of Technology
+Nathan Tallent,Pacific Northwest National Laboratory (PNNL)
+Guangming Tan,"Institute of Computing Technology, Chinese Academy of Sciences; Chinese Academy of Sciences"
+Jesper Larsson Träff,Technical University Wien (Vienna University of Technology)
+Michèle Weiland,"University of Edinburgh, EPCC"
+Bert Wesarg,"GWT-TUD GmbH; Department for Information Services and High Performance Computing (ZIH), Center for Interdisciplinary Digital Sciences (CIDS), Technische Universität Dresden"
+Nicholas J. Wright,National Energy Research Scientific Computing Center (NERSC)
+Yang You,National University of Singapore
+John Shalf,Lawrence Berkeley National Laboratory (LBNL)
+Didem Unat,"Koç University, Turkey"
+James A. Ang,Pacific Northwest National Laboratory (PNNL)
+Keren Bergman,"Columbia University, Ayar Labs"
+Shekhar Borkar,Qualcomm Inc
+Anastasiia Butko,Lawrence Berkeley National Laboratory (LBNL)
+David Donofrio,"Tactical Computing Laboratories LLC, Lawrence Berkeley National Laboratory (LBNL)"
+Mariami Gachechiladze,Technical University Darmstadt
+Maya Gokhale,Lawrence Livermore National Laboratory (LLNL)
+Xiaohu Guo,Hartree Centre
+Thomas Häner,Microsoft Corporation
+Myoungsoo Jung,Korea Advanced Institute of Science and Technology (KAIST)
+Stefano Markidis,"KTH Royal Institute of Technology, Sweden"
+George Michelogiannakis,"Lawrence Berkeley National Laboratory (LBNL), Stanford University"
+Kenneth O'Brien,Advanced Micro Devices (AMD) Inc
+Olga Ovchinnikova,Oak Ridge National Laboratory (ORNL)
+Scott Pakin,Los Alamos National Laboratory (LANL)
+Robert Schreiber,Cerebras Systems
+Catherine Schuman,University of Tennessee
+Damian S. Steiger,Microsoft Corporation
+Osman Unsal,Barcelona Supercomputing Center (BSC)
+Jeffrey S. Vetter,Oak Ridge National Laboratory (ORNL)
+Richard Vuduc,Georgia Institute of Technology
+Olga Pearce,"Lawrence Livermore National Laboratory, Texas A&M University"
+Kento Sato,RIKEN
+Gabriel Antoniu,French Institute for Research in Computer Science and Automation (INRIA)
+Michela Becchi,North Carolina State University
+Amanda J. Bienz,University of New Mexico
+David Boehme,Lawrence Livermore National Laboratory (LLNL)
+Patrick Bridges,University of New Mexico
+Stephanie Brink,Lawrence Livermore National Laboratory (LLNL)
+Andrew Chien,"University of Chicago, Argonne National Laboratory (ANL)"
+Dilma Da Silva,Texas A&M University
+Damian Dechev,"University of Central Florida, National Science Foundation (NSF)"
+James Dinan,NVIDIA Corporation
+Nan Ding,Lawrence Berkeley National Laboratory (LBNL)
+David Eberius,Oak Ridge National Laboratory (ORNL)
+Kurt B. Ferreira,"Sandia National Laboratories, University of New Mexico"
+Rong Ge,Clemson University
+Balazs Gerofi,"Intel Corporation, RIKEN"
+Elsa J. Gonsiorowski,Lawrence Livermore National Laboratory (LLNL)
+Ganesh Gopalakrishnan,University of Utah
+Oded Green,"NVIDIA Corporation, Georgia Institute of Technology"
+Luanzheng Guo,Pacific Northwest National Laboratory (PNNL)
+Mary Hall,University of Utah
+Simon Hammond,National Nuclear Security Administration (NNSA)
+Joachim Jenke,RWTH Aachen University
+Ian Karlin,NVIDIA Corporation
+Dong Li,"University of California, Merced"
+Jonathan Madsen,Advanced Micro Devices (AMD) Inc
+Nicholas Malaya,Advanced Micro Devices (AMD) Inc
+Tan Nguyen,Lawrence Berkeley National Laboratory (LBNL)
+Cosmin Eugen Oancea,University of Copenhagen
+Lena Oden,"University of Hagen, Germany; Forschungszentrum Jülich"
+Stephen L. Olivier,Sandia National Laboratories
+Catherine Olschanowsky,Boise State University
+Fabrizio Petrini,Intel Corporation
+Peter Pirkelbauer,"Lawrence Livermore National Laboratory, University of Central Florida"
+Jelena Pjesivac-Grbovic,Verily Life Sciences
+Swaroop Pophale,Oak Ridge National Laboratory (ORNL)
+Ponnuswamy Sadayappan,"University of Utah, Pacific Northwest National Laboratory (PNNL)"
+Anna Sikora,"Autonomous University of Barcelona, Spain"
+Timmie Smith,Intel Corporation
+Hiroyuki Takizawa,"Tohoku University; Tohoku University, Graduate School of Information Sciences"
+Animesh Trivedi,Vrije University Amsterdam
+Miwako Tsuji,"RIKEN Center for Computational Science (R-CCS), AHUG"
+Eric Van Hensbergen,ARM Ltd
+Mohamed Wahib,RIKEN Center for Computational Science (R-CCS)
+Sura Zehra,Bloomberg Finance LP
+Martin Schulz,"Technical University Munich, Computer Architecture and Parallel Systems; Leibniz Supercomputing Centre"
+Melissa C. Smith,Clemson University
+Taisuke Boku,University of Tsukuba
+Kevin A. Brown,Argonne National Laboratory (ANL)
+Jon Calhoun,Clemson University
+Almadena Chtchelkanova,National Science Foundation (NSF)
+Susan Coghlan,Argonne National Laboratory (ANL)
+Danielle A. Ellsworth,Colorado College
+Wu Feng,"Virginia Tech; TOP500, Green500"
+Maria Garzaran,Intel Corporation
+Ryan Grant,"Queen's University, Canada; University of New Mexico"
+William D. Gropp,"University of Illinois, National Center for Supercomputing Applications (NCSA)"
+Venkatesh Kannan,Irish Centre for High‑End Computing (ICHEC)
+Michael Klemm,"Advanced Micro Devices (AMD) Inc, OpenMP Architecture Review Board"
+Masaaki Kondo,"Keio University, Tokyo; RIKEN"
+Dieter A. Kranzlmueller,"Ludwig-Maxmilians-Universität München, Leibniz Supercomputing Centre"
+Johansson Mikael,"CSC – IT Center for Science Ltd, Finland"
+Bernd Mohr,Juelich Supercomputing Centre (JSC)
+Manish Parashar,"Scientific Computing and Imaging Institute (SCI), University of Utah"
+Tapasya Patki,Lawrence Livermore National Laboratory (LLNL)
+Zahra Ronaghi,NVIDIA Corporation
+Roxana Rusitoru,ARM Ltd
+Hari Subramoni,Ohio State University
+Edwin L. Weill,NVIDIA Corporation
+Dorian C. Arnold,Emory University
+Rosa M. Badia,Barçelona Supercomputing Center (BSC); Polytechnic University of Catalonia
+Kathryn Mohror,Lawrence Livermore National Laboratory
+Ivy Peng,KTH Royal Institute of Technology
+Antonino Tumeo,Pacific Northwest National Laboratory (PNNL)
+Umit V. Catalyurek,Amazon Web Services and Georgia Institute of Technology
+Karen Devine,Sandia National Laboratories (ret.)
+Grey Ballard,Wake Forest University
+Fredrik Manne,University of Bergen
+Seher Acer,Google LLC
+Srinivas Aluru,Georgia Institute of Technology
+Hartwig Anzt,"Karlsruhe Institute of Technology, University of Tennessee"
+Ariful Azad,Indiana University
+Petra Berenbrink,University of Hamburg
+Sanjukta Bhowmick,University of North Texas
+Jed Brown,University of Colorado
+Erin Carson,"Charles University, Czech Republic"
+Pål Drange,University of Bergen
+Zhihui Du,New Jersey Institute of Technology
+Fanny Dufossé,French Institute for Research in Computer Science and Automation (INRIA)
+Srinivas Eswar,"Argonne National Laboratory (ANL), Georgia Institute of Technology"
+Kasimir Gabert,Sandia National Laboratories
+Assefaw Gebremedhin,Washington State University
+Laura Grigori,EPFL
+Xiaohu Guo,Hartree Centre
+Julien Langou,"University of Colorado, Denver"
+Hang Liu,"Rutgers, The State University of New Jersey"
+Maryam Mehri Dehnavi,University of Toronto
+Ulrike Meier Yang,Lawrence Livermore National Laboratory
+Uwe Naumann,RWTH Aachen University
+Mostofa Patwary,NVIDIA Corporation
+Sivasankaran Rajamanickam,Sandia National Laboratories
+Yogish Sabharwal,IBM India Research Laboratory
+Peter Sanders,Karlsruhe Institute of Technology (KIT)
+Edgar Solomonik,University of Illinois
+Bora Uçar,French National Center for Scientific Research (CNRS)
+Mathieu Verite,French Institute for Research in Computer Science and Automation (INRIA)
+Frédéric Vivien,French Institute for Research in Computer Science and Automation (INRIA)
+Zhe Wang,Apple Inc
+Helen Xu,Lawrence Berkeley National Laboratory
+Abdurrahaman Yasar,NVIDIA
+Albert-Jan Yzelman,Huawei Technologies Switzerland AG
+Ananth Kalyanaraman,Washington State University
+Ana Lucia Varbanescu,University of Twente and University of Amsterdam
+David Abramson,University of Queensland
+Ayesha Afzal,"Friedrich-Alexander-Universität Erlangen-Nürnberg Germany, Erlangen National High Performance Computing Center (NHR@FAU)"
+Xiaojing An,Meta Inc
+Cristiana Bentes,Rio de Janeiro State University (UERJ)
+Enrico Calore,"Italian National Institute of Nuclear Physics (INFN); University of Ferrara, Italy"
+Rocío Carratalá-Sáez,"University of Valladolid, Spain"
+Valeriu Codreanu,SURFsara
+Lucia Drummond,"Fluminense Federal University, Brazil"
+Priyanka Ghosh,"National Institutes of Health (NIH), National Center for Biotechnology Information (NCBI)"
+Giulia Guidi,Cornell University; Lawrence Berkeley National Laboratory (LBNL)
+Mahantesh Halappanavar,Pacific Northwest National Laboratory (PNNL)
+Steven Hofmeyr,Lawrence Berkeley National Laboratory
+Sidharth Kumar,University of Illinois at Chicago
+Ang Li,Pacific Northwest National Laboratory (PNNL)
+Alba Cristina Magalhaes Alves de Melo,University of Brasilia
+Stefano Markidis,"KTH Royal Institute of Technology, Sweden"
+Marco Minutoli,Pacific Northwest National Laboratory (PNNL)
+Phani Motamarri,Indian Institute of Science
+Gabriel Noaje,NVIDIA
+Swaroop Pophale,Oak Ridge National Laboratory (ORNL)
+John W. Romein,ASTRON (Netherlands Institute for Radio Astronomy)
+Bertil Schmidt,Johannes Gutenberg University Mainz
+Alessio Sclocco,Netherlands eScience Center
+Sudip Seal,Oak Ridge National Laboratory (ORNL)
+Hari Sundar,University of Utah
+Jesmin Jahan Tithi,Intel Corporation
+Lishan Yang,George Mason University
+Ryan Grant,"Queen's University, Canada; University of New Mexico"
+Masaaki Kondo,"Keio University, Tokyo; RIKEN"
+Ahmad Afsahi,"Queen's University, Canada"
+Andrea Bartolini,University of Bologna
+"Mehmet E, Belviranli",Colorado School of Mines
+Amanda J. Bienz,University of New Mexico
+Salvatore Di Girolamo,NVIDIA
+Jens Domke,RIKEN Center for Computational Science (R-CCS)
+Mahdieh Ghazimirsaeed,Advanced Micro Devices (AMD) Inc
+Tristan Glatard,Concordia University
+"Dhrubajyoti, Goswami",Concordia University
+Richard Graham,NVIDIA
+Martin C. Herbordt,Boston University
+James Lin,Shanghai Jiao Tong University
+George Michelogiannakis,Lawrence Berkeley National Laboratory (LBNL); Stanford University
+Roxana Rusitoru,ARM Ltd
+William Schonbein,Sandia National Laboratories
+Kathleen Shoga,Lawrence Livermore National Laboratory
+Keith Underwood,Hewlett Packard Enterprise
+Kazutomo Yoshii,Argonne National Laboratory (ANL)
+Joanna Kolodziej,Cracow University of Technology; NASK National Research Institute
+Douglas Thain,University of Notre Dame
+Michela Becchi,North Carolina State University
+Matthias A. Blumrich,NVIDIA Corporation
+Adriana E. Chis,National College of Ireland
+Alexandru Costan,French Institute for Research in Computer Science and Automation (INRIA)
+Rosa Filgueira,University of St Andrews
+Horacio Gonzalez-Velez,Cloud Competency Centre-NCI
+Alexandru Iosup,Vrije University Amsterdam; Delft University of Technology
+David Irwin,"University of Massachusetts, Amherst"
+Pavel Kromer,VSB - Technical University of Ostrava
+John Lange,Oak Ridge National Laboratory (ORNL); University of Pittsburgh
+David Malanik,TBU in Zlin
+Tanu Malik,DePaul University
+Claudia Misale,IBM
+Adel N. Toosi,Monash University
+Radu Prodan,University of Klagenfurt
+M. Mustafa Rafique,Rochester Institute of Technology
+Tyler Skluzacek,Oak Ridge National Laboratory (ORNL)
+Chen Wang,IBM Research
+Kwan-Liu Ma,"University of California, Davis"
+Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory (LBNL)
+Gabriel Antoniu,French Institute for Research in Computer Science and Automation (INRIA)
+Harsh Bhatia,Lawrence Livermore National Laboratory
+Rita Borgo,King's College London
+Bin Dong,Lawrence Berkeley National Laboratory (LBNL)
+Steffen Frey,University of Groningen
+Hanqi Guo,The Ohio State University
+Dean Hildebrand,Google LLC
+Jian Huang,University of Tennessee
+Kate Isaacs,University of Utah
+Glenn K. Lockwood,Microsoft Corporation
+Jay Lofstead,Sandia National Laboratories
+Kenneth Moreland,Oak Ridge National Laboratory (ORNL)
+Sarah M. Neuwirth,Johannes Gutenberg University Mainz; Juelich Supercomputing Centre (JSC)
+María S. Pérez,Polytechnic University of Madrid
+Michael E. Papka,"Argonne National Laboratory (ANL); University of Illinois, Chicago"
+Kristi Potter,National Renewable Energy Laboratory (NREL)
+Robert B. Ross,Argonne National Laboratory (ANL)
+Caitlin Ross,Kitware Inc
+Naohisa Sakamoto,"Kobe University, Japan"
+Chaoli Wang,University of Notre Dame
+Gunther Weber,"Lawrence Berkeley National Laboratory (LBNL); University of California, Davis"
+Bing Xie,Microsoft
+Wei Xu,Brookhaven National Lab
+Hongfeng Yu,University of Nebraska-Lincoln
+Sayan Ghosh,Pacific Northwest National Laboratory (PNNL)
+Bingsheng He,National University of Singapore
+Eliu Huerta,"Argonne National Laboratory (ANL), University of Chicago"
+Shadi Ibrahim,French Institute for Research in Computer Science and Automation (INRIA)
+Weile Jia,"Institute of Computing Technology, Chinese Academy of Sciences"
+Ramakrishnan Kannan,Georgia Institute of Technology
+Janis Keuper,Offenburg University of Applied Sciences; Fraunhofer Institute for Industrial Mathematics
+Penporn Koanantakool,Google (Thailand) Company Limited
+Shigang Li,Beijing University of Posts and Telecommunications
+Sandeep Madireddy,Argonne National Laboratory (ANL)
+Preeti Malakar,"Indian Institute of Technology (IIT), Kanpur"
+Jintao Meng,"Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+Sparsh Mittal,IIT Roorkee
+Dheevatsa Mudigere,Nvidia
+Maxim Naumov,Meta
+Anna Queralt,Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia
+Shweta Salaria,IBM Thomas J. Watson Research Center
+Xipeng Shen,North Carolina State University
+Thao Nguyen Truong,National Institute of Advanced Industrial Science and Technology
+Brian C. Van Essen,Lawrence Livermore National Laboratory
+Bharti Wadhwa,IBM Research
+Yu (Emma) Wang,Google LLC
+Rio Yokota,Tokyo Institute of Technology
+Yang You,National University of Singapore
+Steven R. Young,"Oak Ridge National Laboratory (ORNL), University of Tennessee"
+Shuhao Zhang,Singapore University of Technology and Design
+Yue Zhu,IBM Research
+Jean-Baptiste Besnard,ParaTools Inc
+Aparna Chandramowlishwaran,"University of California, Irvine"
+Marco Aldinucci,University of Torino; CINI HPC-KTT lab
+Tal Ben-Nun,Lawrence Livermore National Laboratory
+Patrick Carribault,"French Alternative Energies and Atomic Energy Commission, Directorate of Military Applications (CEA-DAM)"
+Pablo de Oliveira Castro,University of Versailles - University Paris-Saclay
+Alex Fender,NVIDIA
+Todd Gamblin,Lawrence Livermore National Laboratory
+Maria Garzaran,Intel Corporation
+Aytekin Gel,"ALPEMI Consulting, L.L.C."
+Simon Hammond,National Nuclear Security Administration (NNSA)
+Kevin Huck,University of Oregon
+Nikhil Jain,NVIDIA Corporation
+Christopher January,ARM Ltd
+Joachim Jenke,RWTH Aachen University
+Andreas Knüpfer,Helmholtz-Zentrum Dresden-Rossendorf (HZDR); Center for Advanced Systems Understanding (CASUS)
+Jiajia Li,North Carolina State University
+Allen Malony,University of Oregon; ParaTools Inc
+Shirley Moore,"University of Texas, El Paso"
+Israt Nisa,AWS AI Research and Education
+Boyana Norris,Luminous Computing; University of Oregon
+Emmanuel Oseret,Exascale Computing Research (ECR)
+Martin Schulz,"Technical University Munich, Computer Architecture and Parallel Systems; Leibniz Supercomputing Centre"
+David Singh,Charles III University of Madrid
+Fengguang Song,Indiana University Purdue University Indianapolis (IUPUI)
+Hari Subramoni,Ohio State University
+Nathan Tallent,Pacific Northwest National Laboratory (PNNL)
+Shivaram Venkataraman,"University of Wisconsin, Madison"
+Abhinav Vishnu,Advanced Micro Devices (AMD) Inc
+Michèle Weiland,"University of Edinburgh; EPCC, The University of Edinburgh"
+Rohit Zambre,NVIDIA Networking
+Anastasiia Butko,Lawrence Berkeley National Laboratory (LBNL)
+Catherine Schuman,University of Tennessee
+TizianoDe Matteis,VU Amsterdam
+Esam El-Araby,University of Kansas (KU)
+Patricia Gonzalez-Guerrero,Lawrence Berkeley National Laboratory
+Shruti R. Kulkarni,Oak Ridge National Laboratory
+Advait Madhavan,National Institute of Standards and Technology; University of Maryland College Park
+George Michelogiannakis,Lawrence Berkeley National Laboratory (LBNL); Stanford University
+Robert Schreiber,Cerebras Systems
+Jeffrey S. Vetter,Oak Ridge National Laboratory (ORNL)
+Richard Vuduc,Georgia Institute of Technology
+Zhi (Jackie) Yao,Lawrence Berkeley National Laboratory
+Sriram Krishnamoorthy,Google LLC
+Claudia Fohry,University of Kassel
+Umut Acar,"Carnegie Mellon University, Amazon Web Services"
+Swarnendu Biswas,Indian Institute of Technology Kanpur
+Biagio Cosenza,University of Salerno
+James Dinan,NVIDIA Corporation
+AhmedEl-Mahdy,Nile University; E-JUST
+Michal Friedman,ETH Zürich
+Ganesh Gopalakrishnan,University of Utah
+Tsung-Wei Huang,The University of Wisconsin at Madison
+Kamil Iskra,Argonne National Laboratory (ANL)
+Gokcen Kestor,"Pacific Northwest National Laboratory (PNNL); University of California, Merced"
+Michael Klemm,Advanced Micro Devices (AMD) Inc; OpenMP Architecture Review Board
+Martin Kong,Ohio State University
+Matthias Korch,University of Bayreuth
+Ignacio Laguna,Lawrence Livermore National Laboratory
+Jonathan Lifflander,Sandia National Laboratories
+Xu Liu,North Carolina State University; Oak Ridge National Laboratory (ORNL)
+Esteban Meneses,Costa Rica National High Technology Center; Costa Rica Institute of Technology
+V. Krishna Nandivada,IIT Madras
+Lena Oden,"University of Hagen, Germany; Forschungszentrum Jülich"
+Miquel Pericas,"Chalmers University of Technology, Sweden"
+Jonas Posner,University of Kassel
+Bin Ren,William & Mary
+Ponnuswamy Sadayappan,University of Utah; Pacific Northwest National Laboratory (PNNL)
+Joseph Schuchart,"University of Tennessee, Innovative Computing Laboratory"
+Elliott Slaughter,SLAC National Accelerator Laboratory
+Shuaiwen Leon Song,Microsoft Corporation
+Michelle Strout,Hewlett Packard Enterprise (HPE); University of Arizona
+Aravind Sukumaran-Rajam,Meta
+Guangming Tan,"Institute of Computing Technology, Chinese Academy of Sciences"
+KenjiroTaura,University of Tokyo
+Qing Yi,"University of Colorado, Colorado Springs"
+Zhengji Zhao,Lawrence Berkeley National Laboratory (LBNL); National Energy Research Scientific Computing Center (NERSC)
+Taisuke Boku,University of Tsukuba
+Ann Gentile,Sandia National Laboratories
+Costas Bekas,Citadel Securities
+Amanda M. Bonnie,LANL
+Patrick Bridges,University of New Mexico
+Franck Cappello,Argonne National Laboratory (ANL); University of Illinois
+Valeria Cardellini,University of Rome Tor Vergata
+John Cazes,University of Texas
+Ayse Kivilcim Coskun,Boston University
+Andy Herdman,AWE plc
+Larry Kaplan,Hewlett Packard Enterprise
+HiroakiKobayashi,Tohoku University
+Jysoo Lee,King Abdullah University of Science and Technology
+Yutong Lu,"National Supercomputer Center, Guangzhou; Sun Yat-sen University"
+Matthias S. Mueller,RWTH Aachen University
+Akira Naruse,NVIDIA Corporation
+Hoon Ryu,KISTI
+Mitsuhisa Sato,Juntendo University; RIKEN Center for Computational Science (R-CCS)
+Miwako Tsuji,RIKEN Center for Computational Science (R-CCS); AHUG
+Jay Lofstead,Sandia National Laboratories
+Rafael Tolosana-Calasanz,University of Zaragoza
+Karlyn K. Harrod,Oak Ridge National Laboratory
+Diana Dugas,
+Gabriel Gonzalez,"University College Cork, Ireland"
+Anna Maria Bailey,Lawrence Livermore National Laboratory; Energy Efficient HPC Working Group
+Natalie Bates,Energy Efficient HPC Working Group
+Oceane Bel,Pacific Northwest National Laboratory (PNNL)
+Angel Beltre,State University of New York at Binghamton
+Jean Luca Bez,Lawrence Berkeley National Laboratory (LBNL)
+Aurelien Bouteiller,University of Tennessee
+Kristen Brown,Intuitive Surgical Inc
+Reuben D. Budiardja,Oak Ridge National Laboratory (ORNL)
+Roberto Castro,University of A Coruńa
+Jan Ciesko,Sandia National Laboratories
+Jessica Dagostini,"University of California, Santa Cruz"
+Pamela Delgado,University of Applied Sciences Western Switzerland
+Hariharan Devarajan,"Lawrence Livermore National Laboratory, Illinois Institute of Technology"
+Sheng Di,Argonne National Laboratory (ANL); University of Chicago
+Aniello Esposito,Hewlett Packard Enterprise (HPE)
+Jamie Finney,Oak Ridge National Laboratory (ORNL)
+Ana Gainaru,Oak Ridge National Laboratory (ORNL)
+Christian J. Gilbertson,Sandia National Laboratories
+Jorge González-Domínguez,University of A Coruña
+Gabriel Gonzalez,"University College Cork, Ireland"
+Samuel Grayson,University of Illinois; Sandia National Laboratories
+Jennifer Green,Los Alamos National Laboratory (LANL)
+Luanzheng Guo,Pacific Northwest National Laboratory (PNNL)
+Weicheng Huang,"National Center for High-Performance Computing (NCHC), Taiwan"
+Sascha Hunold,Technical University of Vienna
+Md Taufique Hussain,Indiana University
+Joy Kitson,University of Maryland
+Pouya Kousha,The Ohio State University
+Maria Francine Therese Lapid,Los Alamos National Laboratory (LANL)
+Luke Logan,"Illinois Institute of Technology Chicago, Illinois Institute of Technology"
+Jakob Luettgau,University of Tennessee
+Tanwi Mallick,Argonne National Laboratory (ANL)
+Addi Malviya-Thakur,"Oak Ridge National Laboratory (ORNL), University of Tennessee"
+Steve Menken,National Renewable Energy Laboratory (NREL)
+Sarah M. Neuwirth,"Johannes Gutenberg University Mainz, Juelich Supercomputing Centre (JSC)"
+Paula Fernanda Olaya García,University of Tennessee
+Maria Patrou,Oak Ridge National Laboratory (ORNL)
+Arnab K. Paul,"BITS Pilani, K. K. Birla Goa Campus"
+Yu Pei,Microsoft Corporation
+Mihaela Quirk,NNSA
+Neeraj Rajesh,Illinois Institute of Technology
+Srinivasan Ramesh,NVIDIA Corporation
+Amit Ruhela,"Texas Advanced Computing Center (TACC), University of Texas"
+Antonio Sciarappa,"Leonardo Labs, Italy"
+Connor F Scully-Allison,University of Utah; Scientific Computing and Imaging Institute
+Shanjiang Tang,"Tianjin University, College of Intelligence and Computing"
+Francois Tessier,French Institute for Research in Computer Science and Automation (INRIA)
+Luan Teylo,French Institute for Research in Computer Science and Automation (INRIA)
+Gwendolyn Voskuilen,Sandia National Laboratories
+Lipeng Wan,Georgia State University
+Kangyu Wang,Institute of Computing Technology
+Panruo Wu,University of Houston
+Bing Xie,Microsoft
+Dewi Yokelson,University of Oregon
+Andrew Younge,Sandia National Laboratories
+Amelie Chi Zhou,Hong Kong Baptist University
+Josef Spillner,Zurich University of Applied Sciences
+Omer Rana,Cardiff University
+Cristina Abad,ESPOL
+Nick Brown,"Edinburgh Parallel Computing Centre (EPCC), University of Edinburgh"
+Sally Ellingson,University of Kentucky
+Ivo Jimenez,"University of California, Santa Cruz; University of Sonora"
+Sarah Knepper,Intel Corporation
+Stephen Leak,National Energy Research Scientific Computing Center (NERSC)
+Junjie Li,Texas Advanced Computing Center (TACC)
+Georgios Markomanolis,Advanced Micro Devices (AMD) Inc
+Abhinav S Thota,Indiana University
+Stuart G Yates,Pawsey Supercomputing Research Centre
+Tyler Allen,University of North Carolina at Charlotte
+Alana Romanella,"University of Colorado, Boulder"
+Engin Arslan,"University of Texas, Arlington"
+Daniel Balouek-Thomert,"University of Utah, Scientific Computing and Imaging Institute (SCI)"
+Jean Luca Bez,Lawrence Berkeley National Laboratory (LBNL)
+Rocío Carratalá-Sáez,"University of Valladolid, Spain"
+Rusty Davis,Los Alamos National Laboratory
+William Godoy,Oak Ridge National Laboratory (ORNL)
+Andreas Hadjigeorgiou,The Cyprus Institute
+Tim Robinson,"Swiss National Supercomputing Centre (CSCS), ETH Zürich"
+Darshan Sarojini,"University of California, San Diego (UCSD)"
+Rohit Zambre,NVIDIA Networking
+Scott Pakin,Los Alamos National Laboratory
+Michelle Strout,University of Arizona
+Franck Cappello,"Argonne National Laboratory (ANL), University of Illinois"
+Sherry Li,Lawrence Berkeley National Laboratory
+Hatem Ltaief,King Abdullah University of Science and Technology (KAUST)
+Ahmad Abdelfattah,University of Tennessee
+Rached Abdelkhalak,King Abdullah University of Science and Technology (KAUST)
+Mark Adams,Lawrence Berkeley National Laboratory
+Emmanuel Agullo,French Institute for Research in Computer Science and Automation (INRIA)
+Grey Ballard,Wake Forest University
+Ioana Banicescu,Mississippi State University*
+Anne Benoit,ENS Lyon
+Sanjukta Bhowmick,University of North Texas
+Jed Brown,University of Colorado
+Umit Catalyurek,Georgia Institute of Technology
+Gustavo Chávez,Lawrence Berkeley National Laboratory
+Florina M. Ciorba,"University of Basel, Switzerland"
+Kate Clark,Nvidia Corporation
+Karen Devine,Sandia National Laboratories
+James Elliott,Sandia National Laboratories
+Aniello Esposito,Hewlett Packard Enterprise
+Murat Efe Guney,Nvidia Corporation
+Gregory M. Henry,Intel Corporation
+Thomas Herault,University of Tennessee
+Howie Huang,George Washington University*
+Emmanuel Jeannot,Inria
+Christine Klymko,Lawrence Livermore National Laboratory*
+Ronald Kriemann,Max Planck Institute for Mathematics
+Weifeng Liu,"China University of Petroleum, Beijing*"
+Ulrike Meier Yang,Lawrence Livermore National Laboratory
+Jason Riedy,Georgia Institute of Technology
+Krzysztof Rzadca,"Google LLC, University of Warsaw"
+Erik Saule,"University of North Carolina, Charlotte"
+Edgar Solomonik,University of Illinois
+Hari Sundar,University of Utah
+Guangming Tan,"Institute of Computing Technology, Chinese Academy of Sciences"
+Harsh Vardhan,"Google LLC, Texas A&M University*"
+Chao Yang,"Peking University, Chinese Academy of Sciences"
+Michael Bader,Technical University Munich
+Suzanne Shontz,University of Kansas
+Srinivas Aluru,"Georgia Institute of Technology, School of Computational Science and Engineering"
+George Biros,"University of Texas, Oden Institute"
+Aparna Chandramowlishwaran,"University of California, Irvine"
+Clint N. Dawson,University of Texas
+Anshu Dubey,"Argonne National Laboratory (ANL), University of Chicago"
+Pradeep Dubey,Intel Corporation*
+Haohuan Fu,"Tsinghua University, China; National Supercomputing Center, Wuxi*"
+Xiaohu Guo,Hartree Centre
+Jeffrey A. F. Hittinger,Lawrence Livermore National Laboratory
+Jesus A. Izaguirre,DE Shaw Research LLC
+Peter Jimack,University of Leeds
+Kirk E. Jordan,IBM Research
+Harald Köstler,University of Erlangen-Nuremberg
+Chao-An Lin,"National Tsing Hua University, Taiwan*"
+Kamesh Madduri,Pennsylvania State University
+A. Cristiano I. Malossi,IBM Corporation*
+Miriam Mehl,"University of Stuttgart, Institute for parallel and distributed systems (IPVS)"
+Bronson Messer,"Oak Ridge National Laboratory (ORNL), University of Tennessee*"
+Hai Ah Nam,Los Alamos National Laboratory
+Daniel Peter,King Abdullah University of Science and Technology (KAUST)
+Amanda Randles,Duke University
+Olaf Schenk,University of Lugano
+Richard Vuduc,Georgia Institute of Technology
+Stefan Wild,Argonne National Laboratory (ANL)
+Chao Yang,Lawrence Berkeley National Laboratory
+Jonathan Beard,ARM Ltd
+Brian Towles,DE Shaw Research LLC
+Jung Ho Ahn,Seoul National University*
+Giri Chukkapalli,Nvidia Corporation
+David Donofrio,"Tactical Computing Laboratories LLC, Lawrence Berkeley National Laboratory"
+Mattan Erez,University of Texas
+Daniel J. Ernst,Cray Inc
+Madeleine Glick,Columbia University
+Simon Hammond,Sandia National Laboratories
+Scott Hemmert,Sandia National Laboratories
+Robert Hoekstra,Sandia National Laboratories
+Akanksha Jain,University of Texas
+Admela Jukan,Technical University of Braunschweig*
+Samira Khan,University of Virginia
+John Leidel,"Tactical Computing Laboratories LLC, Texas Tech University"
+Jon Masters,Red Hat Inc
+Satoshi Matsuoka,"RIKEN, Tokyo Institute of Technology"
+Andrew Putnam,Microsoft Corporation
+Minsoo Rhu,Korea Advanced Institute of Science and Technology (KAIST)
+Kevin Rudd,US Naval Academy
+Roxana Rusitoru,ARM Ltd
+Gwendolyn Voskuilen,Sandia National Laboratories
+Wei Wu,Intel Corporation
+Xin Yuan,Florida State University
+Jishen Zhao,"University of California, San Diego*"
+Ilkay Altintas,"San Diego Supercomputer Center; University of California, San Diego, Halicioglu Data Science Institute"
+Gabriel Antoniu,French Institute for Research in Computer Science and Automation (INRIA)
+David Abramson,University of Queensland
+Roger Barga,Amazon Web Services*
+Goetz Brasche,Huawei Technologies Ltd
+Kyle Chard,"University of Chicago, Argonne National Laboratory (ANL)"
+Alexandru Costan,French Institute for Research in Computer Science and Automation (INRIA)
+Peter Dinda,Northwestern University*
+Liana Fong,"IBM Research, IBM Corporation"
+Judy Fox,Indiana University
+Dennis Gannon,"Indiana University, The eScience Cloud"
+Alexandru Iosup,"Vrije University Amsterdam, Delft University of Technology"
+Kate Keahey,"Argonne National Laboratory, University of Chicago"
+Bogdan Nicolae,Argonne National Laboratory (ANL)
+Christian Perez,French Institute for Research in Computer Science and Automation (INRIA)
+Radu Prodan,University of Klagenfurt
+María S. Pérez,Technical University of Madrid*
+Ioan Raicu,"Illinois Institute of Technology, Argonne National Laboratory (ANL)"
+Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory*
+Matei Ripeanu,University of British Columbia
+Shava Smallen,San Diego Supercomputer Center
+John Bent,Seagate Systems
+Suzanne McIntosh,"New York University (NYU), Courant Institute of Mathematical Sciences; New York University (NYU), Center for Data Science"
+Deborah Bard,National Energy Research Scientific Computing Center (NERSC)
+Janine C. Bennett,Sandia National Laboratories
+Rita Borgo,King's College London*
+Toni Cortes,Barcelona Supercomputing Center (BSC)*
+Christine Harvey,MITRE Corporation
+Bingsheng He,National University of Singapore
+Dean Hildebrand,Google LLC
+Pamela Hill,National Center for Atmospheric Research (NCAR)
+Shadi Ibrahim,French Institute for Research in Computer Science and Automation (INRIA)
+Kristy Kallback-Rose,Lawrence Berkeley National Laboratory
+Dries Kimpe,University of Chicago
+Daniel Laney,Lawrence Livermore National Laboratory
+Stephen Leak,National Energy Research Scientific Computing Center (NERSC)
+Glenn K. Lockwood,Lawrence Berkeley National Laboratory
+Xiaoyi Lu,"University of California, Merced"
+Xiaosong Ma,Qatar Computing Research Institute*
+Dominic A. Manno,Los Alamos National Laboratory*
+Meghan McClelland,Versity Software Inc*
+Verónica G. Melesse Vergara,Oak Ridge National Laboratory (ORNL)
+Raghunath Raja Chandrasekar,Amazon Web Services
+Brad Settlemyer,Los Alamos National Laboratory
+Zhiqi Tao,Intel Corporation
+Osamu Tatebe,University of Tsukuba
+Sudharshan Vazhkudai,"Oak Ridge National Laboratory (ORNL), Oak Ridge National Laboratory"
+Venkatram Vishwanath,Argonne National Laboratory (ANL)
+Yue Yang,Micron Technology Inc
+Mohamed Zahran,New York University
+Zheng Zhang,Rutgers University*
+Maryam Dehnavi,University of Toronto
+Robert Patton,Oak Ridge National Laboratory
+Ariful Azad,Indiana University
+Tal Ben-Nun,ETH Zurich
+Wahid Bhimji,Lawrence Berkeley National Laboratory*
+Christopher Carothers,Rensselaer Polytechnic Institute (RPI)
+Guojing Cong,IBM Corporation
+Kimon Fountoulakis,University of Waterloo
+Amir Gholami,"University of California, Berkeley"
+Alex Gittens,Rensselaer Polytechnic Institute (RPI)
+Chris Gottbrath,Facebook
+Coi-Jui Hseih,"University of California, Los Angeles (UCLA); Google LLC"
+Eliu Huerta,National Center for Supercomputing Applications (NCSA)*
+Travis Johnston,Oak Ridge National Laboratory (ORNL)
+Ramakrishnan Kannan,Georgia Institute of Technology
+Janis Keuper,"Offenburg University of Applied Sciences, Fraunhofer Institute for Industrial Mathematics*"
+Misbah Mubarak,Argonne National Laboratory (ANL)*
+Catherine Schuman,University of Tennessee
+Sreenivas Sukumar,Hewlett Packard Enterprise
+Brian C. Van Essen,Lawrence Livermore National Laboratory
+Abhinav Vishnu,Advanced Micro Devices (AMD) Inc
+Shusen Wang,Stevens Institute of Technology
+Rio Yokota,"Tokyo Institute of Technology, National Institute of Advanced Industrial Science and Technology (AIST)"
+Steven R. Young,"Oak Ridge National Laboratory; University of Tennessee, Knoxville"
+Lauren L. Smith,Retired
+Nathan Tallent,Pacific Northwest National Laboratory (PNNL)
+Kevin J. Barker,Pacific Northwest National Laboratory (PNNL)
+Taisuke Boku,University of Tsukuba*
+Zoran Budimlic,Rice University
+Laura C. Carrington,EP Analytics Inc
+Marc Casas Guix,"Barcelona Supercomputing Center, Polytechnic University of Catalonia"
+Milind Chabbi,"Uber Technologies Inc, Scalable Systems Research Labs"
+Wenguang Chen,"Tsinghua University, China*"
+Chen Ding,University of Rochester
+Stephane Eranian,Google LLC
+Todd Gamblin,Lawrence Livermore National Laboratory
+Megan Grodowitz,ARM Ltd*
+Ulf Hanebutte,Marvell Technology Group Ltd
+Kevin Huck,University of Oregon*
+Tanzima Islam,Texas State University*
+Karen L. Karavanic,Portland State University*
+Andreas Knuepfer,Technical University Dresden*
+Xu Liu,North Carolina State University
+Andrew Mallinson,Intel Corporation*
+Allen Malony,University of Oregon
+Kathryn Mohror,Lawrence Livermore National Laboratory
+Matthias S. Mueller,RWTH Aachen University*
+Dhabaleswar K. (DK) Panda,Ohio State University
+Swaroop Pophale,Oak Ridge National Laboratory
+Philip C. Roth,Oak Ridge National Laboratory (ORNL)
+Liji Samuel,US Department of Defense
+Sameer Shende,University of Oregon
+Xian-He Sun,Illinois Institute of Technology
+Michele Weiland,University of Edinburgh
+Noel Wheeler,University of Maryland
+Samuel W. Williams,Lawrence Berkeley National Laboratory
+Felix Wolf,Technical University of Darmstadt
+Sriram Krishnamoorthy,Pacific Northwest National Laboratory (PNNL)
+Xipeng Shen,North Carolina State University
+Sunita Chandrasekaran,University of Delaware*
+James Dinan,NVIDIA
+Claudia Fohry,University of Kassel
+Michael Garland,Nvidia Corporation
+Gokcen Kestor,Pacific Northwest National Laboratory (PNNL)
+Milind Kulkarni,Purdue University*
+Chunhua Liao,Lawrence Livermore National Laboratory
+Jonathan Lifflander,Sandia National Laboratories
+Lei Liu,"Institute of Computing Technology, Chinese Academy of Sciences*"
+Boyana Norris,University of Oregon
+Ponnuswamy Sadayappan,"University of Utah, Pacific Northwest National Laboratory (PNNL)"
+Malavika Samak,Massachusetts Institute of Technology (MIT)
+Kenjiro Taura,University of Tokyo*
+Osman Unsal,Barcelona Supercomputing Center (BSC)
+Bo Wu,Colorado School of Mines
+Jingling Xue,University of New South Wales
+Qing Yi,"University of Colorado, Colorado Springs"
+Tomofumi Yuki,French Institute for Research in Computer Science and Automation (INRIA)
+Jidong Zhai,"Tsinghua University, China"
+Sadaf R. Alam,"Swiss National Supercomputing Centre (CSCS), ETH Zurich"
+Wu Feng,Virginia Tech
+Roy Campbell,US Department of Defense HPC Modernization Program
+Candace Culhane,Los Alamos National Laboratory
+Thomas Eickermann,"Forschungszentrum Juelich, Juelich Supercomputing Centre"
+Toshio Endo,"Tokyo Institute of Technology, National Institute of Advanced Industrial Science and Technology"
+Heike Jagode,University of Tennessee
+Diana Moise,Hewlett Packard Enterprise
+Manish Parashar,"Rutgers University, Rutgers Discovery Informatics Institute"
+Fabrizio Petrini,Intel Corporation
+Mallikarjun (Arjun) Shankar,Oak Ridge National Laboratory (ORNL)
+Melissa C. Smith,Clemson University
+Gregory Stoner,Intel Corporation*
+Hari Subramoni,Ohio State University
+Ana Lucia Varbanescu,University of Amsterdam
+Ugo Varetto,Pawsey Supercomputing Center*
+Patrick Bridges,University of New Mexico
+Dilma Da Silva,Texas A&M University
+Ahmad Afsahi,"Queen's University, Canada"
+Michela Becchi,North Carolina State University
+Nan Ding,Lawrence Berkeley National Laboratory
+Kurt B. Ferreira,Sandia National Laboratories
+Ana Gainaru,Oak Ridge National Laboratory
+Ada Gavrilovska,Georgia Institute of Technology
+Balazs Gerofi,RIKEN*
+Alfredo Goldman,University of São Paulo
+Bilel Hadri,King Abdullah University of Science and Technology (KAUST)
+Michio Honda,NEC Laboratories Europe
+Yu Hua,Huazhong University of Science and Technology
+Kamil Iskra,Argonne National Laboratory (ANL)
+Larry Kaplan,Hewlett Packard Enterprise
+Zhiling Lan,Illinois Institute of Technology
+Michael Lang,Los Alamos National Laboratory
+Arthur Maccabe,Oak Ridge National Laboratory (ORNL)
+Gilles Muller,French Institute for Research in Computer Science and Automation (INRIA)*
+Raymond Namyst,"University of Bordeaux, French Institute for Research in Computer Science and Automation (INRIA)"
+Robert W. Wisniewski,Intel Corporation
+Franck Cappello,"Argonne National Laboratory (ANL), University of Illinois"
+Rudolf Eigenmann,University of Delaware
+Umit V. Catalyurek,"Amazon Web Services, Georgia Institute of Technology"
+Florina M. Ciorba,"University of Basel, Switzerland"
+Grey Ballard,Wake Forest University
+Ioana Banicescu,Mississippi State University
+Jed Brown,University of Colorado
+Aydin Buluc,"Lawrence Berkeley National Laboratory (LBNL); University of California, Berkeley"
+Aparna Chandramowlishwaran,"University of California, Irvine"
+Sunita Chandrasekaran,University of Delaware
+Jee Choi,University of Oregon
+Karen Devine,Sandia National Laboratories
+Fanny Dufossé,French Institute for Research in Computer Science and Automation (INRIA)
+Aniello Esposito,Hewlett Packard Enterprise (HPE)
+Patrick Flick,Google LLC
+Xiaohu Guo,Hartree Centre
+Jianyu Huang,Facebook
+Emmanuel Jeannot,"National Institute for Research in Computer Science and Automation (Inria), France; University of Bordeaux"
+Ananth Kalyanaraman,Washington State University
+Laércio Lima Pilla,French National Center for Scientific Research (CNRS)
+Hang Liu,Stevens Institute of Technology
+Kamesh Madduri,Pennsylvania State University
+Maryam Mehri Dehnavi,University of Toronto
+Ulrike Meier Yang,Lawrence Livermore National Laboratory
+Mostofa Patwary,NVIDIA Corporation
+Yves Robert,"ENS Lyon, University of Tennessee"
+Daniel Ruprecht,Hamburg University of Technology
+Piyush Sao,"Oak Ridge National Laboratory (ORNL), Georgia Institute of Technology"
+Erik Saule,"University of North Carolina, Charlotte"
+Christian Schulz,Heidelberg University
+Shaden Smith,Microsoft Corporation
+Robert Speck,"Forschungszentrum Juelich, Juelich Supercomputing Centre"
+Srishti Srivastava,University of Southern Indiana
+Judith C. Hill,Lawrence Livermore National Laboratory
+Erik Lindahl,"KTH Royal Institute of Technology, Stockholm University"
+Ritu Arora,"University of Texas, San Antonio"
+Allison H. Baker,National Center for Atmospheric Research (NCAR)
+Jay Bardhan,Pacific Northwest National Laboratory (PNNL)
+George Biros,"University of Texas, Oden Institute"
+Donna Calhoun,Boise State University
+Kate Clark,NVIDIA Corporation
+Anshu Dubey,"Argonne National Laboratory (ANL), University of Chicago"
+Anne C. Elster,Norwegian University of Science and Technology (NTNU)
+Fernanda Foertter,NextSilicon Inc
+Lin Gan,"Tsinghua University, China; National Supercomputing Center in Wuxi"
+Jeff R. Hammond,"NVIDIA Helsinki Oy, NVIDIA Corporation"
+Frank Jenko,"Max Planck Institute for Plasma Physics; Technical University Munich, University of Texas"
+Kirk E. Jordan,IBM Research
+Bálint Joó,Oak Ridge National Laboratory (ORNL)
+Christoph Junghans,Los Alamos National Laboratory
+Paul Lin,Lawrence Berkeley National Laboratory (LBNL)
+Erik Lindahl,"KTH Royal Institute of Technology, Stockholm University"
+Tania Lorido Botran,Microsoft
+Takemasa Miyoshi,RIKEN
+Susan Mniszewski,Los Alamos National Laboratory
+Eric Nielsen,NASA Langley Research Center
+Minna Palmroth,"University of Helsinki, Finnish Meteorological Institute"
+Sivasankaran Rajamanickam,Sandia National Laboratories
+Kenneth Ruud,University of Tromsø – The Arctic University of Norway
+Sinead Ryan,Trinity College Dublin
+Karl Schulz,University of Texas
+John Urbanic,Pittsburgh Supercomputing Center
+Joost VandeVondele,"Swiss National Supercomputing Centre (CSCS), ETH Zurich"
+Shugo Yasuda,"University of Hyogo, Japan"
+Brice Goglin,"French Institute for Research in Computer Science and Automation (INRIA), University of Bordeaux"
+Kentaro Sano,RIKEN
+Jason Bakos,University of South Carolina
+Jonathan Beard,Google Cloud
+Caroline Collange,French Institute for Research in Computer Science and Automation (INRIA)
+David Donofrio,"Tactical Computing Laboratories LLC, Lawrence Berkeley National Laboratory (LBNL)"
+Ryusuke Egawa,"Tokyo Denki University, Tohoku University"
+Vladimir Getov,"University of Westminster, London; IEEE Computer Society"
+Madeleine Glick,Columbia University
+Maya Gokhale,Lawrence Livermore National Laboratory
+KHALED HAMIDOUCHE,Advanced Micro Devices (AMD) Inc
+Simon Hammond,National Nuclear Security Administration (NNSA)
+Julien Jaeger,French Alternative Energies and Atomic Energy Commission (CEA)
+Ryohei Kobayashi,University of Tsukuba
+Masaaki Kondo,"Keio University, Tokyo; RIKEN"
+Miriam Leeser,Northeastern University
+Dhabaleswar K. (DK) Panda,Ohio State University
+Christian Plessl,"Paderborn University, Germany"
+Suzanne Rivoire,Sonoma State University
+Marc Sergent,Atos
+Aaron Smith,Microsoft Research
+Keith Underwood,Hewlett Packard Enterprise
+Ali R. Butt,Virginia Tech
+Liana Fong,"IBM Research, IBM Corporation"
+David Abramson,University of Queensland
+Ali Anwar,University of Minnesota
+Ayon Basumallik,Lightmatter Inc.
+Michela Becchi,North Carolina State University
+Matthias A. Blumrich,NVIDIA Corporation
+Rajkumar Buyya,University of Melbourne
+Kyle Chard,"University of Chicago, Argonne National Laboratory (ANL)"
+Yue Cheng,University of Virginia
+Peter Dinda,Northwestern University
+Nosayba El-Sayed,Emory University
+Judy Fox,University of Virginia
+David Irwin,"University of Massachusetts, Amherst"
+Andrzej Kochut,unaffiliated
+John Lange,"Oak Ridge National Laboratory (ORNL), University of Pittsburgh"
+Xing Liu,Meta Platforms Inc
+Arthur Maccabe,Oak Ridge National Laboratory (ORNL)
+Ningfang Mi,Northeastern University
+M. Mustafa Rafique,Rochester Institute of Technology
+Ioan Raicu,"Illinois Institute of Technology, Argonne National Laboratory (ANL)"
+Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory (LBNL)
+Seetharami Seelam,IBM Research
+Pasupathy Shankar,NetApp Inc
+Vanish Talwar,Facebook
+Vasily Tarasov,IBM Corporation
+Kenjiro Taura,University of Tokyo
+Sudharshan Vazhkudai,"Oak Ridge National Laboratory (ORNL), Oak Ridge National Laboratory"
+Ji Xue,Google LLC
+Sura Zehra,Bloomberg Finance LP
+Janine C. Bennett,Sandia National Laboratories
+Dean Hildebrand,Google LLC
+George Amvrosiadis,Carnegie Mellon University
+John Bent,Seagate Systems
+Rita Borgo,King's College London
+Shadi Ibrahim,French Institute for Research in Computer Science and Automation (INRIA)
+Anthony Kougkas,Illinois Institute of Technology
+Johann Lombardi,Intel Corporation
+Suzanne McIntosh,"New York University (NYU), Courant Institute of Mathematical Sciences; New York University (NYU), Center for Data Science"
+Kathryn Mohror,Lawrence Livermore National Laboratory
+Dmitriy Morozov,Lawrence Berkeley National Laboratory
+Sarah M. Neuwirth,"Goethe University Frankfurt, Juelich Supercomputing Centre (JSC)"
+Kristi Potter,National Renewable Energy Laboratory (NREL)
+Raghunath Raja Chandrasekar,"Enfabrica, OpenFabrics Alliance"
+Lukas Rupprecht,"IBM Research, Almaden"
+Osamu Tatebe,University of Tsukuba
+Bing Xie,Oak Ridge National Laboratory (ORNL)
+Amelie Chi Zhou,Shenzhen University
+William Tang,Princeton University
+Rio Yokota,Tokyo Institute of Technology
+Takuya Akiba,Preferred Networks Inc
+Svyatkovskiy Alexey,"Microsoft Corporation, Princeton University"
+Prasanna Balaprakash,Argonne National Laboratory (ANL)
+Tal Ben-Nun,ETH Zürich
+Ge Dong,Princeton Plasma Physics Laboratory
+Nikoli Dryden,"ETH Zürich, Lawrence Livermore National Laboratory"
+Erich Elsen,Google Deepmind
+Steven Farrell,Lawrence Berkeley National Laboratory (LBNL)
+Simon Garcia De Gonzalo,Sandia National Laboratories
+Amir Gholami,"University of California, Berkeley"
+Tom Gibbs,Nvidia Corporation
+Boris Ginsburg,NVIDIA Corporation
+Mike Houston,NVIDIA Corporation
+John Kim,Korea Advanced Institute of Science and Technology (KAIST)
+Mariam Kiran,Lawrence Berkeley National Laboratory (LBNL)
+Zhengchun Liu,"Argonne National Laboratory (ANL), University of Chicago"
+Maxim Naumov,Meta
+Mai Nguyen,"University of California, San Diego"
+Bogdan Nicolae,Argonne National Laboratory (ANL)
+Damian Podareanu,SURFsara
+Arvind Ramanathan,Argonne National Laboratory (ANL)
+Brandon Reagen,"New York University (NYU), Facebook"
+Vikram A Saletore,Intel Corporation
+Yohei Sawada,University of Tokyo
+Mikhail Smorkalov,Huawei Technologies Ltd
+Fengguang Song,"Indiana University-Purdue University Indianapolis (IUPUI), Purdue University"
+Taiji Suzuki,University of Tokyo
+Christine Sweeney,"Los Alamos National Laboratory (LANL), University of New Mexico"
+Wei Tan,"Citadel, The Military College of South Carolina"
+Sofia Vallecorsa,European Organization for Nuclear Research (CERN)
+Brian C. Van Essen,Lawrence Livermore National Laboratory
+Venkatram Vishwanath,Argonne National Laboratory (ANL)
+Mohamed Wahib,"RIKEN Center for Computational Science (R-CCS); National Institute of Advanced Industrial Science and Technology (AIST), Japan"
+Wang Yangzihao,"Tencent Ltd, China"
+Zhao Zhang,Texas Advanced Computing Center (TACC)
+Wenlai Zhao,"Tsinghua University, China; National Supercomputing Center, Wuxi"
+Luiz DeRose,Oracle
+Matthias S. Mueller,RWTH Aachen University
+Dorian C. Arnold,Emory University
+Cristiana Bentes,Rio de Janeiro State University (UERJ)
+Carlo Bertolli,IBM Corporation
+Patrick Carribault,"French Alternative Energies and Atomic Energy Commission, Directorate of Military Applications (CEA-DAM)"
+Laura C. Carrington,EP Analytics Inc
+Nicolas Dube,Hewlett Packard Enterprise
+Bilel Hadri,King Abdullah University of Science and Technology (KAUST)
+Robert Henschel,Indiana University
+Andra-Ecaterina Hugo,DataDirect Networks (DDN)
+Heike Jagode,"University of Tennessee, Innovative Computing Laboratory (ICL); University of Tennessee"
+Chao Jin,University of Queensland
+Guido Juckeland,Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+Jaejin Lee,Seoul National University
+John Linford,NVIDIA Corporation
+Tania Lorido Botran,Microsoft
+Alba Cristina Magalhaes Alves de Melo,University of Brasilia
+Sanyam Mehta,Hewlett Packard Enterprise
+Bernd Mohr,Juelich Supercomputing Centre (JSC)
+José Moreira,IBM Corporation
+Olga Pearce,"Lawrence Livermore National Laboratory, Texas A&M University"
+Pablo Reble,Intel Corporation
+Emmanuelle Saillard,French Institute for Research in Computer Science and Automation (INRIA)
+Dirk Schmidl,Atos
+Martin Schulz,"Technical University Munich, Computer Architecture and Parallel Systems"
+Ana Lucia Varbanescu,"University of Twente, University of Amsterdam"
+Felix Wolf,Technical University Darmstadt
+Jidong Zhai,"Tsinghua University, China"
+George Bosilca,University of Tennessee
+Mitsuhisa Sato,"RIKEN Center for Computational Science (R-CCS), University of Tsukuba"
+Alex Aiken,Stanford University
+George Almasi,IBM Corporation
+Cedric Augonnet,French Alternative Energies and Atomic Energy Commission (CEA)
+Pavan Balaji,Facebook
+Barbara Chapman,"Hewlett Packard Enterprise, Stony Brook University"
+Claudia Fohry,University of Kassel
+Abdou Guermouche,"University of Bordeaux (IMB), French Institute for Research in Computer Science and Automation (INRIA)"
+Atsushi Hori,RIKEN
+Larry Kaplan,Hewlett Packard Enterprise
+Jiajia Li,North Carolina State University
+Joseph Schuchart,"University of Tennessee, Innovative Computing Laboratory"
+Sameer Shende,University of Oregon
+Hiroyuki Takizawa,"Tohoku University; Tohoku University, Graduate School of Information Sciences"
+Guangming Tan,"Institute of Computing Technology, Chinese Academy of Sciences; Chinese Academy of Sciences"
+Samuel Thibault,"University of Bordeaux (LaBRI), French Institute for Research in Computer Science and Automation (INRIA)"
+Miwako Tsuji,RIKEN Center for Computational Science (R-CCS)
+Abhinav Vishnu,Advanced Micro Devices (AMD) Inc
+Wei Wu,Los Alamos National Laboratory
+Maria Grazia Giuffreda,Swiss National Supercomputing Centre (CSCS)
+Fabrizio Petrini,Intel Corporation
+Kirk Cameron,Virginia Tech
+Nicholas P. Cardo,Swiss National Supercomputing Centre (CSCS)
+Eric Cheng,US Government
+Almadena Chtchelkanova,National Science Foundation (NSF)
+Hans Eberle,NVIDIA Corporation
+Wu Feng,"Virginia Tech; TOP500, Green500"
+Fernanda Foertter,NextSilicon Inc
+Marta Garcia,Argonne National Laboratory (ANL)
+Georgios Goumas,National Technical University of Athens
+Kartik Lakhotia,Intel
+Hatem Ltaief,King Abdullah University of Science and Technology (KAUST)
+Verónica G. Melesse Vergara,Oak Ridge National Laboratory (ORNL)
+Tabitha K. Samuel,"University of Tennessee, Knoxville"
+Min Si,Facebook
+Antonino Tumeo,Pacific Northwest National Laboratory (PNNL)
+Samuel W. Williams,Lawrence Berkeley National Laboratory (LBNL)
+Cathy Willis,Hewlett Packard Enterprise
+David Abramson,University of Queensland
+Ilkay Altintas,"San Diego Supercomputer Center (SDSC); University of California, San Diego, Halicioglu Data Science Institute"
+Karen Devine,Sandia National Laboratories
+Laura Grigori,"French Institute for Research in Computer Science and Automation (INRIA), Sorbonne University"
+Ann Almgren,Lawrence Berkeley National Laboratory (LBNL)
+Srinivas Aluru,"Georgia Institute of Technology, School of Computational Science and Engineering"
+Grey Ballard,Wake Forest University
+Wolfgang Bangerth,Colorado State University
+Olivier Beaumont,"French Institute for Research in Computer Science and Automation (INRIA), University of Bordeaux (IMB)"
+Anne Benoit,ENS Lyon
+Sanjukta Bhowmick,University of North Texas
+George Biros,"University of Texas, Oden Institute"
+Jed Brown,University of Colorado
+Kevin Carlberg,University of Washington
+Erin Carson,"Charles University, Czech Republic"
+Aniello Esposito,Hewlett Packard Enterprise (HPE)
+Thomas Herault,"University of Tennessee, Knoxville"
+Judith C. Hill,Lawrence Livermore National Laboratory
+Huda Ibeid,Intel Corporation
+Tobin Isaac,"Argonne National Laboratory (ANL), Mathematics and Computer Science Division"
+Max P. Katz,NVIDIA Corporation
+Axel Klawonn,"University of Cologne, Department of Mathematics and Computer Science"
+Alicia Klinvex,Naval Nuclear Laboratory
+Sarah Knepper,Intel Corporation
+Jiajia Li,North Carolina State University
+Hang Liu,Stevens Institute of Technology
+Yang Liu,Lawrence Berkeley National Laboratory (LBNL)
+Kamesh Madduri,Pennsylvania State University
+Julie Mueller,Lawrence Berkeley National Laboratory (LBNL)
+Mostofa Patwary,NVIDIA Corporation
+Sivasankaran Rajamanickam,Sandia National Laboratories
+Krzysztof Rzadca,"Google LLC, University of Warsaw"
+Erik Saule,"University of North Carolina, Charlotte"
+Rob Scheichl,Heidelberg University
+Heidi K. Thornquist,Sandia National Laboratories
+Amanda Randles,Duke University
+Lin Gan,"Tsinghua University, China; National Supercomputing Center in Wuxi"
+Ariful Azad,Indiana University
+Allison H. Baker,National Center for Atmospheric Research (NCAR)
+Jay Bardhan,Pacific Northwest National Laboratory (PNNL)
+Jen-Chang Chen,Amazon Web Services
+Kate Clark,NVIDIA Corporation
+John Dennis,National Center for Atmospheric Research (NCAR)
+Nan Ding,Lawrence Berkeley National Laboratory (LBNL)
+Yufei Ding,"University of California, Santa Barbara; Computer Science"
+Erik Draeger,Lawrence Livermore National Laboratory
+Pradeep Dubey,Intel Corporation
+Cristina Garcia Cardona,Los Alamos National Laboratory (LANL)
+Rong Ge,Clemson University
+John Gounley,Oak Ridge National Laboratory (ORNL)
+Xiaohu Guo,Hartree Centre
+Jeff R. Hammond,"NVIDIA Helsinki Oy, NVIDIA Corporation"
+Kirk E. Jordan,IBM Research
+Chao Li,Shanghai Jiao Tong University
+Meifeng Lin,Brookhaven National Laboratory
+Weifeng Liu,"China University of Petroleum, Beijing"
+Weiguo Liu,"Shandong University, National Supercomputing Center in Wuxi"
+Christopher S. Oehmen,Pacific Northwest National Laboratory (PNNL)
+Gillian Queisser,Temple University
+Arvind Ramanathan,Argonne National Laboratory (ANL)
+Tom Spelce,Hewlett Packard Enterprise
+John Thomson,"University of St Andrews, Scotland"
+Sofia Vallecorsa,European Organization for Nuclear Research (CERN)
+Yangang Wang,"Computer Network Information Center, Chinese Academy of Sciences"
+Stefan Wild,"Argonne National Laboratory (ANL), Northwestern University"
+Jingheng Xu,"Tsinghua University, China"
+Wei Xue,"Tsinghua University, China"
+Maya Gokhale,Lawrence Livermore National Laboratory
+Keith Underwood,Hewlett Packard Enterprise
+Jung Ho Ahn,Seoul National University
+Brian Barrett,Amazon Web Services
+Jonathan Beard,Google Cloud
+Abhinav Bhatele,University of Maryland
+Andrew Chien,"University of Chicago, Argonne National Laboratory (ANL)"
+Caroline Collange,French Institute for Research in Computer Science and Automation (INRIA)
+James Dinan,NVIDIA Corporation
+Daniel J. Ernst,Microsoft Corporation
+Paolo Faraboschi,Hewlett Packard Enterprise
+Madeleine Glick,Columbia University
+Admela Jukan,Technical University of Braunschweig
+Stephen W Keckler,"NVIDIA Corporation, University of Texas"
+Samira Khan,University of Virginia
+Dirk Koch,University of Manchester
+Jing (Jane) Li,University of Pennsylvania
+Satoshi Matsuoka,"RIKEN, Tokyo Institute of Technology"
+Christian Plessl,"Paderborn University, Germany"
+Kentaro Sano,RIKEN
+Steve Scott,Microsoft Corporation
+Melissa C. Smith,Clemson University
+Sayantan Sur,NVIDIA Corporation
+Antonino Tumeo,Pacific Northwest National Laboratory (PNNL)
+Gwendolyn Voskuilen,Sandia National Laboratories
+Noel Wheeler,University of Maryland
+Kyle Chard,"University of Chicago, Argonne National Laboratory (ANL)"
+Sandra Gesing,"University of Notre Dame; Discovery Partner Institute, University of Illinois Chicago"
+Deborah Bard,National Energy Research Scientific Computing Center (NERSC)
+Kris Bubendorfer,Victoria University of Wellington
+Ryan Chard,"Argonne National Laboratory (ANL), University of Chicago"
+Maytal Dahan,"Texas Advanced Computing Center (TACC), University of Texas"
+Rafael Ferreira da Silva,Oak Ridge National Laboratory (ORNL)
+Rosa Filgueira,"University of St Andrews, Scotland"
+Stephen Herbein,Lawrence Livermore National Laboratory
+Alexandru Iosup,"Vrije University Amsterdam, Delft University of Technology"
+Shantenu Jha,"Rutgers University, Molecular Sciences Software Institute (MolSSI)"
+Daniel S. Katz,"University of Illinois, National Center for Supercomputing Applications (NCSA)"
+Tamas Kiss,"University of Westminster, London"
+Joanna Kolodziej,"Cracow University of Technology, Poland; NASK National Research Institute, Warsaw, Poland"
+Arthur Maccabe,Oak Ridge National Laboratory (ORNL)
+Radu Prodan,"University of Klagenfurt, Austria"
+Ioan Raicu,"Illinois Institute of Technology, Argonne National Laboratory (ANL)"
+Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory (LBNL)
+Wei Tan,"Citadel, The Military College of South Carolina"
+Douglas Thain,University of Notre Dame
+Rich Wolski,"University of California, Santa Barbara"
+Sura Zehra,Bloomberg Finance LP
+Osamu Tatebe,University of Tsukuba
+María S. Pérez,Polytechnic University of Madrid
+Gabriel Antoniu,French Institute for Research in Computer Science and Automation (INRIA)
+Janine C. Bennett,Sandia National Laboratories
+Rita Borgo,King's College London
+Suren Byna,Lawrence Berkeley National Laboratory (LBNL)
+Philip Carns,Argonne National Laboratory (ANL)
+Jesus Carretero,"University Carlos III of Madrid, Spain"
+Kelly Gaither,"University of Texas; Texas Advanced Computing Center, Dell Medical School"
+Dean Hildebrand,Google LLC
+Hideyuki Kawashima,"Keio University, Tokyo"
+Scott Klasky,Oak Ridge National Laboratory (ORNL)
+Anthony Kougkas,Illinois Institute of Technology
+Michael Kuhn,"Otto von Guericke University Magdeburg, Germany"
+Julian Kunkel,"University of Göttingen; GWDG, Germany"
+Glenn K. Lockwood,Microsoft Corporation
+Jay Lofstead,Sandia National Laboratories
+Xiaoyi Lu,"University of California, Merced"
+Manolis Marazakis,Foundation for Research & Technology – Hellas (FORTH)
+Hiroki Ohtsuji,Fujitsu Ltd
+Sarp Oral,"Oak Ridge National Laboratory (ORNL), Open Scalable File Systems Inc"
+Raghunath Raja Chandrasekar,"Enfabrica, OpenFabrics Alliance"
+Lukas Rupprecht,"IBM Research, Almaden"
+Reza Salkhordeh,Johannes Gutenberg University Mainz
+Brad Settlemyer,NVIDIA Corporation
+Weikuan Yu,Florida State University
+Amir Gholami,"University of California, Berkeley"
+Aparna Chandramowlishwaran,"University of California, Irvine"
+Mehdi Aghagolzadeh,Facebook
+Prasanna Balaprakash,Argonne National Laboratory (ANL)
+Davis Blalock,"MosaicML, Massachusetts Institute of Technology (MIT)"
+Aditya Devarakonda,Wake Forest University
+Nikoli Dryden,"ETH Zürich, Lawrence Livermore National Laboratory"
+Saliya Ekanayake,Microsoft Corporation
+Judy Fox,University of Virginia
+Evangelos Georganas,Intel Corporation
+Boris Ginsburg,NVIDIA Corporation
+Alex Gittens,Rensselaer Polytechnic Institute (RPI)
+Chris Gottbrath,Facebook
+Alexander Heinecke,Intel Corporation
+Mike Houston,NVIDIA Corporation
+Cho-Jui Hsieh,"University of California, Los Angeles (UCLA); Amazon"
+Travis Johnston,Striveworks
+Ramakrishnan Kannan,Georgia Institute of Technology
+Karthik Kashinath,"NVIDIA Corporation, Lawrence Berkeley National Laboratory (LBNL)"
+John Kim,Korea Advanced Institute of Science and Technology (KAIST)
+Penporn Koanantakool,Google LLC
+Ang Li,Pacific Northwest National Laboratory (PNNL)
+Shigang Li,Beijing University of Posts and Telecommunications
+Maryam Mehri Dehnavi,University of Toronto
+Mustafa Mustafa,Lawrence Berkeley National Laboratory (LBNL)
+Bogdan Nicolae,Argonne National Laboratory (ANL)
+Valerio Pascucci,University of Utah
+Andres Rodriguez,Intel Corporation
+Catherine Schuman,University of Tennessee
+Ali Shafiee Ardestani,Samsung Semiconductor Inc
+Xipeng Shen,North Carolina State University
+Shuaiwen Leon Song,"University of Sydney, University of Washington"
+Dan C Stanzione,University of Texas
+Michela Taufer,"University of Tennessee, University of Delaware"
+Brian C. Van Essen,Lawrence Livermore National Laboratory
+Abhinav Vishnu,Advanced Micro Devices (AMD) Inc
+Yang Yaoqing,"University of California, Berkeley"
+Rio Yokota,Tokyo Institute of Technology
+Steven R. Young,"Oak Ridge National Laboratory (ORNL), University of Tennessee"
+Zhao Zhang,Texas Advanced Computing Center (TACC)
+Xinyu Zhao,University of Connecticut
+David Lowenthal,University of Arizona
+Michèle Weiland,University of Edinburgh
+Kevin A. Brown,Argonne National Laboratory (ANL)
+Nick Brown,"Edinburgh Parallel Computing Centre (EPCC), University of Edinburgh"
+Kirk Cameron,Virginia Tech
+Marc Casas Guix,"Barcelona Supercomputing Center (BSC), Polytechnic University of Catalonia"
+Ana Gainaru,Oak Ridge National Laboratory (ORNL)
+Alan Gray,NVIDIA Corporation
+Simon Hammond,National Nuclear Security Administration (NNSA)
+Pramod Kumbhar,Swiss Federal Institute of Technology Lausanne (EPFL)
+Zhiling Lan,Illinois Institute of Technology
+Xu Liu,"North Carolina State University, Oak Ridge National Laboratory (ORNL)"
+Josh Milthorpe,"Oak Ridge National Laboratory (ORNL), Australian National University"
+Shirley Moore,"University of Texas, El Paso"
+José Moreira,IBM Corporation
+Kengo Nakajima,"University of Tokyo, RIKEN"
+Tapasya Patki,Lawrence Livermore National Laboratory
+Ivy Peng,"KTH Royal Institute of Technology, Sweden"
+John Pennycook,Intel Corporation
+Suzanne Rivoire,Sonoma State University
+Roxana Rusitoru,ARM Ltd
+Martin Schulz,"Technical University Munich, Computer Architecture and Parallel Systems"
+Staci Smith,Google LLC
+Nathan Tallent,Pacific Northwest National Laboratory (PNNL)
+Ana Lucia Varbanescu,"University of Twente, University of Amsterdam"
+Richard Vuduc,Georgia Institute of Technology
+Yang You,National University of Singapore
+Xin Yuan,Florida State University
+Jidong Zhai,"Tsinghua University, China"
+Didem Unat,"Koç University, Turkey"
+Karl Fuerlinger,Ludwig Maximilian University of Munich
+Mauro Bianco,Swiss National Supercomputing Centre (CSCS)
+Xing Cai,"Simula Research Laboratory, University of Oslo"
+Bradford Chamberlain,"Hewlett Packard Enterprise, University of Washington"
+Jee Choi,University of Oregon
+Florina M. Ciorba,"University of Basel, Switzerland"
+Camille Coti,"University of Quebec, Montreal"
+Utz-Uwe Haus,HPE HPC/AI EMEA Research Lab
+Emmanuel Jeannot,"National Institute for Research in Computer Science and Automation (Inria), France; University of Bordeaux"
+Kamer Kaya,"Sabancı University, Turkey"
+Michael Klemm,"Advanced Micro Devices (AMD) Inc, OpenMP Architecture Review Board"
+Hatem Ltaief,King Abdullah University of Science and Technology (KAUST)
+Stefano Markidis,"KTH Royal Institute of Technology, Sweden"
+Tan Nguyen,Lawrence Berkeley National Laboratory (LBNL)
+Kenneth O'Brien,Advanced Micro Devices (AMD) Inc
+Catherine Olschanowsky,Boise State University
+Malavika Samak,Massachusetts Institute of Technology (MIT)
+Mitsuhisa Sato,"RIKEN Center for Computational Science (R-CCS), University of Tsukuba"
+Min Si,Facebook
+Kenjiro Taura,University of Tokyo
+Christian Terboven,RWTH Aachen University
+Samuel Thibault,"University of Bordeaux (LaBRI), French Institute for Research in Computer Science and Automation (INRIA)"
+Wei Wang,"University of Texas, San Antonio"
+Wei Wu,Los Alamos National Laboratory
+Susan Coghlan,Argonne National Laboratory (ANL)
+Alison Kennedy,"Hartree Centre, Science and Technology Facilities Council (STFC), UK"
+Jonathon Anderson,University of Colorado
+Lilit Axner,EuroCC National Competence Centre Sweden (ENCCS)
+Adam Bertsch,Lawrence Livermore National Laboratory
+Nicholas P. Cardo,Swiss National Supercomputing Centre (CSCS)
+Carlo Cavazzoni,"Leonardo SpA, Italy"
+Tina Declerck,Lawrence Berkeley National Laboratory (LBNL)
+Wu Feng,"Virginia Tech; TOP500, Green500"
+Rosemary Francis,Altair
+David Hancock,Indiana University
+Venkatesh Kannan,Irish Centre for High‑End Computing (ICHEC)
+Diana Moise,Hewlett Packard Enterprise (HPE)
+Tabitha K. Samuel,"University of Tennessee, Knoxville"
+Jay Srinivasan,Lawrence Berkeley National Laboratory (LBNL)
+Jenett Tillotson,National Center for Atmospheric Research (NCAR)
+Alainna White,Hewlett Packard Enterprise
+Raymond Namyst,"University of Bordeaux (IMB), French Institute for Research in Computer Science and Automation (INRIA)"
+Elsa J. Gonsiorowski,Lawrence Livermore National Laboratory
+Siegfried Benkner,University of Vienna
+George Bosilca,University of Tennessee
+Ada Gavrilovska,Georgia Institute of Technology
+Balazs Gerofi,"Intel, RIKEN"
+Fouzhan Hosseini,Intel Corporation
+Kamil Iskra,Argonne National Laboratory (ANL)
+Larry Kaplan,Hewlett Packard Enterprise
+Christoph Kessler,"Linköping University, Sweden"
+Elisabeth Larsson,"Uppsala University, Sweden"
+Carol Song,Purdue University
+Robert W. Wisniewski,Intel Corporation

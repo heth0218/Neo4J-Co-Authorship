@@ -426,7 +426,7 @@ def disambiguate_authors(chairs_list, previous_list):
 
         for prev_chair in previous_list:
             similarity = similar(chair['name'], prev_chair['name'])
-            if similarity > max_similarity and chair['affiliations'] == prev_chair['affiliations']:
+            if similarity > max_similarity and chair['affiliation'] == prev_chair['affiliation']:
                 max_similarity = similarity
                 best_match = prev_chair
 
@@ -452,7 +452,7 @@ import csv
 csv_filename = 'HPCA_PC.csv'
 
 # Define the field names for the CSV header
-field_names = ['name', 'affiliations']
+field_names = ['name', 'affiliation']
 
 # Write the data to the CSV file
 with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:

@@ -1,0 +1,875 @@
+A. Seza Doğruöz,[Ghent University]
+Aakanksha Naik,[Carnegie Mellon University (CMU)]
+Aasish Pappu,[Unknown]
+Adam Trischler,[Unknown]
+Adhi Kuncoro,[University of Oxford and DeepMind]
+Adina Williams,[Facebook AI]
+Advaith Siddarthan,[Unknown]
+Advaith Siddharthan,"[The Open University (Senior Chair), Unknown]"
+Afra Alishahi,"[Tilburg University, Unknown]"
+Agata Savary,[University of Tours]
+Ahmed Ali,[Qatar Computing Research Institute (QCRI)]
+Ahmed Hassan Awadallah,[Microsoft Research]
+Aida Nematzadeh,"[DeepMind, Unknown]"
+Aitor Soroa,[Unknown]
+Aixin Sun,[Unknown]
+Ajay Nagesh,[DiDi Labs]
+Alan Ritter,"[Georgia Institute of Technology (USA), Georgia Institute of Technology, Georgia Institute of Technology (Senior Chair), Unknown]"
+Albert Gatt,"[Utrecht University, Unknown]"
+Alberto Lavelli,[Bruno Kessler Foundation]
+Alborz Geramifard,"[Facebook AI, Unknown]"
+Aleksandr Drozd,[RIKEN Center for Computational Science]
+Alessandro Lenci,[University of Pisa]
+Alessandro Moschitti,"[Amazon Alexa, Unknown]"
+Alessandro Raganato,"[University of Helsinki, Finland]"
+Alexander Fraser,"[LMU Munich, Unknown]"
+Alexander Rush,[Cornell University]
+Alexandra Balahur,[Unknown]
+Alexandra Birch,[University of Edinburgh (Senior Chair)]
+Alexis Palmer,"[University of Colorado Boulder, University of North Texas]"
+Aliaksei Severyn,[Unknown]
+Alice Oh,[Unknown]
+Aline Villavicencio,"[University of Sheffield, UK, Unknown]"
+Alison Smith,[Dataminr]
+Alla Rozovskaya,"[City University of New York (USA), Unknown]"
+Allyson Ettinger,[University of Chicago]
+Alon Talmor,"[Allen Institute for AI, Tel-Aviv University]"
+Alvin Grissom,[Haverford College]
+Amanda Stent,"[Colby College, USA, Unknown]"
+Amandalynne Paullada,"[University of Washington, USA]"
+Amir Globerson,[Unknown]
+Ana Marasovic,[University of Utah]
+Ananya Ganesh,[Educational Testing Service]
+Anders Søgaard,"[University of Copenhagen, Unknown]"
+Andre Martins,[Unknown]
+Andrea Cimino,[Institute for Computational Linguistics of CNR (CNR-ILC)]
+Andrea Madotto,"[HKUST, Hong Kong (HKSAR)]"
+Andreas Rücklé,[Amazon]
+Andreas Vlachos,[Unknown]
+Andrei Popescu-Belis,[Unknown]
+Andrew Kehler,[Unknown]
+Andrew Schwartz,[Stony Brook University]
+Andrew Yates,"[Max Planck Institute for Informatics (Senior Chair), Unknown]"
+André Martins,"[Unbabel, Instituto de Telecomunicacoes]"
+Andy MacKinlay,"[Culture Amp, Australia]"
+Andy Way,"[Dublin City University, Ireland]"
+Anette Frank,[Unknown]
+Angela Fan,[Facebook AI Research]
+Angeliki Lazaridou,"[DeepMind, USA, DeepMind (Senior Chair), Unknown]"
+Anh Tuan Luu,[Unknown]
+Animesh Mukherjee,"[Indian Institute of Technology, Kharagpur]"
+Ankur Parikh,[Unknown]
+Ann Clifton,[Unknown]
+Anna Korhonen,[University of Cambridge]
+Anna Rogers,"[IT University of Copenhagen (Denmark), University of Copenhagen, University of Copenhagen, Denmark]"
+Annemarie Friedrich,"[Bosch Center for Artificial Intelligence (Senior Chair), Unknown]"
+Annie Louis,"[Google (UK), Google, Unknown]"
+Antoine Bosselut,"[Stanford University, USA, École Polytechnique Fédérale de Lausanne]"
+Antoine Doucet,[University of La Rochelle]
+Anton Leuski,[Unknown]
+Antonios Anastopoulos,[George Mason University]
+Anya Belz,"[ADAPT Research Centre, Dublin City University, Unknown]"
+Aoife Cahill,[Dataminr]
+Ariadna Quattoni,[Unknown]
+Arianna Bisazza,[Unknown]
+Ashique KhudaBukhsh,[Rochester Institute of Technology]
+Ashish Vaswani,[Unknown]
+Asli Celikyilmaz,"[Microsoft Research, Redmond, Facebook AI Research, Unknown]"
+Asma Ben Abacha,[Unknown]
+Aston Zhang,[AWS AI]
+Aurelie Herbelot,[University of Trento]
+Aurélie Névéol,[Unknown]
+Avi Sil,[Unknown]
+Avirup Sil,"[IBM, USA, Leader of Sub-Committee of Academic Inclusion]"
+Ayah Zirikly,[Johns Hopkins University (USA)]
+Baobao Chang,"[Institute of Computational Linguistic, Peking University]"
+Barbara Plank,"[IT University of Copenhagen, Unknown]"
+Barry Haddow,[Unknown]
+Beata Beigman Klebanov,[Educational Testing Service (USA)]
+Beata Megyesi,[Unknown]
+Benamara Farah,[Unknown]
+Benjamin van Durme,"[Johns Hopkins University, USA]"
+Benoit Sagot,[INRIA]
+Benoît Sagot,[Inria]
+Bernardo Magnini,"[FBK, Italy, Bruno Kessler Foundation]"
+Bernd Bohnet,[Google Research]
+Beth Ann Hockey,[Unknown]
+Bhaskar Mitra,[Microsoft Research]
+Bhavana Dalvi,[Unknown]
+Bhiksha Raj,[Carnegie Mellon University]
+Bill Byrne,[Unknown]
+Bing Liu,[Unknown]
+Bing Qin,[Unknown]
+Bonnie Webber,"[University of Edinburgh, UK, Unknown]"
+Bowen Zhou,[Unknown]
+Boxing Chen,"[Alibaba, Unknown]"
+Bracha Shapira,[Unknown]
+Brendan O'Connor,[Unknown]
+Brendan O’Connor,[University of Massachusetts Amherst]
+Brian Roark,[Google]
+Brielen Madureira,"[University of Potsdam, Germany]"
+Byron C. Wallace,[Unknown]
+Byron Wallace,"[Northeastern University, Unknown]"
+C. M. Downey,"[University of Washington, USA]"
+Caiming Xiong,"[Salesforce, Unknown]"
+Carl Vondrick,[Unknown]
+Carolin Lawrence,[NEC Laboratories Europe]
+Casey Kennington,"[Boise State University, Unknown]"
+Caterina Lacerra,[Sapienza University of Rome]
+Catharine Oertel,[Unknown]
+Cecile Paris,"[CSIRO, Australia, Unknown]"
+Cecilia Alm,[Rochester Institute of Technology]
+Cecilia O. Alm,[Rochester Institute of Technology]
+Cecilia Ovesdotter Alm,[Rochester Institute of Technology]
+Celeste Martinez Gomez,[OpenReview]
+Chenghua Lin,"[University of Sheffield (UK), Department of Computer Science, University of Sheffield, Unknown]"
+Chengqing Zong,"[Institute of Automation, Chinese Academy of Sciences]"
+Chenhao Tan,[Unknown]
+Chin-Yew Lin,[Unknown]
+Chris Biemann,[Unknown]
+Chris Brew,[LivePerson]
+Chris Dyer,[Unknown]
+Chris Quirk,[Unknown]
+Chris Reed,[Unknown]
+Christian Hardmeier,"[IT University of Copenhagen, Unknown]"
+Christiane Fellbaum,"[Princeton University, USA]"
+Christophe Gravier,"[Universite de Saint-Etienne/Lyon, France]"
+Christopher Potts,"[Stanford University (Chair), Unknown]"
+Christos Christodoulopoulos,[Amazon Research]
+Chrysoula Zerva,[Instituto de Telecomunicacoes-IST]
+Chutima Beokhaimook,"[Rangsit University, Thailand]"
+Cicero Nogueira dos Santos,[Unknown]
+Claire Cardie,[Unknown]
+Claire Gardent,[Unknown]
+Claudia Borg,[University of Malta]
+Claudia Soria,[CNR-ILC]
+Colin Cherry,"[Google, Unknown]"
+Colin Raffel,"[University of North Carolina, Chapel Hill, UNC Chapel Hill and Hugging Face, Unknown]"
+Craig Macdonald,[Unknown]
+Cristian Danescu-Niculescu-Mizil,[Unknown]
+Cristina España i Bonet,[Deutsches Forschungszentrum für Künstliche Intelligenz]
+Daisuke Kawahara,[Unknown]
+Dallas Card,[Stanford University]
+Damien Blasi,[Harvard University]
+Damira Mršic,[Underline]
+Dan Garrette,[Google Research]
+Dan Goldwasser,[Unknown]
+Dan Jurafsky,[Stanford University]
+Dan Roth,"[University of Pennsylvania, Unknown]"
+Dani Yogatama,[Unknown]
+Daniel Beck,"[University of Melbourne (Australia), University of Melbourne]"
+Daniel Cer,[Unknown]
+Daniel Fried,[Facebook AI]
+Daniel Gildea,[Unknown]
+Daniel Khashabi,"[University of Pennsylvania, Unknown]"
+Danilo Croce,"[University of Rome Tor Vergata, Italy]"
+Danish Pruthi,"[Indian Institute of Science (IISc), Bangalore]"
+Danqi Chen,"[Princeton University, Unknown]"
+Danushka Bollegala,"[University of Liverpool (UK), Unknown]"
+David Bamman,"[UC Berkeley, Unknown]"
+David Chiang,"[University of Notre Dame, USA, Unknown]"
+David Jurgens,"[University of Michigan, Unknown]"
+David Mimno,"[Cornell University, Unknown]"
+David Mortensen,[Unknown]
+David Schlangen,"[University of Potsdam, Germany]"
+David Traum,[University of South California]
+David Vilar,[Unknown]
+Dekai Wu,[Unknown]
+Demond Elliott,[Unknown]
+Derek F. Wong,"[University of Macau, Macao, China, Unknown]"
+Derek Wong,[University of Macau]
+Devamanyu Hazarika,[Amazon (USA)]
+Deyi Xiong,"[Tianjin University, Unknown]"
+Deyu Zhou,[Unknown]
+Dian Yu,[Tencent AI Lab]
+Diana Inkpen,[University of Ottawa (Senior Chair)]
+Diana Maynard,"[University of Sheffield, UK]"
+Diana McCarthy,[Unknown]
+Diarmuid Ó Séaghdha,"[Apple, Unknown]"
+Dieuwke Hupkes,[Facebook AI Research]
+Dilek Hakkani-Tur,"[Amazon Alexa AI, Unknown]"
+Dimitri Kartsaklis,[Unknown]
+Dina Demner-Fushman,"[National Library of Medicine (Senior Chair), Unknown]"
+Dirk Hovy,"[Bocconi University (Italy), Bocconi University, Bocconi University, Italy, Unknown]"
+Diyi Yang,"[Stanford University, Georgia Institute of Technology, Unknown]"
+Djame Seddah,[University Paris-Sorbonne]
+Dominique Brunato,[Institute for Computational Linguistics of CNR (CNR-ILC)]
+Don Metzler,[Google]
+Dong Nguyen,"[Utrecht University, Unknown]"
+Dongyan Zhao,"[Peking University, China]"
+Doug Downey,"[Allen Institute for AI, Northwestern University, Unknown]"
+Douwe Kiela,"[Facebook, Unknown]"
+Duyu Tang,[Unknown]
+Edoardo Ponti,[Unknown]
+Eduardo Blanco,"[University of Arizona (USA), University of Arizona, University of North Texas, USA, Unknown]"
+Edward Grefenstette,[Unknown]
+Ehsan Shareghi,[Unknown]
+Ehud Reiter,[Unknown]
+Ekaterina Kochmar,[Unknown]
+Ekaterina Shutova,[Unknown]
+Ekaterina Vylomova,[Unknown]
+Elena Cabrio,"[Université Côte d'Azur, France, Université Côte d’Azur, Inria, CNRS, I3S]"
+Elia Bruni,[Unknown]
+Ellen Riloff,"[University of Utah, USA]"
+Ellie Pavlick,[Brown University]
+Els Lefever,[Unknown]
+Emilia Apostolova,[Language.ai]
+Emily Dinan,[Facebook AI Research]
+Emily M. Bender,[University of Washington]
+Emily Pitler,[Unknown]
+Emily Prud'hommeaux,[Unknown]
+Emma Strubell,"[Carnegie Mellon University, Unknown]"
+Emmanuele Chersoni,"[The Hong Kong Polytechnic University, Hong Kong]"
+Eneko Agirre,[Unknown]
+Enrique Alfonseca,[Google]
+Eric Cambria,[Nanyang Technological University]
+Eric Nyberg,[Unknown]
+Erik Cambria,[Unknown]
+Esther Seyffarth,[University of Düsseldorf]
+Ethan Selfridge,[Unknown]
+Eugene Agichtein,[Unknown]
+Eunsol Choi,"[University of Washington, UT Austin, Google AI, UT Austin (Senior Chair), Unknown]"
+Eva Vanmassenhove,[Tilburg University (Netherlands)]
+Evangelos Kanoulas,[University of Amsterdam]
+Fabio Massimo Zanzotto,[Unknown]
+Fang Kong,[Soochow University]
+Fei Liu,"[University of Central Florida, University of Central Florida (Senior Chair), University of Central Florida, USA, Unknown]"
+Fei Sha,[Unknown]
+Fei Xia,[University of Washington]
+Felice Dell'Orletta,[Institute for Computational Linguistics of CNR (CNR-ILC)]
+Felipe Bravo,[Unknown]
+Fenia Christopoulou,[Huawei Noah’s Ark Lab]
+Fernando Alva-Manchego,[University of Sheffield]
+Filip Ginter,"[University of Turku, Unknown]"
+Filip Klubicka,"[ADAPT Centre, Ireland]"
+Fiona McGillivray,[Abbey]
+Florian Metze,[Unknown]
+Francesca Toni,[Imperial College London (Senior Chair)]
+Frank Keller,[Unknown]
+François Yvon,[University Paris Sud]
+Furu Wei,[Unknown]
+Gabriel Skantze,"[KTH Speech Music and Hearing, Unknown]"
+Gabriel Stanovsky,"[The Hebrew University of Jerusalem (Senior Chair), Unknown]"
+Gabriella Pasi,[University of Milano-Bicocca]
+Gareth Jones,[Dublin City University]
+Geoff Zweig,[Unknown]
+George Acquaah-Mensah,[Massachusetts College of Pharmacy and Health Sciences]
+George Foster,[Unknown]
+George Giannakopoulos,[Unknown]
+Georgiana Dinu,[Amazon AWS]
+Gerard de Melo,"[Hasso Plattner Institute, University of Potsdam, Unknown]"
+Gerasimos Lampouras,[Huawei Noah’s Ark Lab]
+German Rigau,"[Basque Country University, Spain, University of the Basque Country, UPV/EHU, Unknown]"
+Gholamreza Haffari,[Unknown]
+Gilles Adda,[LISN-CNRS & LIMSI-CNRS]
+Gina-Anne Levow,[Unknown]
+Giovanni Da San Martino,[Unknown]
+Giovanni Semeraro,[University of Bari]
+Gisela Vallejo,[University of Melbourne (Australia)]
+Giulia Venturi,[Institute for Computational Linguistics of CNR (CNR-ILC)]
+Giuseppe Carenini,"[University of British Columbia, Unknown]"
+Goran Glavaš,"[University of Mannheim, USA]"
+Graham Neubig,"[Carnegie Mellon University, USA, Unknown]"
+Greg Carew,[Abbey]
+Greg Durrett,[Unknown]
+Grzegorz Chrupała,"[Tilburg University, Unknown]"
+Guillaume Wisniewski,[Unknown]
+Guodong Xie,"[ADAPT Centre, Ireland]"
+Guodong Zhou,[Soochow University (Senior Chair)]
+Hai Zhao,"[Shanghai Jiao Tong University, Unknown]"
+Haitao Lin,"[Institute of Automation, Chinese Academy of Sciences, China]"
+Haitao Mi,[Unknown]
+Haizhou Li,[Unknown]
+Hamid Palangi,"[Microsoft Research, Redmond]"
+Han Ting,[National Institute of Advanced Industrial Science and Technology]
+Hanan Aldarmaki,[United Arab Emirates University]
+Hang Li,[Unknown]
+Hannah Rashkin,[Google Research]
+Hannaneh Hajishirzi,"[University of Washington, Unknown]"
+Hao Fang,"[Microsoft Semantic Machines, Microsoft Semantic Machines, USA]"
+Hao Fei,[National University of Singapore]
+Hassan Sajjad,[Qatar Computing Research Institute]
+Helen Hastie,[Unknown]
+Helen Meng,[Unknown]
+Helen Yannakoudakis,[Unknown]
+Helena Gomez,[Unknown]
+Hend Al-Khalifa,[King Saud University]
+Heng Ji,"[University of Illinois at Urbana-Champaign, USA, Unknown]"
+Heri Ramampiaro,[Norwegian University of Science and Technology (NTNU)]
+Hinrich Schutze,[Unknown]
+Hinrich Schütze,"[University of Munich, Unknown]"
+Hiroya Takamura,"[The National Institute of Advanced Industrial Science and Technology, Unknown]"
+Hiroyuki Shindo,[Unknown]
+Hoifung Poon,"[Microsoft, Microsoft Research, Unknown]"
+Holger Schwenk,[Meta AI]
+Horacio Saggion,[Universitat Pompeu Fabra]
+Hung-yi Lee,[Unknown]
+Idan Szpektor,[Unknown]
+Ignatius Eziani,"[Lancaster University, United Kingdom]"
+Imed Zitouni,[Google]
+Ines Rehbein,[University of Mannheim]
+Iryna Gurevych,[Unknown]
+Isabelle Augenstein,"[University of Copenhagen, Denmark, University of Copenhagen (Senior Chair), University of Copenhagen, Unknown]"
+Ivan Titov,[Unknown]
+Ivan Vladimir Meza,[Unknown]
+Ivan Vulic,[University of Cambridge]
+Ivan Vulić,"[University of Cambridge (UK), University of Cambridge, Unknown]"
+Iz Beltagy,[Allen Institute for AI (AI2)]
+Jackie Chi Kit Cheung,"[Mila / McGill University, McGill University, Canada, Unknown]"
+Jacob Andreas,[Unknown]
+Jacob Eisenstein,"[Google, Unknown]"
+Jad Kabbara,"[McGill University and the Montreal Institute for Learning Algorithms (MILA), Canada]"
+James Henderson,"[Idiap Research Institute (Senior Chair), Unknown]"
+Jan Niehues,[Unknown]
+Jan-Christoph Klie,"[Technical University of Darmstadt, Germany]"
+Jannis Vamvas,"[Universitat Zurich, Switzerland]"
+Jasmijn Bastings,[Google]
+Jason Naradowsky,[Unknown]
+Jason Williams,"[Apple (USA), Apple]"
+Jeff Dalton,[Unknown]
+Jeffrey P. Bigham,[Carnegie Mellon University]
+Jennifer Chu-Carroll,[Unknown]
+Jenny Zhang,[RMIT University]
+Jens Edlund,[Unknown]
+Jernej Masnec,[Underline]
+Jesse Dodge,[Allen Institute for AI (Senior Chair)]
+Jesse Thomason,"[University of Southern California (USA), USC]"
+Jessica Ouyang,[University of Texas at Dallas]
+Jey Han Lau,[The University of Melbourne]
+Jiacheng Xu,[Salesforce (USA)]
+Jiajun Zhang,"[Institute of Automation Chinese Academy of Sciences, Institute of Automation, Chinese Academy of Sciences, Unknown]"
+Jianfei Yu,"[Nanjing University of Science and Technology, China]"
+Jianfeng Gao,[Microsoft Research]
+Jiangming Liu,[The University of Edinburgh]
+Jiatao Gu,[Unknown]
+Jie Yang,[Zhejiang University]
+Jim Glass,[Unknown]
+Jimmy Lin,"[University of Waterloo, Unknown]"
+Jin-Ge Yao,[Unknown]
+Jing Huang,"[JD AI Research, China, Unknown]"
+Jing Jiang,"[Singapore Management University, Singapore, Singapore Management University (Senior Chair), Unknown]"
+Jing LI,"[The Hong Kong Polytechnic University, Hong Kong, China]"
+Jing Li,"[The Hong Kong Polytechnic University, Hong Kong]"
+Jing-Shin Chang,"[National Chi Nan University, Taiwan]"
+Jingbo Xia,[Huazhong Agricultural University]
+Jinho Choi,[Emory University (USA)]
+Jinho D. Choi,[Unknown]
+Jinsong Su,[Unknown]
+Jiwei Li,[Unknown]
+Joakim Nivre,"[Uppsala University, Unknown]"
+Joel Tetreault,"[Dataminr, USA, Dataminr, Dataminr, Inc., Unknown]"
+John Kelleher,"[TU Dublin, Ireland, Unknown]"
+Jonathan Berant,"[Tel Aviv University and AI2, Unknown]"
+Jonathan Frankle,[MIT]
+Jonathan May,"[Information Sciences Institute University of Southern California, Unknown]"
+Jong C. Park,"[Korea Advanced Institute of Science and Technology, Korea]"
+Jordan Boyd-Graber,"[University of Maryland (USA), University of Maryland]"
+Jordan Zhang,[Ryan Cotterell ETH Zürich]
+Jose Camacho-Collados,[Unknown]
+Jose Collados,[Cardiff University]
+Jose Ochoa-Luna,[Universidad Catolica San Pablo]
+Josef van Genabith,[Unknown]
+Joyce Chai,[University of Michigan]
+Julia Hirschberg,[Unknown]
+Julia Hockenmaier,[Unknown]
+Julia Kreutzer,[Unknown]
+Jun Suzuki,"[Tohoku University/RIKEN Center for AI, Unknown]"
+Jun Zhao,[Unknown]
+Junhui Li,"[Soochow University, Suzhou]"
+Junyi Jessy Li,[Unknown]
+Justine Zhang,[Cornell University]
+Jörg Tiedemann,[Unknown]
+Kai Yu,[Unknown]
+Kai-Fam Wong,"[The Chinese University of Hong Kong, Hong Kong, China]"
+Kai-Wei Chang,"[UCLA, Unknown]"
+Kalina Bontcheva,[Unknown]
+Kallirroi Georgila,"[University of Southern California, Unknown]"
+Kang Liu,"[Institute of Automation, Chinese Academy of Sciences, Institute of Automation, Chinese Academy of Sciences (Senior Chair), Unknown]"
+Karen Livescu,[Unknown]
+Karin Verspoor,"[RMIT University, Unknown]"
+Karl Stratos,[Rutgers University]
+Karthik Narasimhan,[Princeton University (Senior Chair)]
+Karën Fort,"[Sorbonne University, France]"
+Kateryna Tymoshenko,[Unknown]
+Kathleen McKeown,"[Columbia University, USA, and Amazon AWS AI Labs, Unknown]"
+Kathy McCoy,[Unknown]
+Kayathi Chandu,"[Carnegie Mellon University, USA]"
+Kazunori Komatani,[Unknown]
+Kees van Deemter,[Unknown]
+Kellie Webster,"[Google, USA]"
+Kemal Oflazer,[Unknown]
+Kenji Sagae,"[University of California, Davis, Unknown]"
+Kenneth Church,[Unknown]
+Kentaro Inui,"[Tohoku University, Japan]"
+Kenton Lee,[Google Research]
+Kevin Clark,[Google]
+Kevin Cohen,[Unknown]
+Kevin Duh,"[Johns Hopkins University, Unknown]"
+Kevin Gimpel,[Toyota Technological Institute at Chicago (Advisory)]
+Kevin Small,"[Amazon (Senior Chair), Unknown]"
+Kewei Tu,"[Shanghai Tech University, Unknown]"
+Kirk Roberts,[University of Texas Health Science Center at Houston]
+Klaus Zechner,[Educational Testing Service]
+Kobkrit Viriyayudhakorn,"[iApp Technology Co., Ltd., Thailand]"
+Koji Mineshima,[Keio University]
+Krich Nasingkun,"[NECTEC, NSTDA, Thailand]"
+Kristen Johnson,[Michigan State University]
+Kristina Toutanova,"[Google, Unknown]"
+Krit Kosawat,"[NECTEC, NSTDA, Thailand]"
+Kyle Mahowald,[University of Texas at Austin]
+Laird Smith,[Abbey]
+Laura Rimell,[Unknown]
+Le Sun,[Unknown]
+Lea Frermann,[Melbourne University]
+Lei Li,"[Univeristy of California Santa Barbara (USA), UCSB, Unknown]"
+Lei Shu,[Google (USA)]
+Leila Arras,[Fraunhofer Heinrich Hertz Institute]
+Leila Kosseim,[Unknown]
+Leila Wehbe,[Unknown]
+Lemao Liu,"[Tencent AI Lab, China]"
+Leo Wanner,[Unknown]
+Leon Bergen,[Unknown]
+Leon Derczynski,"[IT University of Copenhagen (Senior Chair), Unknown]"
+Li Dong,[Unknown]
+Liang Huang,"[Oregon State University, Oregon State University and Baidu Research, Unknown]"
+Liang-Chih Yu,"[Yuan Ze University, Taiwan, Unknown]"
+Lianhui Qin,[University of Washington]
+Lidong Bing,"[DAMO Academy, Alibaba Group, Singapore]"
+Lifu Huang,"[Virginia Tech (USA), Virginia Tech, USA, Virginia Tech]"
+Linfeng Song,"[Tencent AI Lab, Unknown]"
+Lluís Màrquez,"[Amazon, Amazon SSAI (Senior Chair), Unknown]"
+Loic Barrault,[Unknown]
+Lonneke van der Plas,"[University of Malta, Malta]"
+Lorenzo Seidenari,[Unknown]
+Louis-Philippe Morency,[Unknown]
+Loïc Barrault,[Unknown]
+Lu Wang,"[University of Michigan (USA), University of Michigan, University of Michigan (Senior Chair), Unknown]"
+Lucia Passaro,[University of Pisa]
+Lucia Specia,"[Imperial College London, Unknown]"
+Luciana Benotti,"[National University of Córdoba, Argentina, National University of Cordoba, Argentina, Universidad Nacional de Córdoba, Unknown]"
+Lucie Flek,[Unknown]
+Luheng He,"[Google, Unknown]"
+Luis Chiruzzo,[Universidad de la República]
+Luka Šimic,[Underline]
+Luke Zettlemoyer,"[University of Washington, University of Washington and Meta, Unknown]"
+Lun-Wei Ku,[Unknown]
+Maggie Li,[Unknown]
+Mahmoud El-Haj,[Lancaster University]
+Mahnoosh Mehrabani,[Unknown]
+Maja Popovi´c,"[ADAPT, Dublin City University]"
+Makoto Miwa,"[Toyota Technological Institute, Unknown]"
+Malihe Alikhani,[University of Pittsburgh]
+Malvina Nissim,"[University of Groningen, Netherlands]"
+Manaal Faruqui,[Unknown]
+Manabu Okumura,"[Tokyo Institute of Technology, Unknown]"
+Manfred Stede,"[Potsdam University, Unknown]"
+Manny Rayner,"[Geneva University, Unknown]"
+Manuel Ciosici,[University of Southern California]
+Manuel Mager,"[University of Stuttgart, Germany]"
+Marcello Federico,"[Amazon AI, Unknown]"
+Marcely Boito Zanon,"[University of Avignon, France]"
+Marcin Junczys-Dowmunt,[Microsoft Redmond]
+Marco Polignano,"[University of Bari Aldo Moro, Italy]"
+Marco Senaldi,"[University of Pisa, Scuola Normale Superiore (Pisa)]"
+Marcos Zampieri,"[Rochester Institute of Technology, USA]"
+Marek Rei,"[Imperial College London, Unknown]"
+Margaret Mitchell,[HuggingFace]
+Margot Mieskes,"[University of Applied Sciences, Darmstadt (Germany), Darmstadt University of Applied Sciences (Chair)]"
+Maria Cristina Schiavone,[MCI Group (Co-Chair)]
+Maria Liakata,"[Queen Mary University of London (Senior Chair), Unknown]"
+Marianna Apidianaki,"[University of Pennsylvania, University of Helsinki, Unknown]"
+Marie-Catherine de Marneffe,[The Ohio State University]
+Marie-Francine Moens,[Unknown]
+Marine Carpuat,[Unknown]
+Marius Pasca,"[Google, Unknown]"
+Marjan Ghazvininejad,[Facebook AI Lab]
+Mark Dras,[Unknown]
+Mark Hasegawa-Johnson,[Unknown]
+Mark Johnson,[Unknown]
+Mark Sanderson,[RMIT University (Senior Chair)]
+Mark Seligman,"[Speechmorphing, Inc., US]"
+Mark Stevenson,[Unknown]
+Markus Dreyer,[Unknown]
+Markus Freitag,[Google Research]
+Marta R. Costa-jussà,"[Technical University of Catalonia, Meta AI]"
+Marta Ruiz Costa-Jussa,[Universitat Politècnica de Catalunya]
+Martha Yifiru Tachbelie,"[Addis Abada University, Ethiopia, Addis Ababa University, Ethiopia]"
+Martín Villalba,[Bayer AG (Germany)]
+Mary Ellen Foster,[Unknown]
+Maryam Fazel-Zarandi,[Meta (USA)]
+Masato Yoshinaka,[Osaka University]
+Massimo Piccardi,[Unknown]
+Mateo Antonic,[Underline]
+Matt Gardner,"[Allen Institute for Artificial Intelligence (Senior Chair), Unknown]"
+Matthew Marge,[Unknown]
+Matthew Stone,[Unknown]
+Matthias Petri,[Unknown]
+Matthias Scheutz,[Unknown]
+Mausam,"[IIT Delhi, India, Unknown]"
+Maxime Amblard,[Université de Lorraine]
+Maxime Peyrard,"[EPFL, Unknown]"
+Mehrnoosh Sadrzadeh,[Unknown]
+Meishan Zhang,"[Harbin Institute of Technology (Shenzhen), China, Unknown]"
+Melisa Bok,[OpenReview]
+Meng Jiang,[University of Notre Dame]
+Michael Bendersky,[Unknown]
+Michael Elhadad,"[Ben Gurion University, Unknown]"
+Michael Johnston,[Unknown]
+Michael Roth,"[University of Stuttgart, Unknown]"
+Michael Strube,"[GmbH Heidelberg, Germany, Unknown]"
+Michael White,[Unknown]
+Michel Galley,[Unknown]
+Miguel Ballesteros,"[AWS AI Labs, Unknown]"
+Mihai Surdeanu,[University of Arizona]
+Miikka Silfverberg,[Unknown]
+Mike Lewis,[Facebook AI Research]
+Milica Gasic,[Unknown]
+Milica Gašić,[Heinrich Heine University of Düsseldorf]
+Min Yang,"[Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences]"
+Min Zhang,"[Soochow University, China, Unknown]"
+Min-Yen Kan,"[National University of Singapore, Singapore, National University of Singapore]"
+Ming-Feng Tsai,[Unknown]
+Minh-Thang Luong,[Unknown]
+Minjoon Seo,"[Korea Advanced Institute of Science and Technology, KAIST]"
+Minlie Huang,"[Leader of Sub-Committee of Childcare ++ Accessibility, Tsinghua University, Unknown]"
+Mirella Lapata,"[University of Edinburgh, UK, Unknown]"
+Mo Yu,[IBM Research]
+Mohammad Taher Pilehvar,"[Tehran Institute for Advanced Studies, Unknown]"
+Mohit Bansal,"[University of North Carolina, Chapel Hill, Unknown]"
+Mohit Iyyer,"[University of Massachusetts Amherst (Senior Chair), Unknown]"
+Mona Diab,"[Facebook AI Research & GWU, USA, Facebook AI and GWU, Unknown]"
+Monojit Choudhury,"[Microsoft Research Lab India, Microsoft]"
+Muhammad Abdul-Magead,[University of British Columbia]
+Murat Saraçlar,[Bogazici University]
+Murathan Kurfali,[University of Stockholm]
+Nadia L’Bahy,[OpenReview]
+Nadir Durrani,"[Qatar Computing Research Institute, QCRI]"
+Nadjet Bouayad,[Unknown]
+Nafise Moosavi,"[TU Darmstadt, Germany]"
+Nafise Sadat Moosavi,"[UKPLab, Technische Universität Darmstadt]"
+Nan Duan,[Microsoft Research Asia (Senior Chair)]
+Nancy Chen,"[Institute for Infocomm Research, A*STAR]"
+Nancy Ide,[Unknown]
+Nanyun Peng,"[University of Southern California, University of California, Los Angeles, Unknown]"
+Nanyung (Violet) Peng,"[University of California, Los Angeles]"
+Naoaki Okazaki,"[Tokyo Institute of Technology (Japan), Tokyo Institute of Technology, Japan, Tokyo Institute of Technology]"
+Naoki Okada,[Osaka University]
+Naomi Saphra,[New York University]
+Natalie Schluter,"[Google Brain and IT University of Copenhagen, IT University of Copenhagen (Senior Chair)]"
+Nattapol Kritsuthikul,"[NECTEC, NSTDA, Thailand]"
+Nazli Goharian,[Unknown]
+Nazneen Rajani,"[Salesforce Research, Unknown]"
+Nedim Lipka,[Unknown]
+Nedjma Djouhra Ousidhoum,[University of Cambridge (UK)]
+Nedjma Ousidhoum,[Cardiff University and University of Cambridge]
+Nianwen Xue,"[Brandeis University, USA, Unknown]"
+Nicole Ballard,[YesEvents]
+Nigel Collier,[Unknown]
+Nikolaos Aletras,"[University of Sheffield and Amazon, Unknown]"
+Nina Dethlefs,"[University of Hull, Unknown]"
+Nitin Madnani,[ETS AI Labs]
+Nizar Habash,[Unknown]
+Noah A. Smith,[Unknown]
+Nut Limsopatham,[Unknown]
+Nyalleng Moorosi,[Google AI]
+Oana Cocarascu,[King’s College London]
+Oleg Rokhlenko,[Amazon Research]
+Olga Majewska,[Unknown]
+Olga Uryupina,[Unknown]
+Omer Levy,[Unknown]
+Omri Abend,"[Hebrew University of Jerusalem, Unknown]"
+Oren Kurland,[Unknown]
+Oren Tsur,[Unknown]
+Orhan Firat,"[Google AI, Unknown]"
+Owen Rambow,[Unknown]
+Panupong Pasupat,[Google]
+Paolo Rosso,"[Universitat Politècnica de València, Spain]"
+Partha Pratim Talukdar,[Google]
+Pascale Fung,[Unknown]
+Pasquale Minervini,[University College London]
+Patrick Pantel,[Unknown]
+Paul Cook,"[University of New Brunswick, Unknown]"
+Paul Piwek,[Unknown]
+Paul Rayson,[Lancaster University]
+Pearl Pu,[EPFL]
+Pedro Rodriguez,"[Meta (USA), University of Maryland, College Park, USA]"
+Peng Zhang,[Unknown]
+Pengfei Liu,[Carnegie Mellon University]
+Phil Blunsom,[Unknown]
+Philipp Koehn,[Unknown]
+Philippe Langlais,[University of Montreal]
+Philippe Muller,"[University of Toulouse, France]"
+Pierluigi Cassotti,"[University of Bari Aldo Moro, Italy]"
+Piji Li,[Unknown]
+Pintu Lohar,"[ADAPT Centre, Ireland]"
+Piyawat Lertvittayakumjorn,[Imperial College London]
+Pontus Stenetorp,"[University College London, Unknown]"
+Prathyusha Jwalapuram,"[Nanyang Technological University, Singapore]"
+Preslav Nakov,"[Qatar Computing Research Institute, HBKU, Qatar, Qatar Computing Research Institute, HBKU, MBZUAI, Unknown]"
+Priscilla Rasmussen,"[ACL Conference Registration, Association for Computational Linguistics (ACL), ACL, Association for Computational Linguistics, USA]"
+Qi Zhang,"[Fudan University, China, Fudan University]"
+Qianchu (Flora) Liu,[Unknown]
+Qiang Ning,[Amazon]
+Qifan Wang,[Meta AI]
+Qin Lu,[Unknown]
+Quan Wang,[Unknown]
+Qun Liu,"[Huawei Noah’s Ark Lab, Huawei Noah's Ark Lab, Hong Kong, Unknown]"
+Rachada Kongkrachantra,"[Thammasat University, Thailand]"
+Rachasak Somyanonthanakul,"[Rangsit University, Thailand]"
+Rachel Rudinger,[Unknown]
+Rachele Sprugnoli,"[Universita Cattolica del Sacro Cuore, Italy, Università Cattolica del Sacro Cuore]"
+Rada Mihalcea,[University of Michigan]
+Radu Florian,[Unknown]
+Raffaella Bernardi,[Unknown]
+Raquel Fernandez,[University of Amsterdam]
+Razvan Bunescu,[Unknown]
+Rebecca J. Passonneau,[Unknown]
+Reut Tsarfaty,"[Bar-Ilan University, Unknown]"
+Reza Haffari,[Unknown]
+Richard Futrell,"[University of California, Irvine, Unknown]"
+Rico Sennrich,"[University of Edinburgh, UK, University of Zurich, Unknown]"
+Rita Singh,[Carnegie Mellon University]
+Ritesh Kumar,[Bhimrao Ambedkar University]
+Robert Frederking,[Carnegie Mellon University (CMU)]
+Robert Monarch,[Apple]
+Roberto Basili,"[University of Rome, Tor Vergata]"
+Roberto Navigli,"[Sapienza University of Rome, Unknown]"
+Robin Jia,[University of Southern California]
+Rocco Tripodi,[University of Bologna]
+Rodrigo Wilkens,"[Université catholique de Louvain, Belgium]"
+Roee Aharoni,[Google]
+Roger Levy,"[Massachusetts Institute of Technology, Unknown]"
+Roi Reichart,"[Technion-Israel Institute of Technology, Unknown]"
+Roman Klinger,[Unknown]
+Ron Artstein,[Unknown]
+Rotem Dror,[Technion - Israel Institute of Technology]
+Roy Schwartz,[Unknown]
+Rui Xia,"[Nanjing University of Science and Technology, China, Nanjing University of Science and Technology, Unknown]"
+Rui Yan,"[Peking University, Renmin University of China, Unknown]"
+Rui Zhang,[Penn State University]
+Ruifeng Xu,"[Harbin Institute of Technology, Shenzhen, Harbin Institute of Technology, China]"
+Ruihong Huang,"[Texas A&M University (USA), Unknown]"
+Ruihua Song,"[Renmin University (Senior Chair), Unknown]"
+Ryan Cotterell,"[ETH Zürich (Switzerland), University of Cambridge, ETH Zurich, ETH Zürich (Senior Chair), ETH Zürich, Unknown]"
+Ryuichiro Higashinaka,[Unknown]
+Sabine Schulte im Walde,[Unknown]
+Sacha Bourdeaud'Hui,[Mamoka (Web Manager)]
+Saif M. Mohammad,[National Research Council Canada]
+Saif Mohammad,"[National Research Council Canada, Unknown]"
+Sakriani Sakti,[Unknown]
+Sam Wiseman,[Duke University]
+Sameer Singh,"[University of California, Irvine, Unknown]"
+Samhaa R. El-Beltagy,[Newgiza University/Optomatica]
+Samuel Louvan,"[FBK, Italy]"
+Samuel R. Bowman,[New York University]
+Samuel Wiseman,[Unknown]
+Sanda Harabagiu,[Unknown]
+Sandipan Dandipat,[Microsoft]
+Sanja Štajner,"[Symanto Research, Germany]"
+Sara Goggi,"[CNR-ILC, Italy, Institute for Computational Linguistics of CNR (CNR-ILC) (Co-Chair)]"
+Sara Hooker,[Cohere For AI]
+Sara Rosenthal,"[IBM Research AI, USA, Unknown]"
+Sara Stymne,[Unknown]
+Sara Tonelli,"[Bruno Kessler Foundation, Unknown]"
+Sarvnaz Karimi,"[CSIRO, Unknown]"
+Sasha Luccioni,[University of Montreal]
+Sasha Rush,[Unknown]
+Satoshi Sekine,[Unknown]
+Scott Wen-tau Yih,"[Facebook AI Research, Facebook]"
+Scott Yih,"[Meta AI, Meta AI - FAIR, Unknown]"
+Sebastian Gehrmann,"[Bloomberg, Google Research]"
+Sebastian Riedel,[University College London and Facebook AI Research]
+Sebastian Ruder,[Unknown]
+Sebastian Schuster,[Saarland University]
+Sebastin Santy,"[University of Washington, USA]"
+Seokhwan Kim,[Unknown]
+Shafiq Joty,"[Salesforce AI Research, Unknown]"
+Shafiq Rayhan Joty,[Nanyang Technological University (Senior Chair)]
+Shaonan Wang,"[Institute of Automation, Chinese Academy of Sciences, China]"
+Shashank Srivastava,[Unknown]
+Shashi Narayan,"[Google, Unknown]"
+Shawn Wen,[PolyAI]
+Shay B. Cohen,[Unknown]
+Shay Cohen,"[University of Edinburgh (Advisory), Unknown]"
+Shinji Watanabe,[Carnegie Mellon University]
+Shiyu Chang,[Unknown]
+Shou-de Lin,[Unknown]
+Shruti Rijhwani,"[Carnegie Mellon University, Google]"
+Shuly Wintner,[Unknown]
+Shuohang Wang,[Unknown]
+Shyam Upadhyay,[Unknown]
+Siddharth Patwardhan,[Unknown]
+Simon Baker,[Unknown]
+Simon Mille,[Pompeu Fabra University]
+Simon Suster,[University of Melbourne]
+Simone Filice,"[Amazon, Unknown]"
+Simone Paolo Ponzetto,"[University of Mannheim, Unknown]"
+Simonetta Montemagni,[Institute for Computational Linguistics of CNR (CNR-ILC)]
+Sina Zarrieß,"[University of Bielefeld, Unknown]"
+Siva Reddy,"[McGill University and Mila (Canada), McGill University, Canada, McGill University, Unknown]"
+Slav Petrov,[Google]
+Smaranda Muresan,"[Columbia University and Amazon AWS AI Labs, USA, Unknown]"
+Snigdha Chaturvedi,[Unknown]
+Sobha Lalitha Devi,[AU-KBC Research Centre]
+Sol Rosenberg,[Underline]
+Sonal Gupta,[Facebook (Senior Chair)]
+Soujanya Poria,"[Singapore University of Technology, Singapore, Unknown]"
+Soujanya Poriya,[Singapore University of Technology and Design]
+Spandana Gella,[Unknown]
+Srinivas Bangalore,[Unknown]
+Stefan Riezler,[Unknown]
+Stefan Ultes,"[Mercedes-Benz AG, Unknown]"
+Stephanie M. Lukin,[Unknown]
+Stephen Mayhew,[Duolingo]
+Steven Bedrick,[Oregon Health & Science University]
+Steven Bethard,"[University of Arizona, Unknown]"
+Steven Schockaert,[Cardiff University]
+Su Lin Blodgett,"[Microsoft Research Montréal, Canada, Microsoft Research]"
+Suchathit Boonnag,"[AIAT, Thailand]"
+Sudha Rao,"[Microsoft Research, Redmond, Microsoft Research, USA, Unknown]"
+Sudip Naksar,[Jadavpur University]
+Sujian Li,"[Pekin University, China, Peking University, Unknown]"
+Sujith Ravi,"[SliceX AI, Unknown]"
+Sumithra Velupillai,[Unknown]
+Sunayana Sitaram,"[Microsoft Research India (India), Microsoft Research India]"
+Sungjin Lee,[Unknown]
+Suzan Verberne,"[LIACS, Leiden University]"
+Suzanne Stevenson,[Unknown]
+Svitlana Volkova,[Unknown]
+Swabha Swayamdipta,[Allen Institute for Artificial Intelligence]
+Swapna Somasundaran,[Unknown]
+Tao Ge,[Unknown]
+Tao Lei,[Google]
+Tao Qin,[Unknown]
+Tao Yu,[University of Hong Kong (Hong Kong)]
+Tara Sainath,[Unknown]
+Taro Watanabe,"[Nara Institute of Science and Technology, Japan, Nara Institute of Science and Technology, Unknown]"
+Terah Shaffer,[YesEvents]
+Thamar Solorio,[Unknown]
+Thanaruk Theeramunkong,"[The Artificial Intelligence Association of Thailand and Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand]"
+Thang Vu,[University of Stuttgart]
+Thepchai Supnithi,"[NECTEC, NSTDA, Thailand]"
+Thiago Castro Ferreira,"[Federal University of Minas Gerais, Unknown]"
+Thien Huu Nguyen,[University of Oregon]
+Thierry Declerck,[Unknown]
+Thuy Vu,[Amazon]
+Thy Thy Tran,[Technische Universität Darmstadt]
+Tim Baldwin,"[MBZUAI and The University of Melbourne, Australia, University of Melbourne, Australia, The University of Melbourne (Senior Chair)]"
+Tim Finin,[Unknown]
+Tim Miller,[Boston Children’s Hospital and Harvard Medical School]
+Tim O'Donnell,[Unknown]
+Tim Rocktäschel,[Unknown]
+Timothy Baldwin,[Unknown]
+Tom Kwiatkowski,[Google]
+Tommaso Pasini,[University of Copenhagen]
+Tong Xiao,[Northeastern University]
+Tong Xu,[University of Science and Technology of China (China)]
+Travis Goodwin,[U.S. National Library of Medicine]
+Trevor Cohn,"[University of Melbourne, The University of Melbourne, Australia, Unknown]"
+Tristan Naumann,"[Microsoft Research, Unknown]"
+Tushar Khot,[Allen Institute for AI]
+Udo Kruschwitz,[Unknown]
+Valerio Basile,"[University of Turin, Italy, University of Turin]"
+Vasudevan Nedumpozhimana,"[ADAPT Centre, Ireland]"
+Vera Demberg,[Unknown]
+Vered Shwartz,[Unknown]
+Veronica Perez-Rosas,[Unknown]
+Veronika Laippala,"[University of Turku, Finland]"
+Ves Stoyanov,[Facebook AI]
+Veselin Stoyanov,"[Facebook (Senior Chair), Unknown]"
+Vincent Ng,[Unknown]
+Vinodkumar Prabhakaran,"[Google, Unknown]"
+Vishakh Padmakumar,[New York University (USA)]
+Vivek Kulkarni,[Unknown]
+Vivek Srikumar,"[University of Utah, Unknown]"
+Vivian Chen,"[National Taiwan University, China]"
+Vlad Niculae,[University of Amsterdam]
+Wai Lam,[The Chinese University of Hong Kong]
+Wajdi Zaghouani,[Hamad Bin Khalifa University]
+Wanxiang Che,"[Harbin Institute of Technology, Harbin Institute of Technology (Senior Chair)]"
+Wayne Xin Zhao,[Unknown]
+Wei 'Coco' Xu,[Georgia Institute of Technology]
+Wei Gao,"[Singapore Management University, Unknown]"
+Wei Lu,"[Singapore University of Technology and Design, Singapore, Singapore University of Technology and Design (Senior Chair), Unknown]"
+Wei Wei,[Unknown]
+Wei Wu,[Meituan]
+Wei Xu,"[Georgia Institute of Technology, Unknown]"
+Weinan Zhang,[Harbin Institute of Technology]
+Weiwei Cheng,[Unknown]
+Weiwei Sun,"[University of Cambridge, Unknown]"
+Wenjie Li,"[The Hong Kong Polytechnic University, Unknown]"
+Wenpeng Yin,[Unknown]
+William Schuler,[Unknown]
+William Wang,"[University of California, Santa Barbara, Unknown]"
+William Yang Wang,[Unknown]
+Witchaworn Mankhong,"[NECTEC, NSTDA, Thailand]"
+Wolfgang Macherey,[Unknown]
+Wray Buntine,[Unknown]
+Xanda Schofield,"[Harvey Mudd College, USA]"
+Xavier Carreras,"[dMetrics, Unknown]"
+Xiang Ren,"[University of Southern California, Unknown]"
+Xianpei Han,"[Institute of Software, Chinese Academy of Sciences]"
+Xiaodan Zhu,"[Queen's University, Unknown]"
+Xiaodong He,[Unknown]
+Xiaojie Wang,[Beijing University of Posts and Telecommunications]
+Xiaojun Quan,[Unknown]
+Xiaojun Wan,"[Peking University, Peking University (Senior Chair), Unknown]"
+Xin Wang,[Unknown]
+Xipeng Qiu,"[Fudan University (Senior Chair), Unknown]"
+Xu Sun,[Unknown]
+Xuanjing Huang,"[Fudan University, Unknown]"
+Yadollah Yaghoobzadeh,"[University of Tehran, Iran]"
+Yale Song,[Unknown]
+Yang Feng,"[Chinese Academy of Sciences (China), Institute of Computing Technology, Chinese Academy of Science, China, Institute of Computing Technology, Chinese Academy of Sciences (Senior Chair), Chinese Academy of Sciences, China, Unknown]"
+Yang Gao,"[Royal Holloway, University of London, UK]"
+Yang Liu,"[Amazon (USA), Tsinghua University, Amazon – Alexa AI, USA, Unknown]"
+Yangfeng Ji,[Unknown]
+Yangqiu Song,"[HKUST, Unknown]"
+Yangsong Feng,[Peking University]
+Yannis Konstas,[Unknown]
+Yansong Feng,"[Peking University, Unknown]"
+Yanyan Lan,[Tsinghua University]
+Yao Fu,[University of Edinburgh (UK)]
+Yevgeni Berzak,[Unknown]
+Yeyun Gong,[Microsoft Research Asia]
+Yi Luan,[Google AI Language]
+Yi Tay,"[Google, Unknown]"
+Yi Zhang,"[AWS AI Labs, Amazon AI, Unknown]"
+Yiming Cui,[Harbin Institute of Technology]
+Yiqun Liu,[Tsinghua University]
+Yishu Miao,[Unknown]
+Yizhe Zhang,"[Microsoft Research, Redmond]"
+Yizhong Wang,[University of Washington]
+Yoav Artzi,[Unknown]
+Yoav Goldberg,"[Bar Ilan University, Unknown]"
+Yonatan Belinkov,"[Technion, Unknown]"
+Yonatan Bisk,"[Carnegie Mellon University (USA), Carnegie Mellon University, CMU, Unknown]"
+Yoon Kim,"[Massachusetts Institute of Technology, MIT, IBM]"
+Yoshimasa Tsuruoka,[Unknown]
+Yoshitomo Matsubara,"[UC Irvine, USA]"
+Youzheng Wu,[JDAI Research]
+Yue Zhang,"[Westlake University, Unknown]"
+Yufang Hou,"[IBM Research, IBM Research Ireland]"
+Yuji Matsumoto,[Unknown]
+Yuki Arase,"[Associate Professor, Osaka University, Japan, Osaka University]"
+Yulan He,"[University of Warwick, University of Warwick, UK, Unknown]"
+Yulia Tsvetkov,"[University of Washington, Unknown]"
+Yun-Nung (Vivian) Chen,[National Taiwan University (Taiwan)]
+Yun-Nung Chen,[Unknown]
+Yunyao Li,[Unknown]
+Yuval Pinter,[Ben-Gurion University of the Negev (BGU)]
+Yves Scherrer,"[University of Helsinki, Finland]"
+Yvette Graham,"[Dublin City University, Ireland, ADAPT, Trinity College Dublin (Senior Chair), Unknown]"
+Zachary Lipton,[Carnegie Mellon University (Senior Chair)]
+Zeerak Talat,[University of Sheffield]
+Zhao Jun,[Unknown]
+Zhaopeng Tu,[Unknown]
+Zhenghua Li,[Soochow University]
+Zhenzhong Lan,[Unknown]
+Zhicheng Dou,[Renmin University of China]
+Zhiyuan Liu,"[Tsinghua University, Unknown]"
+Zhongjun He,"[Baidu Co, China, Baidu, Inc.]"
+Zhongyu Wei,"[Fudan University (China), Fudan University, China, Unknown]"
+Zhou Yu,"[University of California, Davis, Columbia University, Unknown]"
+Zhumin Chen,"[Shandong University, China]"
+Zornitsa Kozareva,"[Facebook AI Research, USA, Facebook AI, Unknown]"

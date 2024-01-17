@@ -1,0 +1,981 @@
+name,affiliation
+Cliff Lampe,University of Michigan
+Simone Barbosa,PUC-Rio
+David A. Shamma,Toyota Research Institute
+Caroline Appert,Université Paris-Saclay
+Katta Spiel,TU Wien
+Christina Harrington,Carnegie Mellon University
+Danilo Gasques,UC San Diego
+Ihudiya Finda Williams,University of Michigan
+Monica Pereira,Brunel University London
+Dominic DiFranzo,Lehigh University
+Hugo Romat,Microsoft
+Anupriya Tuli,"IIIT Delhi, India"
+Cayley MacArthur,"University of Waterloo, Canada"
+Steven Drucker,Microsoft Research
+Julie Williamson,University of Glasgow
+Koji Yatani,University of Tokyo
+Nikita Samarin,"University of California, Berkeley"
+Zhongyi Zhou,University of Tokyo
+David Lindlbauer,CMU
+Heloisa Candello,IBM
+Vinoba Vinayagamoorthy,BBC
+Pedro Lopes,University of Chicago
+Frank Bentley,Google
+Catherine Letondal,Ecole Nationale Aviation Civile
+Anicia Peters,University of Namibia
+Kathryn Ringland,University of California
+Norman Makoto Su,"University of California, Santa Cruz"
+Oliver Haimson,University of Michigan
+Nicolai Marquardt,University College London
+Eunice Sari,UX Indonesia
+Louise Barkhuus,IT University of Copenhagen
+Shaimaa Lazem,City for Scientific Research and Technological Applications
+Simon Perrault,Singapore University of Technology and Design
+Kashyap Todi,Facebook Reality Labs
+Pablo Cesar,CWI
+Stephanie Jordan,Michigan State University
+Makayla Lewis,Kingston University London
+Sameer Patil,University of Utah
+Cynthia Bennett,CMU
+Nova Ahmed,North South University
+Maryam Mustafa,Lahore University of Management Sciences
+Anusha Withana,The University of Sydney
+Pei-Yi (Patricia) Kuo,National Tsing Hua University
+Z Toups,New Mexico State University
+Jakob Karolus,LMU Munich
+Vicky McArthur,Carleton University
+Jasmine Jones,Berea College
+Can Liu,City University of Hong Kong
+Jorge Goncalves,"University of Melbourne, Australia"
+Dakuo Wang,IBM
+Sheena Erete,DePaul University
+Rita Orji,Dalhousie University
+Raimund Dachselt,Technische Universität Dresden
+Melissa Densmore,University of Cape Town
+Julie Kientz,University of Washington
+Eva Hornecker,Bauhaus-Universität Weimar
+Nathalie Riche,Microsoft Research
+Casey Fiesler,University of Colorado Boulder
+Jude Yew,Google
+Max Van Kleek,University of Oxford
+Fanny Chevalier,University of Toronto
+Carrie Cai,Google
+Emmanuel Pietriga,Inria
+Paula Lago,Concordia University
+Vanessa Peña-Araya,Inria
+Sven Mayer,LMU Munich
+Thomas Kosch,TU Darmstadt
+Raphael Wimmer,University of Regensburg
+Diego Muñoz,Swinburne University of Technology
+Alexander Mirnig,University of Salzburg
+Anhong Guo,University of Michigan
+Rob Comber,KTH
+Cristina Zaga,"University of Twente, Design Lab"
+Yi-Chi Liao,Aalto University
+Bingjie Yu,NetEase
+Ciabhan Connely,Georgia Tech
+Julia Dunbar,University of Washington
+Pranjal Jain,"theUXWhale, India"
+Emeline Brulé,University of Sussex
+Simone Kriglstein,University of Vienna & AIT Austrian Institute of Technology GmbH
+John Wenskovitch,Pacific Northwest National Laboratory
+Toni-Jan Keith Monserrat,University of the Philippines Los Banos
+Jie Li,CWI
+Dhruv Jain,University of Washington
+Garreth Tigwell,Rochester Institute of Technology
+Zainab AlMeraj,Kuwait University
+Kotaro Hara,Singapore Management University
+Venkatesh Potluri,University of Washington
+Shercole K.,VIA LINK
+Jaelle Scheuerman,U.S. Naval Research Laboratory
+Minha Lee,Eindhoven University of Technology
+Patrick Gage Kelley,Google
+Rua Williams,Purdue University
+Gopinaath Kannabiran,IT University of Copenhagen
+Siobahn Day Grady,North Carolina Central University
+Rina Wehbe,University of Waterloo
+Cale Passmore,University of Saskatchewan
+Christine Bauer,Utrecht University
+Annu Sible Prabhakar,University of Cincinnati
+Cuauhtémoc Rivera Loaiza,Universidad Michoacana de San Nicolás de Hidalgo
+Eiad Yafi,"University of Technology Sydney & Institute of Business, Timor-Leste"
+Susan Dray,Dray & Associates
+Marisol Wong-Villacres,Georgia Tech
+Parisa Eslambolchilar,University of Cardiff
+Kristin Williams,CMU
+Pedro Reynolds-Cuéllar,MIT Media Lab
+Jason Jacques,University of Cambridge
+Albrecht Schmidt,LMU Munich
+Kaisa Väänänen,Tampere University
+Tesh Goyal,Google Research
+Per Ola Kristensson,University of Cambridge
+Anicia Peters,University of Namibia
+Stefanie Mueller,Massachusetts Institute of Technology
+Julie R. Williamson,University of Glasgow
+Max L. Wilson,University of Nottingham
+Alisa Burova,Tampere University
+Passant Elagroudy,German Centre for Artificial Intelligence (DFKI)
+Jie Cai,Penn State University
+Gionnieve Lim,Singapore University of Technology and Design
+Andrii Matviienko,Technical University of Darmstadt
+Callum Berger,University of Nottingham
+Faraz Faruqi,Massachusetts Institute of Technology
+Megan Hofmann,Northeastern University
+Yue Jiang,Aalto University
+Claudia Loitsch,TU Dresden
+Benjamin Tannert,City University of Applied Sciences Bremen
+Matthew Louis Mauriello,University of Delaware
+Gözel Shakeri,Carl von Ossietzky University of Oldenburg
+Jonah-Noël Kaiser,Carl von Ossietzky University of Oldenburg
+Thu Marianski,Carl von Ossietzky University of Oldenburg
+Sven Mayer,LMU Munich
+Fiona Draxler,LMU Munich
+Julian Frommel,Utrecht University
+Thomas Kosch,Utrecht University
+Alexander G. Mirnig,University of Salzburg
+Diego Muñoz,Swinburne University of Technology
+Raphael Wimmer,University of Regensburg
+Frank Bentley,Google
+Abiodun Ogunyemi,Tallinn University
+Eunice Sari,UX Indonesia
+Daniela Busse,Meta
+Bastian Pfleging,TU Bergakademie Freiberg
+Margaret Burnett,Oregon State University
+Kasper Hornbæk,University of Copenhagen
+Bradley Rey,University of British Columbia
+Lars Erik Holmquist,Northumbria University
+Jaeyeon Lee,Ulsan National Institute of Science and Technology
+David Lindlbauer,Carnegie Mellon University
+Yomna Abdelrahmen,Bundeswehr University Munich
+Anirudha Joshi,Indian Institute of Technology Bombay
+Cosmin Munteanu,University of Waterloo
+Tanja Döring,University of Bremen
+Frank Steinicke,Universität Hamburg
+Julian Rasch,LMU Munich
+Oliver Haimson,University of Michigan
+Shaimaa Lazem,City of Scientific Research and Technological Applications (SRTA-City)
+Abdallah El Ali,Centrum Wiskunde & Informatica (CWI)
+Vinoba Vinayagamoorthy,Samsung
+Anke Brock,"ENAC, Université Toulouse"
+Jessica Cauchard,Ben Gurion University of the Negev
+Mario Alberto Moreno Rocha,Universidad Tecnológica de la Mixteca
+Niels Henze,University of Regensburg
+Jakob Karolus,German Research Center for Artificial Intelligence (DFKI)
+Ville Mäkelä,University of Waterloo
+Christian Sturm,Technische Hochschule Ingolstadt
+Chat Wacharamanotham,Swansea University
+Ciabhan Connely,Georgia Institute of Technology
+Julia Dunbar,University of Washington
+Maximiliane Windl,LMU Munich
+John Wenskovitch,Pacific Northwest National Laboratory
+Johannes Zagermann,University of Konstanz
+Thomas Olsson,Tampere University
+Dakuo Wang,Northeastern University
+Heike Winschiers-Theophilus,Namibia University of Science and Technology
+Lynne Baillie,Heriot-Watt University
+Wilko Heuten,OFFIS – Institute for IT
+Maryam Mustafa,Lahore University of Management
+Tawfiq Ammari,Rutgers University School of Communication and Information
+Anna Maria Feit,Saarland University
+Heloisa de Souza Pereira Candello,IBM Brazil
+Amon Rapp,University of Torino
+Rob Comber,KTH Royal Institute of Technology
+Konstantinos Koumaditis,Aarhus University
+Yi Chi Liao,Aalto University
+Christina Zaga,University of Twente
+Carol Klyver,Foundations of Excellence
+Elizabeth Churchill,Google
+Christine Bauer,Utrecht University
+Siobahn Day Grady,North Carolina Central University
+Anouk van Kasteren,Utrecht University
+Jordan Deja,University of Primorska
+Cuauhtémoc Rivera Loaiza,Universidad Michoacana
+Marisol Wong-Villacres,Escuela Superior Politécnica del Litoral
+João Moreira,"INESC-ID: Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento em Lisboa"
+Yoshifumi Kitamura,Tohoku University
+Aaron Quigley,"University of New South Wales, Australia"
+Kaori Ikematsu,Yahoo Japan Corporation
+Thomas Kosch,TU Darmstadt
+Katherine Isbister,University of California Santa Cruz
+Takeo Igarashi,The University of Tokyo
+Yuki Koyama,National Institute of Advanced Industrial Science and Technology (AIST)
+Elena Márquez Segura,Universidad Carlos III de Madrid
+Pernille Bjørn,University of Copenhagen
+Steven Drucker,Microsoft Research
+Claudine Tinsman,University of Oxford
+Earl Huff,Clemson University
+Danielle Wilde,University of Southern Denmark
+Nova Ahmed,"North South University, Bangladesh"
+Pierre Dragicevic,"Inria, France"
+Haley MacLeod,Facebook
+Stefan Manojlovic,TomTom
+Carine Lallemand,Eindhoven University of Technology
+Antti Oulasvirta,Aalto University
+Pedro Lopes,University of Chicago
+Sylvain Malacria,"Inria, France"
+Yuta Sugiura,Keio University
+Yang Li,Google Research
+Wendy Mackay,"Inria, Université Paris-Saclay"
+Wendy Ju,Cornell Tech
+Leah Findlater,University of Washington
+Edward Melcer,"University of California, Santa Cruz"
+Katrin Wolf,Beuth University of Applied Sciences Berlin
+Juho Kim,KAIST
+Leila Takayama,"University of California, Santa Cruz"
+Dan Russell,Google
+Germán Leiva,Aarhus University
+Emeline Brulé,University of Sussex
+Jofish Kaye,Mozilla
+Hideaki Kuzuoka,The University of Tokyo
+Jun Kato,"National Institute of Advanced Industrial Science and Technology (AIST) & Arch Inc., Japan"
+Nolwenn Maudet,University of Strasbourg
+Regina Bernhaupt,"Eindhoven University of Technology, Netherlands"
+Florian 'Floyd' Mueller,"Monash University, Melbourne, Australia"
+David Verweij,"Open Lab, Newcastle University, Newcastle, UK"
+Josh Andres,"IBM Research & Exertion Games Lab RMIT, Melbourne, Australia"
+Joanna McGrenere,"University of British Columbia, Vancouver, Canada"
+Andy Cockburn,"University of Canterbury, Christchurch, New Zealand"
+Ignacio (Nacho) Avellino,"University of Maryland Baltimore County, MD, USA"
+Alix Goguey,"Grenoble Alpes University, Grenoble, France"
+Pernille Bjorn,"University of Copenhagen, Copenhagen, Denmark"
+Shengdong Zhao,"National University of Singapore, Singapore"
+Briane Paul Samson,"Future University Hakodate, Japan"
+Rafal Kocielnik,"University of Washington, Seattle, USA"
+Ann Light,"University of Sussex, UK"
+Katta Spiel,"KU Leuven, Belgium"
+Danielle Wilde,"University of Southern Denmark, Denmark"
+Maja Vukovic,"IBM, Yorktown Heights, USA"
+Stefan Manojlovic,"Philips, Amsterdam, Netherlands"
+Daniela Busse,"eBay Inc., CA, USA"
+Rajan Vaish,"Snap Research, Santa Monica, USA"
+Ian Oakley,"Ulsan National Institute of Science and Technology, South Korea"
+Sylvain Malacria,"Inria, France"
+Walter Lasecki,"University of Michigan, Ann Arbor, USA"
+Koji Yatani,"University of Tokyo, Japan"
+Leah Findlater,"University of Washington, Seattle, USA"
+Duncan Brumby,"University College London, UK"
+Madeline Balaam,"KTH Royal Institute of Technology, Stockholm, Sweden"
+Neha Kumar,"Georgia Institute of Technology, Atlanta, USA"
+Stacey Kuznetsov,"Arizona State University, Tempe, USA"
+Jeni Paay,"Swinburne University of Technology, Melbourne, Australia"
+David Flatla,"University of Guelph, Canada"
+Zhanna Sarsenbayeva,"University of Melbourne, Australia"
+Carla Griggio,"The University of Tokyo, Japan"
+Jorge Goncalves,"University of Melbourne, Australia"
+Jonna Häkkilä,"University of Lapland, Rovaniemi, Finland"
+Katrin Wolf,"University of Hamburg, Germany"
+Bastian Pfleging,"Eindhoven University of Technology, Netherlands"
+Rob Comber,"KTH Royal Institute of Technology, Sweden"
+Mike Hazas,"Lancaster University, Lancashire, UK"
+Alexander Eiselmayer,"University of Zurich, Switzerland"
+Wanyu 'Abby' Liu,"IRCAM Centre Pompidou, Paris, France"
+Jessica Colnago,"Carnegie Mellon University, USA"
+Nicole Sultanum,"University of Toronto, Canada"
+Duncan Brumby,"University College London, UK"
+Tovi Grossman,"University of Toronto, Canada"
+Parmit Chilana,"Simon Fraser University, Canada"
+Niels van Berkel,"Aalborg University, Denmark"
+Katarzyna (Kathy) Stawarz,"University of Bristol, UK"
+Tom Horak,"Technische Universität Dresden, Germany"
+Sven Mayer,"Carnegie Mellon University, PA, USA"
+Michael Stewart,"James Madison University, VA, USA"
+Sandy Gould,"University of Birmingham, United Kingdom"
+Rakesh Patibanda,"Exertion Games Lab, RMIT University, Australia"
+Lila Bozgeyikli,"University of Arizona, USA"
+Jeffrey Bardzell,"Indiana University, USA"
+Scott Robertson,"University of Hawai'i, Honolulu, Hawai'i, USA"
+Rick Kazman,"University of Hawai'i, Honolulu, Hawai'i, USA"
+Kyle Rector,"University of Iowa, USA"
+Shari Trewin,"IBM Research, Yorktown, USA"
+Juho Kim,"Korea Advanced Institute of Science and Technology, South Korea"
+Cristina Zaga,"University of Twente, Netherlands"
+Simone Kriglstein,"AIT Austrian Institute of Technology, Austria"
+Rina Wehbe,"University of Waterloo, Canada"
+Maria Wolters,"Alan Turing Institute, London, UK"
+Robin Brewer,"University of Michigan, Ann Arbor, USA"
+Jed Brubaker,"University of Colorado Boulder, USA"
+Roman Rädle,"Facebook, USA"
+David Lindlbauer,"ETH Zurich, Switzerland"
+Kashyap Todi,"Aalto University, Finland"
+Rohit Ashok Khot,"RMIT University, Australia"
+Elisa Mekler,"Aalto University, Finland"
+Dong-Bach Vo,"University of Glasgow, UK"
+Bill Hamilton,"New Mexico State University, USA"
+Renee Noortman,"Eindhoven University of Technology, Netherlands"
+David Verweij,"Newcastle University, UK"
+Adrian Friday,"Lancaster University, UK"
+Christian Remy,"Aarhus University, Denmark"
+Mike Hazas,"Lancaster University, Lancashire, UK"
+Samuel Mann,"Otago Polytechnic, New Zealand"
+Elisabeth Churchill,"Google, Mountain View, USA"
+Masa Inakage,"Keio University, Japan"
+Max van Kleek,"University of Oxford, UK"
+Suranga Nanayakkara,"University of Auckland, New Zealand"
+Anusha Withana,"The University of Sydney, Australia"
+Mingrui Ray Zhang,"University of Washington, USA"
+Steven Rick,"University of California San Diego, USA"
+Philippe Palanque,"Université Toulouse III Paul Sabatier, France"
+Anna Cox,"University College London, UK"
+Vassilis Kostakos,"University of Melbourne, Australia"
+Katarzyna Stawarz,"Bristol University, UK"
+Niels van Berkel,"University of Melbourne, Australia"
+Anind Dey,"University of Washington, US"
+Shengdong Zhao,"National University of Singapore, Singapore"
+Briane Paul V. Samson,"Future University Hakodate, Japan"
+Sonali R. Mishra,"University of Washington, US"
+Jorge Goncalves,"University of Melbourne, Australia"
+Sandy Gould,"University of Birmingham, UK"
+Xinru Page,"Bentley University, US"
+Graham Wilson,"University of Strathclyde, UK"
+Frank Vetere,"University of Melbourne, Australia"
+Katrin Wolf,"Hamburg University of Applied Sciences, Germany"
+Rob Comber,"RISE Research Institutes of Sweden, Sweden"
+Lindsay Reynolds,"Facebook, US"
+Katie A. Siek,"Indiana University, US"
+Nazanin Andalibi,"University of Michigan, US"
+Jessica Colnago,"Carnegie Mellon University, US"
+Haley MacLeod,"Indiana University, US"
+Tovi Grossman,"Autodesk Research, Canada"
+Frederik Brudy,"University College London, UK"
+Tom Horak,"TU Dresden, Germany"
+Danula Hettiachchi,"University of Melbourne, Australia"
+Duncan Brumby,"University College London, UK"
+Cosmin Munteanu,"University of Toronto Mississauga, Canada"
+Sharon Oviatt,"Monash University, Australia"
+Marilyn Lennon,"University of Strathclyde, UK"
+Martin Halvey,"University of Strathclyde, UK"
+Lynne Hall,"University of Sunderland, UK"
+Jennefer Hart,"BBC, UK"
+Cayley MacArthur,"University of Waterloo, Canada"
+Cale Passmore,"University of Saskatchewan, Canada"
+Sunyoung Kim,"Rutgers University, US"
+Edith Law,"University of Waterloo, Canada"
+Louise Barkhuus,"IT University of Copenhagen, Denmark"
+David Flatla,"University of Guelph, Canada"
+Anicia Peters,"Namibia University of Science and Technology, Namibia"
+Anke Brock,"Ecole Nationale de l’Aviation Civie, France"
+Nitesh Goyal,"Google, US"
+Gopinaath Kannabiran,"Aarhus University, Denmark"
+Sue Fussell,"Cornell University, US"
+Hao-Chuan Wang,"University of California Davis, US"
+Naomi Yamashita,"Nippon Telegraph and Telephone Corporation, Japan"
+Daria Loi,"Intel Labs, US"
+Jofish Kaye,"Mozilla, US"
+Oliver Bates,"Lancaster University, UK"
+Adrian Friday,"Lancaster University, UK"
+Mike Hazas,"Lancaster University, UK"
+Christian Remy,"Aarhus University, Denmark"
+Maria Wolters,"University of Edinburgh, UK"
+Dakuo Wang,"IBM Research, US"
+Fatma Meawad,"University of Glasgow, Singapore"
+Rina R. Wehbe,"University of Waterloo, Canada"
+Cristina Zaga,"University of Twente, The Netherlands"
+Carman Neustaedter,"Simon Fraser University, Canada"
+Tony Tang,"University of Calgary, Canada"
+William (Bill) Hamilton,"New Mexico State University, US"
+Euan Freeman,"University of Glasgow, UK"
+Irina Shklovski,"IT University of Copenhagen, Denmark"
+Mark Handel,"Facebook, US"
+Elizabeth Churchill,"Google, US"
+Matt Jones,"Swansea University, UK"
+David McGookin,"Aalto University, Finland"
+Joanna Bergström-Lehtovirta,"University of Copenhagen, Denmark"
+Anusha Withana,"Saarland University, Germany"
+Elizabeth Buie,"Northumbria University, UK"
+Lisa Tweedie,"TIBCO, UK"
+Alan Dix,"Swansea University, UK"
+David Lindlbauer,"ETH Zurich, Switzerland"
+Roman Rädle,"Aarhus University, Denmark"
+Carol Klyver,Foundations of Excellence
+Roxane Rose,Executivevents
+Taylor Vick,Executivevents
+Lynne Baillie,Heriot Watt University
+Florian Alt,Bundeswehr University Munich
+Keith Vertanen,Michigan Technological University
+Magy Seif El-Nasr,Northeastern University
+Teresa Hirzle,Ulm University
+Theodoros Georgiou,Heriot-Watt University
+Erica Kleinman,University of California Santa Cruz
+Alexander Meschtscherjakov,University of Salzburg
+Andreas Riener,TH Ingolstadt
+Aneesha Singh,University College London
+Anirudha Joshi,IIT Bombay
+Ahmed Sabbir Arif,"University of California, Merced"
+Bastian Pfleging,Eindhoven University of Technology
+Benjamin Tag,University of Melbourne
+Blase Ur,University of Chicago
+Briane Paul Samson,Future University Hakodate & De La Salle University
+Benjamin Hanrahan,Pennsylvania State University
+Clara Caldeira,UC Irvine
+Claudio Pinhanez,IBM Research
+Daniel Buschek,"University of Bayreuth, Germany"
+Daniel Rough,University College Dublin
+Rahul Divekar,RPI
+Tanja Döring,University of Bremen
+Eduardo Velloso,University of Melbourne
+Elin Carstensdottir,University of California at Santa Cruz
+Elisa Mekeler,Aalto University
+Enrico Rukzio,University of Ulm
+Elizabeth Veinott,Michigan Technological University
+Frank Bentley,Yahoo
+Giovanni Troiano,Northeastern University
+Hans-Christian Jetter,"University of Applied Sciences Upper Austria, Hagenberg Campus"
+Henning Pohl,University of Copenhagen
+Tobias Höllerer,University of California Santa Barbara
+Jin Huang,"A M As Institute of Software, Chinese Academy of Sciences (ISCAS)"
+Jamie Mahoney,Northumbria University
+Jan Gugenheimer,Institut Polytechnique de Paris
+Jasmin Niess,University of Bremen
+Ken Pfeuffer,Bundeswehr University Munich
+Edward Lank,University of Waterloo
+Effie Law,Leicester University
+Markus Funk,Cerence Inc.
+Mark Billinghurst,University of South Australia
+Mark Dunlop,University of Strathclyde
+Mathew Aylett,CEREProc
+Erin Cherry,Northrop Grumman Mission Systems
+Mirjana Prpa,SIAT SFU
+Andres Lucero,Aalto University
+Pawel Wozniak,Utrecht University
+Peter Frohlich,AIT
+Qian Yang,Carnegie Mellon University
+Ronald Schroeter,Queensland University of Technology
+Stephen Intille,Northeastern University
+Salvatore Andolina,University of Palermo
+Sayan Sarcar,University of Tsukuba
+Stefan Schneegass,University of Duisburg-Essen
+Stephen Uzor,Cambridge University
+Sean Rintel,Microsoft Research
+Thomas Kosch,TU Darmstadt
+Tilman Dingler,University of Melbourne
+Joe Tulio,Google
+Uwe Grünefeld,University of Duisburg-Essen
+Ville Mäkelä,LMU Munich
+Brian Bailey,University of Illinois
+Nicola Dell,Cornell University
+Rama Adithya Varanasi,Cornell University
+Afsaneh Doryab,University of Virginia
+Aditya Vashistha,Cornell
+Adrian Clear,Northumbria University
+Ali Agha Raza,LUMS Pakistan
+André Calero Valdez,RWTH Aachen University
+Bran Knowles,Lancaster University
+Robert Xiao,University of British Columbia
+Carrie Demmans Epp,University of Alberta
+Kurt Luther,Virginia Tech
+Margot Brereton,Queensland University of Technology
+Mary Lou Maher,UNC Charlotte
+Maletsabisa (Tsabi) Molapo,IBM Research Africa
+Maggie Jack,Cornell / UC Irvine
+Maria Menendez Blanco,The Free University of Bozen-Bolzano
+Matthew Mauriello,Stanford
+Andrii Matviienko,Technical University Darmstadt
+Priyank Chandra,University of Toronto
+Ranjitha Kumar,University of Illinois
+Rita Orji,Dalhousie University
+Scarlett Miller,Penn State
+Sunyoung Kim,Rutgers University
+Shamsi Iqbal,MSR
+Sowmya Somanath,University of Victoria
+Vineet Pandey,Harvard
+Betsy DiSalvo,Georgia Tech
+Erin Walker,University of Pittsburgh
+Ishrat Ahmed,University of Pittsburgh
+Ahmed Kharrufa,Newcastle University
+Alexis Hinker,University of Washington
+Alice Oh,KAIST - School of Computing
+Anthony Pellicone,"University of Maryland, College Park"
+Briana Morrison,University of Nebraska Omaha
+Chris Frauenberger,Aarhus University
+Carolyn Rose,Carnegie Mellon University
+Edith Law,University of Waterloo
+Elena Glassman,Harvard University
+Elisa Rubegni,Lancaster University
+Eleanor O'Rourke,Northwestern University
+Florian Block,University of York
+Gahgene Gweon,Seoul National University
+Colin Gray,Purdue
+Gabreila Richard,Pennsylvania State University
+Erik Harpstead,Carnegie Mellon University
+Iulian Radu,Harvard University
+Derek Lomas,Delft
+Jason Yip,University of Washington
+Jessica Roberts,Georgia Tech
+Juho Kim,KAIST
+Kayla Desportes,New York University
+Katie Davis,University of Washington
+Kristy Boyer,University of Florida
+Rene Kizilcec,Cornell University
+Lana Yarosh,University of Minnesota
+Lisa Anthony,University of Florida
+Matthew Easterday,Northwestern University
+Min Chi,North Carolina State
+Mike Horn,Northwestern
+Michelle Lui,University of Toronto
+Michael Lee,New Jersey Institute of Technology
+Monica Landoni,Università Della Svizzera Italiana
+Oren Zuckerman,Interdisciplinary Center Herzliya
+Petr Slovak,University College London
+Zach Pardos,Berkeley
+Paul Denny,"University of Auckland, New Zealand"
+Phillip Guo,UC San Diego
+Rebecca Quintana,University of Michigan
+Ricarose Roque,University of Colorado
+Robb Lindgren,University of Illinois
+Roberto Martinez-Maldonado,Monash University
+Sayamindu Dasgupta,UNC Chapel Hill
+Selen Turkay,Queensland University of Technology
+Tawfiq Ammari,University of Michigan
+Tammy Clegg,"University of Maryland, College Park"
+Uta Hinrichs,University of Saint Andrews
+Viktoria Pammer-Schindler,Graz University of Technology
+Xu Wang,Carnegie Mellon University
+Munmun Chaudhury,Georgia Tech
+Thomas Ludwig,University of Siegen
+Max Krüger,University of Siegen
+Alexander Boden,Fraunhofer FIT
+Casey Dugan,IBM
+Clemens Nylandsted Klokmose,Aarhus University
+Elizabeth Murnane,Dartmouth College
+Fabiano Pinatti,University of Siegen
+Haiyi Zhu,Carnegie Mellon University
+Ingmar Weber,Qatar Computing Research Institute
+Jed Brubaker,CU Boulder
+Jacob Thebault-Spieker,Virginia Tech
+Jalal Mahmud,IBM Research
+Matthieu Tixier,University of Troyes
+Mike Clarke,Facebook
+Michael Prilla,TU Clausthal
+Mor Naaman,Cornell Tech
+Nicholas Diakopoulos,Northwestern University
+Niels van Berkel,Aalborg University
+Robert Soden,University of Colorado
+Stevie Chancellor,Northwestern University
+Tawfiq Ammari,University of Michigan
+Thomas Olsson,Tampere University
+Liam D. Turner,Cardiff University
+Vivek Singh,Rutgers University
+Yelena Mejova,ISI Foundation
+Kathrin Gerling,KU Leuven
+Pejman Mirza-Babaei,Ontario Tech University
+Maria Aufheimer,KU Leuven
+Z Toups,New Mexico State University
+Richard Wetzel,Hochschule Luzern
+Jinghui Cheng,Polytechnique Montréal
+Perttu Hamalainen,Aalto University
+Casper Harteveld,Northeastern University
+Günter Wallner,TU Eindhoven
+Loutfouz Zaman,Ontario Tech University
+Simone Kriglstein,University of Vienna
+Nicholas Graham,Queen's University
+April Tyack,Aalto University
+Alena Denisova,City University London
+Jim Wallace,University of Waterloo
+Jessica Hammer,Carnegie Mellon University
+Elizabeth Bonsignore,University of Maryland
+Katja Rogers,University of Waterloo
+Annika Waern,Uppsala University
+Penny Kyburz,Australian National University
+Melissa Rogerson,University of Melbourne
+Oğuz 'Oz' Buruk,Tampere University
+Madison Klarkowski,University of Saskatchewan
+Apu Kapadia,Indiana University
+Emilee Rader,Michigan State University
+Megan Knittel,Michigan State University
+Yasemin Acar,Leibniz University Hannover
+Alexander De Luca,Google Inc.
+Chris Kanich,"University of Illinois, Chicago"
+Eran Toch,Tel Aviv University
+Florian Schaub,"University of Michigan, Ann Arbor"
+Gunnar Stevens,University of Siegen
+Janne Lindqvist,"Aalto, Rutgers"
+Jose Such,King's College London
+Katharina Krombholz,"CISPA Helmholtz Center for Information Security (Saarbrücken, Germany)"
+Lujo Bauer,Carnegie Mellon University
+Lynne Coventry,Northumbria University
+Mainack Mondal,IIT Kharagpur
+Manya Sleeper,Google Inc.
+Marc Langheinrich,"University of Lugano, Università della Svizzera italiana (USI)"
+Marshini Chetty,University of Chicago
+Mohamed Khamis,University of Glasgow
+Alena Naiakshina,Rheinische Friedrich-Wilhelms-Universität Bonn
+Nora McDonald,UMBC
+Kent Seamons,Brigham Young University
+Shion Guha,Marquette University
+Tousif Ahmed,Samsung Research
+Yaxing Yao,Carnegie Mellon University
+Yang Wang,University of Illinois at Urbana-Champaign
+Zinaida Benenson,University of Erlangen-Nuremberg
+Niklas Elmqvist,University of Maryland
+Bongshin Lee,Microsoft
+Tongshuang (Sherry) Wu,University of Washington
+Alvitta Ottley,Washington University of St. Louis
+Anastasia Bezerianos,University of Paris-Saclay
+Bum Chul Kwon,IBM Research
+Danielle Albers Szafir,University of Colorado Boulder
+Eytan Adar,University of Michigan
+Kim Marriott,Monash University
+Kwan-Liu Ma,"University of California, Davis"
+Leilani Battle,"University of Maryland, College Park"
+Lyn Bartram,Simon Fraser University
+Matthew Kay,Northwestern University
+Melanie Tory,Tableau Software
+Miguel Nacenta,University of Victoria
+Rita Borgo,King's College London
+Ron Metoyer,University of Notre Dame
+Shixia Liu,Tsinghua University
+Tamara Munzner,University of British Columbia
+Vidya Setlur,Tableau Research
+Nadia Boukhelifa,INRAE
+Raimund Dachselt,Technische Universität Dresden
+Jinwook Seo,Seoul National University
+Jo Vermeulen,Autodesk Research
+Khairi Reda,Indiana University-Purdue University Indianapolis
+Xiaoru Yuan,Peking University
+Adam Perer,Carnegie Mellon University
+Xianghua Ding,Fudan University
+Gavin Doherty,Trinity College Dublin
+Kevin Doherty,Technical University of Denmark
+Eun Kyoung Choe,University of Maryland
+Marilyn Lennon,University of Strathclyde
+Yixuan (Janice) Zhang,Georgia Institute of Technology
+Xinning Gui,Penn State University
+Amanda Lazar,"University of Maryland, College Park"
+David Coyle,University College Dublin
+Aisling O’Kane,University of Bristol
+Sun Young Park,University of Michigan
+Francisco Nunes,Fraunhofer Portugal AICOS
+Ignacio Avellino,University of Maryland Baltimore County
+Swamy Ananthanarayan,"Monash University, Melbourne"
+Eric Hekler,UC San Diego
+Lauren Wilcox,GeogiaTech/Google
+Mohit Jain,Microsoft Research India
+Ryan M. Kelly,University of Melbourne
+Nervo Verdezoto,Cardiff University
+Stephanie Wilson,"City University, London"
+Daniel Epstein,"University of California, Irvine"
+Pin Sym Foong,National University of Singapore
+Xiaojuan Ma,Hong Kong University of Science and Technology
+Greg Wadley,University of Melbourne
+Stephen Schueller,University of California Irvine
+Hao-Hua Chu,National Taiwan University
+Christina Chung,Indiana University
+Mayank Goel,Carnegie Mellon University
+Kellie Morrissey,University of Limerick
+Pedja Klasnja,University of Michigan
+Elizabeth Eikey,UC San Diego
+Roisin McNaney,Monash University
+Sonali Mishra,University of Washington
+Troels Mønsted,"Roskilde University, Roskilde, Denmark"
+Lisa Vizer,University of North Carolina at Chapel Hill
+Susanne Boll,University of Oldenburg
+Cosmin Munteanu,University of Toronto
+Christina Schneegass,Ludwig-Maximilians-Universität München
+Aisling Kelliher,Virginia Tech
+Amy Hurst,NYU
+Aqueasha Martin-Hammond,Indiana University - Purdue University Indianapolis
+Benjamin Gorman,Bournemouth University
+Carolyn Pang,McGill University
+Dafne Zuleima Morgado Ramirez,University College London
+Danielle Bragg,Microsoft Research
+Dragan Ahmetovic,University of Milan
+Fabio Paterno,CNR Italy
+Foad Hamidi,U of Maryland
+Frank Steinicke,University of Hamburg
+Helen Petrie,University of York
+Jenny Waycott,U of Melbourne
+João Guerreiro,Universidade de Lisboa
+Josep Blat,Universitat Pompeu Fabra
+Kathleen McCoy,University of Delaware
+Kyle Rector,U of Iowa
+Martez Mott,Microsoft Research
+Michael Crabb,Univ of Dundee
+Mingming Fan,Rochester Institute of Technology
+Robin Brewer,U of Michigan
+Shaomei Wu,Facebook
+Shaun Kane,University of Colorado Boulder
+Stacy Branham,U of California
+Sunyoung Kim,Rutgers
+Timothy Neate,King's College London
+Uran Oh,Ewha Woman's University
+Wilko Heuten,OFFIS Institute for IT
+Yasamin Heshmat,Simon Fraser University
+Kristina Andersen,TU Eindhoven
+Christopher Le Dantec,Georgia Tech
+Alyssa Rumsey,Georgia Tech
+Jeffrey Bardzell,Pennsylvania State University
+Marianna Obrist,University College London
+Fernando Maestre,Indiana University
+James Pierce,University of Washington
+Will Odom,SFU
+Tom Jenkins,ITU
+Marti Louw,CMU
+Steven Dow,UCSD
+Christina Harrington,DePaul
+Michael Nitsche,GaTech
+Jonas Fritsch,ITU
+Peter Krogh,Aarhus University
+Stacey Kuznetsov,Arizona
+Maliheh Ghajargar,Malmo
+Colin Gray,Purdue
+Patrizia Marti,University of Siena
+Pedro Sanches,KTH
+Rachel Clarke,Northumbria University
+Marie Louise Juul Søndergaard,KTH
+Chris Elsden,University of Edinburgh
+David Chatting,Goldsmiths
+Vasiliki Tsaknaki,IT University of Copenhagen (ITU)
+Daisy Yoo,TU Eindhoven
+Yaliang Chuang,TU Eindhoven
+Emeline Brulé,Sussex University
+Karin Slegers,Tilburg University
+Corina Sas,Lancaster University
+Rohit Ashok Khot,RMIT University
+Bruna Petreca,RCA
+Parinya Punpongsanon,Osaka University
+Shaun Lawson,Northumbria University
+Paul Strohmeier,Saarland University
+Ana Tajadura-Jiménez,Universidad Carlos III de Madrid
+Verena Fuchsberger,University of Salzburg
+Michael Lankes,FH Hagenberg
+Laura Maye,University College Cork
+Marion Koelle,Saarland University
+Oliver Schneider,University of Waterloo
+Szu-Yu (Cyn) Liu,Indiana University
+Heekyoung Jung,University of Cincinnati
+Netta Iivari,Oulu University
+Troy Nachtigal,"HvA, Amsterdam"
+Johanna Ylipulli,Aalto University
+Vasilis Vlachokyriakos,University of Newcastle
+Eunice Sari,UX Indonesia
+Sebastian Boring,Aalborg University Copenhagen
+Christian Holz,ETH Zurich
+Alyssa Rumsey,Georgia Tech
+Jeffrey Bardzell,Pennsylvania State University
+Marianna Obrist,University College London
+Fernando Maestre,Indiana University
+Mike Chen,National Taiwan University
+Anne Roudaut,University of Bristol
+Sean Follmer,Stanford University
+Ollie Hanton,University of Bristol
+Aakar Gupta,Facebook
+Alanson Sample,University of Michigan
+Alex Mariakakis,University of Washington
+Alexandra Ion,ETH Zürich
+Aluna Everitt,University of Bristol
+Andrea Bianchi,KAIST
+Andreas Fender,University of Sussex
+Andy Wilson,Microsoft Research
+Céline Coutrix,CNRS Grenoble
+Christine Dierk,UC Berkeley
+David Holman,Tactual Labs
+David Lindlbauer,ETH Zürich
+Diego Martinez Plasencia,University of Sussex
+Eric Whitmire,Facebook Reality Labs
+Erin Solovey,Worcester Polytechnic Institute
+Eve Hoggan,Aarhus University
+Eyal Ofek,Microsoft Research
+Florian Echtler,Bauhaus-Universität Weimar
+Fraser Anderson,Autodesk Research
+Hans Gellersen,Aarhus University
+Hasti Seifi,Max Planck Institute
+Hyunyoung Kim,University of Copenhagen
+Jan Borchers,RWTH Aachen
+Jason Alexander,University of Bath
+Jennifer Pearson,Swansea University
+Jürgen Steimle,Saarland University
+Kashyap Todi,Aalto University
+Laura Trutoiu,Magic Leap
+Lining Yao A F Am,Carnegie Mellon University
+Liwei Chen,NCTU Taiwan
+Lung-Pan Cheng,National Taiwan University
+Marcos Serrano,University of Toulouse
+Marynel Vázquez,Yale University
+Michael Haller,University of Applied Sciences Upper Austria
+Mike Fraser,University of Bath
+Misha Sra,UC Santa Barbara
+Oussama Metatla,University of Bristol
+Peggy Chi,Google
+Raf Ramakers,Hasselt University
+Ruta Desai,Facebook
+Sara Nabil,Queen's University
+Shengdong Zhao,National University of Singapore
+Simon Robinson,Swansea University
+Simon Voelker,RWTH Aachen University
+Steve Feiner,Columbia University
+Steven Houben,Lancaster University
+Takuji Narumi,University of Tokyo
+Thomas Pietrzak,University of Lille
+Tovi Grossman,University of Toronto
+Valkyrie Savage,Tactual Labs
+Xiaojun Bi,Stony Brook University
+Yuhang Zhao,Cornell Tech
+Gary Hsieh,University of Washington
+Maria Wolters,University of Edinburgh
+Duncan Reid,University of Edinburgh
+Peter Tolmie,University of Siegen
+Naomi Yamashita,NTT
+Chi-Lan Yang,University of Tokyo
+Neha Kumar,Georgia Tech
+Max Wilson,University of Nottingham
+Naveena Karusala,University of Washington
+Alexandra Papoutsaki,"Pomona College, USA"
+Aske Mottelson,"University of Copenhagen, Denmark"
+Stanley Chang,"National Chiao Tung University, Taiwan"
+Cristian Bogdan,"KTH, Sweden"
+Dave Murray-Rust,"University of Edinburgh, USA"
+Yvette Wohn,"New Jersey Institute of Technology, USA"
+Guihuan Feng,"Nanjing University, China"
+Jamy Li,"University of Twente, Netherlands"
+Janet Huang,"Technical University of Eindhoven, Netherlands"
+Joel Chan,"University of Maryland, USA"
+Lionel Robert,"University of Michigan, USA"
+Martin Flintham,"Nottingham University, UK"
+Sven Mayer,"Carnegie Mellon University, USA"
+Mia Suh,"Google, USA"
+Mihaela Vorvoreanu,"Microsoft, USA"
+Nikolas Martelaro,"Carnegie Mellon University, USA"
+Paul Parsons,"Purdue University, USA"
+Patrick Shih,"Indiana University, USA"
+Sucheta Ghoshal,"Georgia Tech, USA"
+Tonja Machulla,"Ludwig Maximilian University Munich, Germany"
+Annika Hupfeld,"Eindhoven University of Technology, Netherlands"
+Claudia-Lavinia Ignat,"LORIA-Inria, France"
+Dakuo Wang,"IBM Research, USA"
+Ewa Luger,"University of Edinburgh, UK"
+Ge Gao,"University of Maryland, USA"
+Hwajung Hong,"Seoul National University, Korea"
+Jina Huh-Yoo,"Drexel University, USA"
+Joel Fischer,"University of Nottingham, UK"
+John Tang,"Microsoft Research, USA"
+Lizzie Coles-Kemp,"Royal Holloway University London, UK"
+Mark Rouncefield,"Lancaster University, UK"
+Maria Roussou,"National and Kapodistrian University of Athens, Greece"
+Hideyuki Nakanishi,"Osaka University, Japan"
+Patricia Cornelio Martinez,"University College London, UK"
+Daisuke Sakamoto,"Hokkaido University, Japan"
+Sanorita Dey,"University of Maryland, USA"
+Simon Perrault,"Singapore University of Technology and Design, Singapore"
+Yasuyuki Sumi,"Future University Hakodate, Japan"
+Tesh Goyal,"Google, USA"
+Tommaso Colombino,"Naver Labs, France"
+Tone Bratteteig,Unknown
+Uichin Lee,"Korea Advanced Institute of Science and Technology, Korea"
+Vanessa Evers,"Nanyang Technological University, Singapore"
+Yubo Kou,"Pennsylvania State University, USA"
+Yun Huang,"University of Illinois at Urbana-Champaign, USA"
+Ben Cowan,"University College Dublin, Ireland"
+Boriana Koleva,"University of Nottingham, UK"
+Can Liu,"City University of Hong Kong, Hong Kong"
+Carla Griggio,"Aarhus University, Denmark"
+Lewis Chuang,"Ludwig-Maximilian-Universität München, Germany"
+Elena Agapie,"UC Irvine, USA"
+Eva Hornecker,"Bauhaus-Universität Weimar, Germany"
+Heloisa Candello,"IBM Research, Brazil"
+Horia Maior,"University of Lincoln, UK"
+John Rooksby,"Northumbria University, UK"
+Luigi De Russis,"Politecnico di Torino, Italy"
+Max Birk,"TU Eindhoven University of Technology, Netherlands"
+Ming Yin,"Purdue University, USA"
+Michael Madaio,"Microsoft Research, USA"
+Bonnie Nardi,"UC Irvine, USA"
+Nithya Sambasivan,"Google AI, USA"
+Paula Lago,"Kyushu Institute of Technology, Japan"
+Phil Palanque,"Université Paul Sabatier – Toulouse 3, France"
+Pernilla Qvarfordt,"eBay, USA"
+Sauvik Das,"Georgia Tech, USA"
+Susan Fussell,"Cornell University, USA"
+Shagun Jhaver,"University of Washington, USA"
+Ding Wang,"Microsoft Research, India"
+Loren Terveen,"University of Minnesota, USA"
+Kentaro Toyama,"University of Michigan, USA"
+Shumin Zhai,"Google, USA"
+Jakita O. Thomas,"Auburn University, USA"
+Caroline Appert,"CNRS, Université Paris Saclay"
+Carl Gutwin,University of Saskatchewan
+Eugénie Brasier,CNRS & Université Paris Saclay
+Alix Goguey,Université Grenoble-Alpes
+Amy Zhang,University of Washington
+Barrett Ens,Monash University
+Bjoern Hartmann,University of California Berkeley
+Andrea Bunt,University of Manitoba
+Charles Perin,University of Victoria
+Lap-Fai (Craig),George Mason University
+Daniel Leithinger,University of Colorado
+Emmanuel Pietriga,Inria
+Elena L. Glassman,Harvard
+Huaishu Peng,University of Maryland
+Jeffrey Bigham,Carnegie Mellon University
+Jessica Cauchard,Ben Gurion University of the Negev
+Jeff Nichols,Apple
+Julian Frommel,University of Saskatchewan
+Jun Kato,National Institute of Advanced Industrial Science and Technology (AIST)
+Michelle Annett,MishMashMakers
+Rong-Hao Liang,Eindhoven University of Technology
+Radu-Daniel Vatavu,"University Stefan cel Mare of Suceava, Romania"
+Ruofei Du,Google
+Scott Bateman,University of New Brunswick
+Stéphane Huot,Inria
+Sylvain Malacria,Inria
+Valentina Shin,Adobe Research
+Joel Lanir,University of Haifa
+Shaowen Bardzell,Pennsylvania State University
+Rob Comber,Royal Institute of Technology Stockholm
+Patrycja Zdziarska,Indiana University (USA)
+Amanda Menking,U of Toronto
+Angelika Strohmayer,Northumbria University
+Bryan Semaan,Syracuse U
+Chiara Rossitto,Stockholm University
+Clara Crivellaro,Newcastle
+Deborah Tatar,Virginia Tech
+Eli Blevis,Indiana University
+Gopianath Kanabiran,Aarhus Univ
+Syed Ishtiaque Ahmed,U of Toronto
+Jennifer Rode,UCL
+John Vines,Northumbria University
+Katta Spiel,KU Leuven || Universität Wien
+Lone Hansen,Aarhus Univ
+Silvia Lindtner,U of Michigan
+Lilly Irani,UCSD
+Lynn Dombrowski,IUPUI
+Mark Blythe,Northumbria University
+Maurizio Teli,Aalborg Univ
+Melissa Densmore,University of Cape Town
+Michael Mueller,IBM
+Niloufar Salehi,Berkeley
+Reem Talhouk,Newcastle
+Sarah Fox,CMU
+Steve Jackson,Cornell
+Steve Harrison,Virginia Tech
+Teresa Almeida,ITU
+Tessy Cerrantto Pargman,Stockholm University
+Austin Toombs,Purdue
+Victor Kaptelinin,Umea University
+Volker Wulf,U of Siegen
+Rebecca Fiebrink,"Creative Computing Institute, University of the Arts London"
+Per Ola Kristensson,University of Cambridge
+Esben Sørig,Goldsmiths University of London
+Andrew Howes,University of Birmingham
+Azza Abouzied,NYU Abu Dhabi
+Abby Liu,IRCAM
+Yea-Seul Kim,University of Wisconsin-Madison
+Antti Oulasvirta,Aalto University
+Amy Pavel,"Carnegie Mellon, Apple"
+Brian Lim,National University of Singapore
+Byungjoo Lee,KAIST
+Gonzalo Ramos,Microsoft Research
+John Dudley,University of Cambridge
+John Williamson,University of Glasgow
+John Zimmerman,Carnegie Mellon
+Krzysztof Gajos,Harvard University
+Samantha Krening,Ohio State University
+Marco Gillies,Goldsmiths University of London
+Mike Schaekermann,Amazon AI
+Nikola Banovic,Michigan
+Otmar Hilliges,ETH Zurich
+Mark Riedl,Georgia Tech
+Roderick Murray-Smith,University of Glasgow
+Simone Stumpf,City University of London
+Vera Liao,IBM
+Xiang ‘Anthony’ Chen,UCLA
